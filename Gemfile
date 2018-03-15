@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'modsulator'
+gem 'stanford-mods-normalizer'
 gem 'honeybadger'
 
 
