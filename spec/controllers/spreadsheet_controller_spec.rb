@@ -3,16 +3,15 @@ require 'rails_helper'
 RSpec.describe SpreadsheetController, type: :controller do
 
   describe 'GET #index' do
-    it 'returns http success' do
-      get :index
-      expect(response).to have_http_status(:success)
+    let(:io) { StringIO.new("The file contents")}
+    before do
+      allow(Modsulator).to receive(:get_template_spreadsheet).and_return(io)
     end
 
-    it 'returns the correct spreadsheet template' do
+    it 'returns the spreadsheet template' do
       get :index
-      downloaded_binary_string = response.body
-      expected_binary_string = IO.read(File.join(FIXTURES_DIR, 'modsulator_template.xlsx'), mode: 'rb')
-      expect(downloaded_binary_string).to eq(expected_binary_string)
+      expect(response).to have_http_status(:success)
+      expect(response.body).to eq "The file contents"
     end
   end
 end
