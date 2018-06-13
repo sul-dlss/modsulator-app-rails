@@ -70,6 +70,8 @@ GEM
       thor (~> 0.19.4)
       tins (~> 1.6)
     crass (1.0.3)
+    deprecation (0.99.0)
+      activesupport
     diff-lcs (1.3)
     dlss-capistrano (3.4.1)
       capistrano (~> 3.0)
@@ -99,11 +101,13 @@ GEM
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
     minitest (5.11.3)
-    modsulator (1.0.5)
+    modsulator (1.1.0)
       activesupport
+      deprecation (~> 0)
       equivalent-xml (>= 0.6.0)
       nokogiri
       roo (= 2.5.1)
+      stanford-mods-normalizer (~> 0.1)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (4.2.0)
@@ -208,7 +212,7 @@ DEPENDENCIES
   equivalent-xml (>= 0.6.0)
   honeybadger
   listen (~> 3.0.5)
-  modsulator
+  modsulator (~> 1.1)
   puma (~> 3.0)
   rails (~> 5.0.2)
   rspec-rails (~> 3.5)
