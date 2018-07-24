@@ -1,9 +1,9 @@
 set :application, 'modsulator-app'
-set :repo_url, 'https://github.com/sul-dlss/modsulator-app'
+set :repo_url, 'https://github.com/sul-dlss/modsulator-app-rails'
 
 # Default branch is :master
 ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
-set :deploy_to, "/opt/app/modsulator/modsulator-app"
+set :deploy_to, "/opt/app/modsulator/modsulator-app-rails"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
