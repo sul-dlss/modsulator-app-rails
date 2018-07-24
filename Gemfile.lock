@@ -61,6 +61,9 @@ GEM
       capistrano (~> 3.0)
     capistrano-passenger (0.2.0)
       capistrano (~> 3.0)
+    capistrano-rails (1.4.0)
+      capistrano (~> 3.1)
+      capistrano-bundler (~> 1.1)
     capistrano-shared_configs (0.2.2)
     concurrent-ruby (1.0.5)
     coveralls (0.8.21)
@@ -204,9 +207,8 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  capistrano
-  capistrano-bundler
   capistrano-passenger
+  capistrano-rails
   coveralls
   dlss-capistrano
   equivalent-xml (>= 0.6.0)
