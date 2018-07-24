@@ -32,8 +32,7 @@ group :development do
 end
 
 group :deploy do
-  gem 'capistrano'
-  gem 'capistrano-bundler'
+  gem 'capistrano-rails'
   gem 'capistrano-passenger'
   gem 'dlss-capistrano'
 end
