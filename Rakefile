@@ -4,3 +4,11 @@
 require_relative 'config/application'
 
 Rails.application.load_tasks
+
+Rake::Task['spec'].clear
+RSpec::Core::RakeTask.new(:spec) do |t|
+  t.pattern = 'spec/**/*_spec.rb'
+  
+  # The modsulator integration_tests are very slow
+  t.exclude_pattern = 'spec/integration_tests/*_spec.rb'
+end

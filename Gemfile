@@ -5,15 +5,17 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'modsulator', '~> 1.2'
-gem 'stanford-mods-normalizer'
-gem 'honeybadger'
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.2'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
+
+gem 'stanford-mods-normalizer'
+gem 'roo', '>= 2.7.1'
+gem 'honeybadger'
+gem 'deprecation'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
