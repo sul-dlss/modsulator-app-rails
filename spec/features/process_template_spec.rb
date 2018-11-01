@@ -1,11 +1,4 @@
 RSpec.describe Modsulator do
-  before :all do
-    # Create common variables shared across tests and clear out temp directory
-    @tmp_dir      = Rails.root.join('tmp', 'modsulator')
-    Dir.mkdir(@tmp_dir) unless Dir.exist?(@tmp_dir)
-    Dir.foreach(@tmp_dir) {|f| fn = File.join(@tmp_dir, f); File.delete(fn) if f != '.' && f != '..' && !File.directory?(fn)}
-  end
-
   describe "initialized" do
     {
       'edition_physLoc_intmediatype.xlsx' => 'Excel Workbook',
@@ -17,9 +10,5 @@ RSpec.describe Modsulator do
         expect(generated_xml).to be_equivalent_to(expected_xml).ignoring_attr_values('datetime', 'sourceFile')
       end
     end
-  end
-
-  after :all do
-    Dir.foreach(@tmp_dir) {|f| File.delete(File.join(@tmp_dir, f)) if f != '.' && f != '..' && !File.directory?(f)}
   end
 end
