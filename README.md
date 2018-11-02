@@ -14,3 +14,19 @@ GET  /v1/spreadsheet
 POST /v1/modsulator
 POST /v1/normalizer
 ```
+
+
+## Installing
+
+```shell
+git checkout https://github.com/sul-dlss/modsulator-app-rails.git
+cd modsulator-rails-app
+bundle install
+```
+
+## Command line tool
+
+You can transform a spreadsheet using the command line tool by doing:
+```shell
+./bin/modsulator spec/fixtures/M1463_AV_manifest.xlsx > output.xml
+```

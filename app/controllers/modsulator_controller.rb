@@ -5,6 +5,6 @@ class ModsulatorController < ApplicationController
   end
 
   def version
-    render plain: Gem.loaded_specs['modsulator'].version.version
+    render plain: '2.0.0'
   end
 end

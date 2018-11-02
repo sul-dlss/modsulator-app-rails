@@ -1,8 +1,6 @@
 *.rbc
 capybara-*.html
 .rspec
-/log
-/tmp
 /db/*.sqlite3
 /db/*.sqlite3-journal
 /public/system
@@ -14,6 +12,13 @@ pickle-email-*.html
 
 # TODO Comment out these rules if you are OK with secrets being uploaded to the repo
 config/initializers/secret_token.rb
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+.tmp
+!/log/.keep
+!/tmp/.keep
 
 # dotenv
 # TODO Comment out this rule if environment variables can be committed
