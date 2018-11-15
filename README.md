@@ -4,7 +4,9 @@
 
 # modsulator-app-rails
 
-A Rails API for the [MODSulator](https://github.com/sul-dlss/modsulator). This API is used by Argo for spreadsheet bulk upload.
+This includes the `modsulator` CLI utility which is distributed as a Ruby gem.
+
+It also has a Rails API that exposes this functionality as a web service. This API is used by Argo for spreadsheet bulk upload.
 
 
 Provides the following endpoints:
