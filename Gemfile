@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.1.0'
+gem 'rails', '~> 5.2.0'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
@@ -16,6 +16,9 @@ gem 'roo', '>= 2.7.1'
 gem 'honeybadger'
 gem 'deprecation'
 
+
+# Reduces boot times through caching; required in config/boot.rb
+gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
