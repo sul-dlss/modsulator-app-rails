@@ -1803,6 +1803,339 @@
       </extent>
     </part>
   </relatedItem>
+  <relatedItem type="[[ri4:type]]" displayLabel="[[ri4:displayLabel]]">
+    <titleInfo>
+      <title>[[ri4:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri4:url]]</url>
+    </location>
+    <abstract>[[ri4:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri5:type]]" displayLabel="[[ri5:displayLabel]]">
+    <titleInfo>
+      <title>[[ri5:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri5:url]]</url>
+    </location>
+    <abstract>[[ri5:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri6:type]]" displayLabel="[[ri6:displayLabel]]">
+    <titleInfo>
+      <title>[[ri6:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri6:url]]</url>
+    </location>
+    <abstract>[[ri6:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri7:type]]" displayLabel="[[ri7:displayLabel]]">
+    <titleInfo>
+      <title>[[ri7:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri7:url]]</url>
+    </location>
+    <abstract>[[ri7:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri8:type]]" displayLabel="[[ri8:displayLabel]]">
+    <titleInfo>
+      <title>[[ri8:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri8:url]]</url>
+    </location>
+    <abstract>[[ri8:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri9:type]]" displayLabel="[[ri9:displayLabel]]">
+    <titleInfo>
+      <title>[[ri9:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri9:url]]</url>
+    </location>
+    <abstract>[[ri9:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri10:type]]" displayLabel="[[ri10:displayLabel]]">
+    <titleInfo>
+      <title>[[ri10:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri10:url]]</url>
+    </location>
+    <abstract>[[ri10:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri11:type]]" displayLabel="[[ri11:displayLabel]]">
+    <titleInfo>
+      <title>[[ri11:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri11:url]]</url>
+    </location>
+    <abstract>[[ri11:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri12:type]]" displayLabel="[[ri12:displayLabel]]">
+    <titleInfo>
+      <title>[[ri12:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri12:url]]</url>
+    </location>
+    <abstract>[[ri12:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri13:type]]" displayLabel="[[ri13:displayLabel]]">
+    <titleInfo>
+      <title>[[ri13:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri13:url]]</url>
+    </location>
+    <abstract>[[ri13:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri14:type]]" displayLabel="[[ri14:displayLabel]]">
+    <titleInfo>
+      <title>[[ri14:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri14:url]]</url>
+    </location>
+    <abstract>[[ri14:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri15:type]]" displayLabel="[[ri15:displayLabel]]">
+    <titleInfo>
+      <title>[[ri15:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri15:url]]</url>
+    </location>
+    <abstract>[[ri15:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri16:type]]" displayLabel="[[ri16:displayLabel]]">
+    <titleInfo>
+      <title>[[ri16:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri16:url]]</url>
+    </location>
+    <abstract>[[ri16:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri17:type]]" displayLabel="[[ri17:displayLabel]]">
+    <titleInfo>
+      <title>[[ri17:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri17:url]]</url>
+    </location>
+    <abstract>[[ri17:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri18:type]]" displayLabel="[[ri18:displayLabel]]">
+    <titleInfo>
+      <title>[[ri18:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri18:url]]</url>
+    </location>
+    <abstract>[[ri18:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri19:type]]" displayLabel="[[ri19:displayLabel]]">
+    <titleInfo>
+      <title>[[ri19:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri19:url]]</url>
+    </location>
+    <abstract>[[ri19:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri20:type]]" displayLabel="[[ri20:displayLabel]]">
+    <titleInfo>
+      <title>[[ri20:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri20:url]]</url>
+    </location>
+    <abstract>[[ri20:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri21:type]]" displayLabel="[[ri21:displayLabel]]">
+    <titleInfo>
+      <title>[[ri21:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri21:url]]</url>
+    </location>
+    <abstract>[[ri21:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri22:type]]" displayLabel="[[ri22:displayLabel]]">
+    <titleInfo>
+      <title>[[ri22:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri22:url]]</url>
+    </location>
+    <abstract>[[ri22:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri23:type]]" displayLabel="[[ri23:displayLabel]]">
+    <titleInfo>
+      <title>[[ri23:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri23:url]]</url>
+    </location>
+    <abstract>[[ri23:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri24:type]]" displayLabel="[[ri24:displayLabel]]">
+    <titleInfo>
+      <title>[[ri24:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri24:url]]</url>
+    </location>
+    <abstract>[[ri24:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri25:type]]" displayLabel="[[ri25:displayLabel]]">
+    <titleInfo>
+      <title>[[ri25:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri25:url]]</url>
+    </location>
+    <abstract>[[ri25:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri26:type]]" displayLabel="[[ri26:displayLabel]]">
+    <titleInfo>
+      <title>[[ri26:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri26:url]]</url>
+    </location>
+    <abstract>[[ri26:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri27:type]]" displayLabel="[[ri27:displayLabel]]">
+    <titleInfo>
+      <title>[[ri27:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri27:url]]</url>
+    </location>
+    <abstract>[[ri27:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri28:type]]" displayLabel="[[ri28:displayLabel]]">
+    <titleInfo>
+      <title>[[ri28:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri28:url]]</url>
+    </location>
+    <abstract>[[ri28:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri29:type]]" displayLabel="[[ri29:displayLabel]]">
+    <titleInfo>
+      <title>[[ri29:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri29:url]]</url>
+    </location>
+    <abstract>[[ri29:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri30:type]]" displayLabel="[[ri30:displayLabel]]">
+    <titleInfo>
+      <title>[[ri30:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri30:url]]</url>
+    </location>
+    <abstract>[[ri30:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri31:type]]" displayLabel="[[ri31:displayLabel]]">
+    <titleInfo>
+      <title>[[ri31:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri31:url]]</url>
+    </location>
+    <abstract>[[ri31:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri32:type]]" displayLabel="[[ri32:displayLabel]]">
+    <titleInfo>
+      <title>[[ri32:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri32:url]]</url>
+    </location>
+    <abstract>[[ri32:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri33:type]]" displayLabel="[[ri33:displayLabel]]">
+    <titleInfo>
+      <title>[[ri33:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri33:url]]</url>
+    </location>
+    <abstract>[[ri33:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri34:type]]" displayLabel="[[ri34:displayLabel]]">
+    <titleInfo>
+      <title>[[ri34:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri34:url]]</url>
+    </location>
+    <abstract>[[ri34:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri35:type]]" displayLabel="[[ri35:displayLabel]]">
+    <titleInfo>
+      <title>[[ri35:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri35:url]]</url>
+    </location>
+    <abstract>[[ri35:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri36:type]]" displayLabel="[[ri36:displayLabel]]">
+    <titleInfo>
+      <title>[[ri36:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri36:url]]</url>
+    </location>
+    <abstract>[[ri36:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri37:type]]" displayLabel="[[ri37:displayLabel]]">
+    <titleInfo>
+      <title>[[ri37:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri37:url]]</url>
+    </location>
+    <abstract>[[ri37:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri38:type]]" displayLabel="[[ri38:displayLabel]]">
+    <titleInfo>
+      <title>[[ri38:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri38:url]]</url>
+    </location>
+    <abstract>[[ri38:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri39:type]]" displayLabel="[[ri39:displayLabel]]">
+    <titleInfo>
+      <title>[[ri39:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri39:url]]</url>
+    </location>
+    <abstract>[[ri39:abstract]]</abstract>
+  </relatedItem>
+  <relatedItem type="[[ri40:type]]" displayLabel="[[ri40:displayLabel]]">
+    <titleInfo>
+      <title>[[ri40:title]]</title>
+    </titleInfo>
+    <location>
+      <url>[[ri40:url]]</url>
+    </location>
+    <abstract>[[ri40:abstract]]</abstract>
+  </relatedItem>
   <extension displayLabel="geo">
     <rdf:RDF xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gmd="http://www.isotc211.org/2005/gmd">
       <rdf:Description rdf:about="[[ext:purl]]">
