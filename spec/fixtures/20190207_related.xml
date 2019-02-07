@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2019-02-07 03:33:15PM" sourceFile="20190207_related.csv">
+  <xmlDoc id="descMetadata" objectId="aa111aa1111">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>ti1:title</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <relatedItem type="host" displayLabel="ri1:displayLabel">
+        <titleInfo>
+          <title>ri1:title</title>
+        </titleInfo>
+        <name type="personal" authority="ri1:na1:authority" authorityURI="ri1:na1:authorityURI" valueURI="ri1:na1:valueURI">
+          <namePart>ri1:na1:namePart</namePart>
+          <role>
+            <roleTerm type="code" authority="ri1:ro1:authority" authorityURI="ri1:ro1:authorityURI" valueURI="ri1:ro1:valueURI">ri1:ro1:roleCode</roleTerm>
+            <roleTerm type="text" authority="ri1:ro1:authority" authorityURI="ri1:ro1:authorityURI" valueURI="ri1:ro1:valueURI">ri1:ro1:roleText</roleTerm>
+          </role>
+          <role>
+            <roleTerm type="code" authority="ri1:ro1:authority2" authorityURI="ri1:ro1:authorityURI2" valueURI="ri1:ro1:valueURI2">ri1:ro1:roleCode2</roleTerm>
+            <roleTerm type="text" authority="ri1:ro1:authority2" authorityURI="ri1:ro1:authorityURI2" valueURI="ri1:ro1:valueURI2">ri1:ro1:roleText2</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marcgac" authorityURI="ri1:pl:authorityURI" valueURI="ri1:pl:valueURI">ri1:pl:placeCode</placeTerm>
+            <placeTerm type="text" authority="marcgac" authorityURI="ri1:pl:authorityURI" valueURI="ri1:pl:valueURI">ri1:pl:placeText</placeTerm>
+          </place>
+          <publisher>ri1:or:publisher</publisher>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">ri1:dt:dateCreated</dateCreated>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="end">ri1:dt:dateCreated2</dateCreated>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">ri1:dt:dateIssued</dateIssued>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="end">ri1:dt:dateIssued2</dateIssued>
+        </originInfo>
+        <identifier type="ri1:id1:type" displayLabel="ri1:id1:displayLabel">ri1:id1:identifier</identifier>
+        <identifier type="ri1:id2:type" displayLabel="ri1:id2:displayLabel">ri1:id2:identifier</identifier>
+        <identifier type="ri1:id3:type" displayLabel="ri1:id3:displayLabel">ri1:id3:identifier</identifier>
+        <location>
+          <url>ri1:url</url>
+        </location>
+        <abstract>ri1:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri2:displayLabel">
+        <titleInfo>
+          <title>ri2:title</title>
+        </titleInfo>
+        <name type="personal" authority="ri2:na1:authority" authorityURI="ri2:na1:authorityURI" valueURI="ri2:na1:valueURI">
+          <namePart>ri2:na1:namePart</namePart>
+          <role>
+            <roleTerm type="code" authority="ri2:ro1:authority" authorityURI="ri2:ro1:authorityURI" valueURI="ri2:ro1:valueURI">ri2:ro1:roleCode</roleTerm>
+            <roleTerm type="text" authority="ri2:ro1:authority" authorityURI="ri2:ro1:authorityURI" valueURI="ri2:ro1:valueURI">ri2:ro1:roleText</roleTerm>
+          </role>
+          <role>
+            <roleTerm type="code" authority="ri2:ro1:authority2" authorityURI="ri2:ro1:authorityURI2" valueURI="ri2:ro1:valueURI2">ri2:ro1:roleCode2</roleTerm>
+            <roleTerm type="text" authority="ri2:ro1:authority2" authorityURI="ri2:ro1:authorityURI2" valueURI="ri2:ro1:valueURI2">ri2:ro1:roleText2</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marcgac" authorityURI="ri2:pl:authorityURI" valueURI="ri2:pl:valueURI">ri2:pl:placeCode</placeTerm>
+            <placeTerm type="text" authority="marcgac" authorityURI="ri2:pl:authorityURI" valueURI="ri2:pl:valueURI">ri2:pl:placeText</placeTerm>
+          </place>
+          <publisher>ri2:or:publisher</publisher>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">ri2:dt:dateCreated</dateCreated>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="end">ri2:dt:dateCreated2</dateCreated>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">ri2:dt:dateIssued</dateIssued>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="end">ri2:dt:dateIssued2</dateIssued>
+        </originInfo>
+        <identifier type="ri2:id1:type" displayLabel="ri2:id1:displayLabel">ri2:id1:identifier</identifier>
+        <identifier type="ri2:id2:type" displayLabel="ri2:id2:displayLabel">ri2:id2:identifier</identifier>
+        <identifier type="ri2:id3:type" displayLabel="ri2:id3:displayLabel">ri2:id3:identifier</identifier>
+        <location>
+          <url>ri2:url</url>
+        </location>
+        <abstract>ri2:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri3:displayLabel">
+        <titleInfo>
+          <title>ri3:title</title>
+        </titleInfo>
+        <name type="personal" authority="ri3:na1:authority" authorityURI="ri3:na1:authorityURI" valueURI="ri3:na1:valueURI">
+          <namePart>ri3:na1:namePart</namePart>
+          <role>
+            <roleTerm type="code" authority="ri3:ro1:authority" authorityURI="ri3:ro1:authorityURI" valueURI="ri3:ro1:valueURI">ri3:ro1:roleCode</roleTerm>
+            <roleTerm type="text" authority="ri3:ro1:authority" authorityURI="ri3:ro1:authorityURI" valueURI="ri3:ro1:valueURI">ri3:ro1:roleText</roleTerm>
+          </role>
+          <role>
+            <roleTerm type="code" authority="ri3:ro1:authority2" authorityURI="ri3:ro1:authorityURI2" valueURI="ri3:ro1:valueURI2">ri3:ro1:roleCode2</roleTerm>
+            <roleTerm type="text" authority="ri3:ro1:authority2" authorityURI="ri3:ro1:authorityURI2" valueURI="ri3:ro1:valueURI2">ri3:ro1:roleText2</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marcgac" authorityURI="ri3:pl:authorityURI" valueURI="ri3:pl:valueURI">ri3:pl:placeCode</placeTerm>
+            <placeTerm type="text" authority="marcgac" authorityURI="ri3:pl:authorityURI" valueURI="ri3:pl:valueURI">ri3:pl:placeText</placeTerm>
+          </place>
+          <publisher>ri3:or:publisher</publisher>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">ri3:dt:dateCreated</dateCreated>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="end">ri3:dt:dateCreated2</dateCreated>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">ri3:dt:dateIssued</dateIssued>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="end">ri3:dt:dateIssued2</dateIssued>
+        </originInfo>
+        <identifier type="ri3:id1:type" displayLabel="ri3:id1:displayLabel">ri3:id1:identifier</identifier>
+        <identifier type="ri3:id2:type" displayLabel="ri3:id2:displayLabel">ri3:id2:identifier</identifier>
+        <identifier type="ri3:id3:type" displayLabel="ri3:id3:displayLabel">ri3:id3:identifier</identifier>
+        <location>
+          <url>ri3:url</url>
+        </location>
+        <abstract>ri3:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri4:displayLabel">
+        <titleInfo>
+          <title>ri4:title</title>
+        </titleInfo>
+        <location>
+          <url>ri4:url</url>
+        </location>
+        <abstract>ri4:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri5:displayLabel">
+        <titleInfo>
+          <title>ri5:title</title>
+        </titleInfo>
+        <location>
+          <url>ri5:url</url>
+        </location>
+        <abstract>ri5:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri6:displayLabel">
+        <titleInfo>
+          <title>ri6:title</title>
+        </titleInfo>
+        <location>
+          <url>ri6:url</url>
+        </location>
+        <abstract>ri6:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri7:displayLabel">
+        <titleInfo>
+          <title>ri7:title</title>
+        </titleInfo>
+        <location>
+          <url>ri7:url</url>
+        </location>
+        <abstract>ri7:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri8:displayLabel">
+        <titleInfo>
+          <title>ri8:title</title>
+        </titleInfo>
+        <location>
+          <url>ri8:url</url>
+        </location>
+        <abstract>ri8:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri9:displayLabel">
+        <titleInfo>
+          <title>ri9:title</title>
+        </titleInfo>
+        <location>
+          <url>ri9:url</url>
+        </location>
+        <abstract>ri9:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri10:displayLabel">
+        <titleInfo>
+          <title>ri10:title</title>
+        </titleInfo>
+        <location>
+          <url>ri10:url</url>
+        </location>
+        <abstract>ri10:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri11:displayLabel">
+        <titleInfo>
+          <title>ri11:title</title>
+        </titleInfo>
+        <location>
+          <url>ri11:url</url>
+        </location>
+        <abstract>ri11:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri12:displayLabel">
+        <titleInfo>
+          <title>ri12:title</title>
+        </titleInfo>
+        <location>
+          <url>ri12:url</url>
+        </location>
+        <abstract>ri12:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri13:displayLabel">
+        <titleInfo>
+          <title>ri13:title</title>
+        </titleInfo>
+        <location>
+          <url>ri13:url</url>
+        </location>
+        <abstract>ri13:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri14:displayLabel">
+        <titleInfo>
+          <title>ri14:title</title>
+        </titleInfo>
+        <location>
+          <url>ri14:url</url>
+        </location>
+        <abstract>ri14:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri15:displayLabel">
+        <titleInfo>
+          <title>ri15:title</title>
+        </titleInfo>
+        <location>
+          <url>ri15:url</url>
+        </location>
+        <abstract>ri15:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri16:displayLabel">
+        <titleInfo>
+          <title>ri16:title</title>
+        </titleInfo>
+        <location>
+          <url>ri16:url</url>
+        </location>
+        <abstract>ri16:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri17:displayLabel">
+        <titleInfo>
+          <title>ri17:title</title>
+        </titleInfo>
+        <location>
+          <url>ri17:url</url>
+        </location>
+        <abstract>ri17:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri18:displayLabel">
+        <titleInfo>
+          <title>ri18:title</title>
+        </titleInfo>
+        <location>
+          <url>ri18:url</url>
+        </location>
+        <abstract>ri18:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri19:displayLabel">
+        <titleInfo>
+          <title>ri19:title</title>
+        </titleInfo>
+        <location>
+          <url>ri19:url</url>
+        </location>
+        <abstract>ri19:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri20:displayLabel">
+        <titleInfo>
+          <title>ri20:title</title>
+        </titleInfo>
+        <location>
+          <url>ri20:url</url>
+        </location>
+        <abstract>ri20:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri21:displayLabel">
+        <titleInfo>
+          <title>ri21:title</title>
+        </titleInfo>
+        <location>
+          <url>ri21:url</url>
+        </location>
+        <abstract>ri21:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri22:displayLabel">
+        <titleInfo>
+          <title>ri22:title</title>
+        </titleInfo>
+        <location>
+          <url>ri22:url</url>
+        </location>
+        <abstract>ri22:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri23:displayLabel">
+        <titleInfo>
+          <title>ri23:title</title>
+        </titleInfo>
+        <location>
+          <url>ri23:url</url>
+        </location>
+        <abstract>ri23:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri24:displayLabel">
+        <titleInfo>
+          <title>ri24:title</title>
+        </titleInfo>
+        <location>
+          <url>ri24:url</url>
+        </location>
+        <abstract>ri24:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri25:displayLabel">
+        <titleInfo>
+          <title>ri25:title</title>
+        </titleInfo>
+        <location>
+          <url>ri25:url</url>
+        </location>
+        <abstract>ri25:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri26:displayLabel">
+        <titleInfo>
+          <title>ri26:title</title>
+        </titleInfo>
+        <location>
+          <url>ri26:url</url>
+        </location>
+        <abstract>ri26:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri27:displayLabel">
+        <titleInfo>
+          <title>ri27:title</title>
+        </titleInfo>
+        <location>
+          <url>ri27:url</url>
+        </location>
+        <abstract>ri27:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri28:displayLabel">
+        <titleInfo>
+          <title>ri28:title</title>
+        </titleInfo>
+        <location>
+          <url>ri28:url</url>
+        </location>
+        <abstract>ri28:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri29:displayLabel">
+        <titleInfo>
+          <title>ri29:title</title>
+        </titleInfo>
+        <location>
+          <url>ri29:url</url>
+        </location>
+        <abstract>ri29:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri30:displayLabel">
+        <titleInfo>
+          <title>ri30:title</title>
+        </titleInfo>
+        <location>
+          <url>ri30:url</url>
+        </location>
+        <abstract>ri30:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri31:displayLabel">
+        <titleInfo>
+          <title>ri31:title</title>
+        </titleInfo>
+        <location>
+          <url>ri31:url</url>
+        </location>
+        <abstract>ri31:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri32:displayLabel">
+        <titleInfo>
+          <title>ri32:title</title>
+        </titleInfo>
+        <location>
+          <url>ri32:url</url>
+        </location>
+        <abstract>ri32:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri33:displayLabel">
+        <titleInfo>
+          <title>ri33:title</title>
+        </titleInfo>
+        <location>
+          <url>ri33:url</url>
+        </location>
+        <abstract>ri33:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri34:displayLabel">
+        <titleInfo>
+          <title>ri34:title</title>
+        </titleInfo>
+        <location>
+          <url>ri34:url</url>
+        </location>
+        <abstract>ri34:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri35:displayLabel">
+        <titleInfo>
+          <title>ri35:title</title>
+        </titleInfo>
+        <location>
+          <url>ri35:url</url>
+        </location>
+        <abstract>ri35:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri36:displayLabel">
+        <titleInfo>
+          <title>ri36:title</title>
+        </titleInfo>
+        <location>
+          <url>ri36:url</url>
+        </location>
+        <abstract>ri36:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri37:displayLabel">
+        <titleInfo>
+          <title>ri37:title</title>
+        </titleInfo>
+        <location>
+          <url>ri37:url</url>
+        </location>
+        <abstract>ri37:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri38:displayLabel">
+        <titleInfo>
+          <title>ri38:title</title>
+        </titleInfo>
+        <location>
+          <url>ri38:url</url>
+        </location>
+        <abstract>ri38:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri39:displayLabel">
+        <titleInfo>
+          <title>ri39:title</title>
+        </titleInfo>
+        <location>
+          <url>ri39:url</url>
+        </location>
+        <abstract>ri39:abstract</abstract>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="ri40:displayLabel">
+        <titleInfo>
+          <title>ri40:title</title>
+        </titleInfo>
+        <location>
+          <url>ri40:url</url>
+        </location>
+        <abstract>ri40:abstract</abstract>
+      </relatedItem>
+    </mods>
+  </xmlDoc>
+</xmlDocs>

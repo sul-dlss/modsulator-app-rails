@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2019-02-07 03:33:21PM" sourceFile="20190207_subject_temporal.csv">
+  <xmlDoc id="descMetadata" objectId="aa111aa1111">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <subject displayLabel="su1:displayLabel" authority="su1:authority" authorityURI="su1:authorityURI" valueURI="su1:valueURI" lang="su1:language" script="su1:script" transliteration="su1:transliteration" altRepGroup="su1:altRepGroup">
+        <temporal authority="su1:p1:authority" authorityURI="su1:p1:authorityURI" valueURI="su1:p1:valueURI" encoding="w3cdtf" point="start">su1:p1:value</temporal>
+        <temporal authority="su1:p2:authority" authorityURI="su1:p2:authorityURI" valueURI="su1:p2:valueURI" encoding="w3cdtf" point="start">su1:p2:value</temporal>
+        <temporal authority="su1:p3:authority" authorityURI="su1:p3:authorityURI" valueURI="su1:p3:valueURI" encoding="w3cdtf" point="start">su1:p3:value</temporal>
+        <temporal authority="su1:p4:authority" authorityURI="su1:p4:authorityURI" valueURI="su1:p4:valueURI" encoding="w3cdtf" point="start">su1:p4:value</temporal>
+        <temporal authority="su1:p5:authority" authorityURI="su1:p5:authorityURI" valueURI="su1:p5:valueURI" encoding="w3cdtf" point="start">su1:p5:value</temporal>
+      </subject>
+      <subject displayLabel="su2:displayLabel" authority="su2:authority" authorityURI="su2:authorityURI" valueURI="su2:valueURI" lang="su2:language" script="su2:script" transliteration="su2:transliteration" altRepGroup="su2:altRepGroup">
+        <temporal authority="su2:p1:authority" authorityURI="su2:p1:authorityURI" valueURI="su2:p1:valueURI" encoding="w3cdtf" point="start">su2:p1:value</temporal>
+        <temporal authority="su2:p2:authority" authorityURI="su2:p2:authorityURI" valueURI="su2:p2:valueURI" encoding="w3cdtf" point="start">su2:p2:value</temporal>
+        <temporal authority="su2:p3:authority" authorityURI="su2:p3:authorityURI" valueURI="su2:p3:valueURI" encoding="w3cdtf" point="start">su2:p3:value</temporal>
+        <temporal authority="su2:p4:authority" authorityURI="su2:p4:authorityURI" valueURI="su2:p4:valueURI" encoding="w3cdtf" point="start">su2:p4:value</temporal>
+        <temporal authority="su2:p5:authority" authorityURI="su2:p5:authorityURI" valueURI="su2:p5:valueURI" encoding="w3cdtf" point="start">su2:p5:value</temporal>
+      </subject>
+      <subject displayLabel="su3:displayLabel" authority="su3:authority" authorityURI="su3:authorityURI" valueURI="su3:valueURI" lang="su3:language" script="su3:script" transliteration="su3:transliteration" altRepGroup="su3:altRepGroup">
+        <temporal authority="su3:p1:authority" authorityURI="su3:p1:authorityURI" valueURI="su3:p1:valueURI" encoding="w3cdtf" point="start">su3:p1:value</temporal>
+        <temporal authority="su3:p2:authority" authorityURI="su3:p2:authorityURI" valueURI="su3:p2:valueURI" encoding="w3cdtf" point="start">su3:p2:value</temporal>
+        <temporal authority="su3:p3:authority" authorityURI="su3:p3:authorityURI" valueURI="su3:p3:valueURI" encoding="w3cdtf" point="start">su3:p3:value</temporal>
+        <temporal authority="su3:p4:authority" authorityURI="su3:p4:authorityURI" valueURI="su3:p4:valueURI" encoding="w3cdtf" point="start">su3:p4:value</temporal>
+        <temporal authority="su3:p5:authority" authorityURI="su3:p5:authorityURI" valueURI="su3:p5:valueURI" encoding="w3cdtf" point="start">su3:p5:value</temporal>
+      </subject>
+      <subject displayLabel="su4:displayLabel" authority="su4:authority" authorityURI="su4:authorityURI" valueURI="su4:valueURI" lang="su4:language" script="su4:script" transliteration="su4:transliteration" altRepGroup="su4:altRepGroup">
+        <temporal authority="su4:p1:authority" authorityURI="su4:p1:authorityURI" valueURI="su4:p1:valueURI" encoding="w3cdtf" point="start">su4:p1:value</temporal>
+        <temporal authority="su4:p2:authority" authorityURI="su4:p2:authorityURI" valueURI="su4:p2:valueURI" encoding="w3cdtf" point="start">su4:p2:value</temporal>
+        <temporal authority="su4:p3:authority" authorityURI="su4:p3:authorityURI" valueURI="su4:p3:valueURI" encoding="w3cdtf" point="start">su4:p3:value</temporal>
+        <temporal authority="su4:p4:authority" authorityURI="su4:p4:authorityURI" valueURI="su4:p4:valueURI" encoding="w3cdtf" point="start">su4:p4:value</temporal>
+        <temporal authority="su4:p5:authority" authorityURI="su4:p5:authorityURI" valueURI="su4:p5:valueURI" encoding="w3cdtf" point="start">su4:p5:value</temporal>
+      </subject>
+      <subject displayLabel="su5:displayLabel" authority="su5:authority" authorityURI="su5:authorityURI" valueURI="su5:valueURI" lang="su5:language" script="su5:script" transliteration="su5:transliteration" altRepGroup="su5:altRepGroup">
+        <temporal authority="su5:p1:authority" authorityURI="su5:p1:authorityURI" valueURI="su5:p1:valueURI" encoding="w3cdtf" point="start">su5:p1:value</temporal>
+        <temporal authority="su5:p2:authority" authorityURI="su5:p2:authorityURI" valueURI="su5:p2:valueURI" encoding="w3cdtf" point="start">su5:p2:value</temporal>
+        <temporal authority="su5:p3:authority" authorityURI="su5:p3:authorityURI" valueURI="su5:p3:valueURI" encoding="w3cdtf" point="start">su5:p3:value</temporal>
+        <temporal authority="su5:p4:authority" authorityURI="su5:p4:authorityURI" valueURI="su5:p4:valueURI" encoding="w3cdtf" point="start">su5:p4:value</temporal>
+        <temporal authority="su5:p5:authority" authorityURI="su5:p5:authorityURI" valueURI="su5:p5:valueURI" encoding="w3cdtf" point="start">su5:p5:value</temporal>
+      </subject>
+    </mods>
+  </xmlDoc>
+</xmlDocs>
