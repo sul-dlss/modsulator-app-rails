@@ -1856,6 +1856,7 @@
     <location>
       <url>[[ri1:url]]</url>
     </location>
+    <abstract>[[ri1:abstract]]</abstract>
     <part>
       <detail type="[[ri1:pt:type1]]">
         <number>[[ri1:pt:number1]]</number>
@@ -1909,6 +1910,7 @@
     <location>
       <url>[[ri2:url]]</url>
     </location>
+    <abstract>[[ri2:abstract]]</abstract>
     <part>
       <detail type="[[ri2:pt:type1]]">
         <number>[[ri2:pt:number1]]</number>
@@ -1962,6 +1964,7 @@
     <location>
       <url>[[ri3:url]]</url>
     </location>
+    <abstract>[[ri3:abstract]]</abstract>
     <part>
       <detail type="[[ri3:pt:type1]]">
         <number>[[ri3:pt:number1]]</number>
