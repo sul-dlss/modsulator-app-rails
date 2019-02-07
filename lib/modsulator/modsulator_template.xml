@@ -643,16 +643,16 @@
   <typeOfResource manuscript="[[ty1:manuscript]]">[[ty1:typeOfResource]]</typeOfResource>
   <typeOfResource>[[ty2:typeOfResource]]</typeOfResource>
   <typeOfResource>[[ty3:typeOfResource]]</typeOfResource>
-  <genre type="[[ge1:type]]" authority="[[ge1:authority]]" authorityURI="[[ge1:authorityURI]]" valueURI="[[ge1:valueURI]]">[[ge1:genre]]</genre>
-  <genre type="[[ge2:type]]" authority="[[ge2:authority]]" authorityURI="[[ge2:authorityURI]]" valueURI="[[ge2:valueURI]]">[[ge2:genre]]</genre>
-  <genre type="[[ge3:type]]" authority="[[ge3:authority]]" authorityURI="[[ge3:authorityURI]]" valueURI="[[ge3:valueURI]]">[[ge3:genre]]</genre>
-  <genre type="[[ge4:type]]" authority="[[ge4:authority]]" authorityURI="[[ge4:authorityURI]]" valueURI="[[ge4:valueURI]]">[[ge4:genre]]</genre>
-  <genre type="[[ge5:type]]" authority="[[ge5:authority]]" authorityURI="[[ge5:authorityURI]]" valueURI="[[ge5:valueURI]]">[[ge5:genre]]</genre>
-  <genre type="[[ge6:type]]" authority="[[ge6:authority]]" authorityURI="[[ge6:authorityURI]]" valueURI="[[ge6:valueURI]]">[[ge6:genre]]</genre>
-  <genre type="[[ge7:type]]" authority="[[ge7:authority]]" authorityURI="[[ge7:authorityURI]]" valueURI="[[ge7:valueURI]]">[[ge7:genre]]</genre>
-  <genre type="[[ge8:type]]" authority="[[ge8:authority]]" authorityURI="[[ge8:authorityURI]]" valueURI="[[ge8:valueURI]]">[[ge8:genre]]</genre>
-  <genre type="[[ge9:type]]" authority="[[ge9:authority]]" authorityURI="[[ge9:authorityURI]]" valueURI="[[ge9:valueURI]]">[[ge9:genre]]</genre>
-  <genre type="[[ge10:type]]" authority="[[ge10:authority]]" authorityURI="[[ge10:authorityURI]]" valueURI="[[ge10:valueURI]]">[[ge10:genre]]</genre>
+  <genre displayLabel="[[ge1:displayLabel]]" type="[[ge1:type]]" authority="[[ge1:authority]]" authorityURI="[[ge1:authorityURI]]" valueURI="[[ge1:valueURI]]">[[ge1:genre]]</genre>
+  <genre displayLabel="[[ge2:displayLabel]]" type="[[ge2:type]]" authority="[[ge2:authority]]" authorityURI="[[ge2:authorityURI]]" valueURI="[[ge2:valueURI]]">[[ge2:genre]]</genre>
+  <genre displayLabel="[[ge3:displayLabel]]" type="[[ge3:type]]" authority="[[ge3:authority]]" authorityURI="[[ge3:authorityURI]]" valueURI="[[ge3:valueURI]]">[[ge3:genre]]</genre>
+  <genre displayLabel="[[ge4:displayLabel]]" type="[[ge4:type]]" authority="[[ge4:authority]]" authorityURI="[[ge4:authorityURI]]" valueURI="[[ge4:valueURI]]">[[ge4:genre]]</genre>
+  <genre displayLabel="[[ge5:displayLabel]]" type="[[ge5:type]]" authority="[[ge5:authority]]" authorityURI="[[ge5:authorityURI]]" valueURI="[[ge5:valueURI]]">[[ge5:genre]]</genre>
+  <genre displayLabel="[[ge6:displayLabel]]" type="[[ge6:type]]" authority="[[ge6:authority]]" authorityURI="[[ge6:authorityURI]]" valueURI="[[ge6:valueURI]]">[[ge6:genre]]</genre>
+  <genre displayLabel="[[ge7:displayLabel]]" type="[[ge7:type]]" authority="[[ge7:authority]]" authorityURI="[[ge7:authorityURI]]" valueURI="[[ge7:valueURI]]">[[ge7:genre]]</genre>
+  <genre displayLabel="[[ge8:displayLabel]]" type="[[ge8:type]]" authority="[[ge8:authority]]" authorityURI="[[ge8:authorityURI]]" valueURI="[[ge8:valueURI]]">[[ge8:genre]]</genre>
+  <genre displayLabel="[[ge9:displayLabel]]" type="[[ge9:type]]" authority="[[ge9:authority]]" authorityURI="[[ge9:authorityURI]]" valueURI="[[ge9:valueURI]]">[[ge9:genre]]</genre>
+  <genre displayLabel="[[ge10:displayLabel]]" type="[[ge10:type]]" authority="[[ge10:authority]]" authorityURI="[[ge10:authorityURI]]" valueURI="[[ge10:valueURI]]">[[ge10:genre]]</genre>
   <originInfo displayLabel="[[or:displayLabel]]" eventType="[[or:eventType]]" altRepGroup="[[or:altRepGroup]]">
     <place>
       <placeTerm type="code" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeCode]]</placeTerm>
