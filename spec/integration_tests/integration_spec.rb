@@ -18,7 +18,13 @@ RSpec.describe Modsulator do
       'edition_physLoc_intmediatype.xlsx' => 'edition_physLoc_intmediatype.xml',
       'filled_template_20160711.xlsx' => 'filled_template_20160711.xml',
       'location_url.xlsx' => 'location_url.xml',
-      'point_coord_test.xlsx' => 'point_coord_test.xml'
+      'point_coord_test.xlsx' => 'point_coord_test.xml',
+      '20190207_language.csv' => '20190207_language.xml',
+      '20190207_name.csv' => '20190207_name.xml',
+      '20190207_related.csv' => '20190207_related.xml',
+      '20190207_subject_temporal.csv' => '20190207_subject_temporal.xml',
+      '20190207_title.csv' => '20190207_title.xml',
+      '20190207_type_genre.csv' => '20190207_type_genre.xml'
     }.each do |testfile, results_file|
       puts '.'
       generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
