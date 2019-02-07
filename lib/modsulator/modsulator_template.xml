@@ -1294,354 +1294,354 @@
     <[[sn30:p5:type]] authority="[[sn30:p5:authority]]" authorityURI="[[sn30:p5:authorityURI]]" valueURI="[[sn30:p5:valueURI]]">[[sn30:p5:value]]</[[sn30:p5:type]]>
   </subject>
   <subject displayLabel="[[su1:displayLabel]]" authority="[[su1:authority]]" authorityURI="[[su1:authorityURI]]" valueURI="[[su1:valueURI]]" lang="[[su1:language]]" script="[[su1:script]]" transliteration="[[su1:transliteration]]" altRepGroup="[[su1:altRepGroup]]">
-    <[[su1:p1:type]] authority="[[su1:p1:authority]]" authorityURI="[[su1:p1:authorityURI]]" valueURI="[[su1:p1:valueURI]]">[[su1:p1:value]]</[[su1:p1:type]]>
-    <[[su1:p2:type]] authority="[[su1:p2:authority]]" authorityURI="[[su1:p2:authorityURI]]" valueURI="[[su1:p2:valueURI]]">[[su1:p2:value]]</[[su1:p2:type]]>
-    <[[su1:p3:type]] authority="[[su1:p3:authority]]" authorityURI="[[su1:p3:authorityURI]]" valueURI="[[su1:p3:valueURI]]">[[su1:p3:value]]</[[su1:p3:type]]>
-    <[[su1:p4:type]] authority="[[su1:p4:authority]]" authorityURI="[[su1:p4:authorityURI]]" valueURI="[[su1:p4:valueURI]]">[[su1:p4:value]]</[[su1:p4:type]]>
-    <[[su1:p5:type]] authority="[[su1:p5:authority]]" authorityURI="[[su1:p5:authorityURI]]" valueURI="[[su1:p5:valueURI]]">[[su1:p5:value]]</[[su1:p5:type]]>
+    <[[su1:p1:type]] authority="[[su1:p1:authority]]" authorityURI="[[su1:p1:authorityURI]]" valueURI="[[su1:p1:valueURI]]" encoding="[[su1:p1:encoding]]" point="[[su1:p1:point]]">[[su1:p1:value]]</[[su1:p1:type]]>
+    <[[su1:p2:type]] authority="[[su1:p2:authority]]" authorityURI="[[su1:p2:authorityURI]]" valueURI="[[su1:p2:valueURI]]" encoding="[[su1:p2:encoding]]" point="[[su1:p2:point]]">[[su1:p2:value]]</[[su1:p2:type]]>
+    <[[su1:p3:type]] authority="[[su1:p3:authority]]" authorityURI="[[su1:p3:authorityURI]]" valueURI="[[su1:p3:valueURI]]" encoding="[[su1:p3:encoding]]" point="[[su1:p3:point]]">[[su1:p3:value]]</[[su1:p3:type]]>
+    <[[su1:p4:type]] authority="[[su1:p4:authority]]" authorityURI="[[su1:p4:authorityURI]]" valueURI="[[su1:p4:valueURI]]" encoding="[[su1:p4:encoding]]" point="[[su1:p4:point]]">[[su1:p4:value]]</[[su1:p4:type]]>
+    <[[su1:p5:type]] authority="[[su1:p5:authority]]" authorityURI="[[su1:p5:authorityURI]]" valueURI="[[su1:p5:valueURI]]" encoding="[[su1:p5:encoding]]" point="[[su1:p5:point]]">[[su1:p5:value]]</[[su1:p5:type]]>
   </subject>
   <subject displayLabel="[[su2:displayLabel]]" authority="[[su2:authority]]" authorityURI="[[su2:authorityURI]]" valueURI="[[su2:valueURI]]" lang="[[su2:language]]" script="[[su2:script]]" transliteration="[[su2:transliteration]]" altRepGroup="[[su2:altRepGroup]]">
-    <[[su2:p1:type]] authority="[[su2:p1:authority]]" authorityURI="[[su2:p1:authorityURI]]" valueURI="[[su2:p1:valueURI]]">[[su2:p1:value]]</[[su2:p1:type]]>
-    <[[su2:p2:type]] authority="[[su2:p2:authority]]" authorityURI="[[su2:p2:authorityURI]]" valueURI="[[su2:p2:valueURI]]">[[su2:p2:value]]</[[su2:p2:type]]>
-    <[[su2:p3:type]] authority="[[su2:p3:authority]]" authorityURI="[[su2:p3:authorityURI]]" valueURI="[[su2:p3:valueURI]]">[[su2:p3:value]]</[[su2:p3:type]]>
-    <[[su2:p4:type]] authority="[[su2:p4:authority]]" authorityURI="[[su2:p4:authorityURI]]" valueURI="[[su2:p4:valueURI]]">[[su2:p4:value]]</[[su2:p4:type]]>
-    <[[su2:p5:type]] authority="[[su2:p5:authority]]" authorityURI="[[su2:p5:authorityURI]]" valueURI="[[su2:p5:valueURI]]">[[su2:p5:value]]</[[su2:p5:type]]>
+    <[[su2:p1:type]] authority="[[su2:p1:authority]]" authorityURI="[[su2:p1:authorityURI]]" valueURI="[[su2:p1:valueURI]]" encoding="[[su2:p1:encoding]]" point="[[su2:p1:point]]">[[su2:p1:value]]</[[su2:p1:type]]>
+    <[[su2:p2:type]] authority="[[su2:p2:authority]]" authorityURI="[[su2:p2:authorityURI]]" valueURI="[[su2:p2:valueURI]]" encoding="[[su2:p2:encoding]]" point="[[su2:p2:point]]">[[su2:p2:value]]</[[su2:p2:type]]>
+    <[[su2:p3:type]] authority="[[su2:p3:authority]]" authorityURI="[[su2:p3:authorityURI]]" valueURI="[[su2:p3:valueURI]]" encoding="[[su2:p3:encoding]]" point="[[su2:p3:point]]">[[su2:p3:value]]</[[su2:p3:type]]>
+    <[[su2:p4:type]] authority="[[su2:p4:authority]]" authorityURI="[[su2:p4:authorityURI]]" valueURI="[[su2:p4:valueURI]]" encoding="[[su2:p4:encoding]]" point="[[su2:p4:point]]">[[su2:p4:value]]</[[su2:p4:type]]>
+    <[[su2:p5:type]] authority="[[su2:p5:authority]]" authorityURI="[[su2:p5:authorityURI]]" valueURI="[[su2:p5:valueURI]]" encoding="[[su2:p5:encoding]]" point="[[su2:p5:point]]">[[su2:p5:value]]</[[su2:p5:type]]>
   </subject>
   <subject displayLabel="[[su3:displayLabel]]" authority="[[su3:authority]]" authorityURI="[[su3:authorityURI]]" valueURI="[[su3:valueURI]]" lang="[[su3:language]]" script="[[su3:script]]" transliteration="[[su3:transliteration]]" altRepGroup="[[su3:altRepGroup]]">
-    <[[su3:p1:type]] authority="[[su3:p1:authority]]" authorityURI="[[su3:p1:authorityURI]]" valueURI="[[su3:p1:valueURI]]">[[su3:p1:value]]</[[su3:p1:type]]>
-    <[[su3:p2:type]] authority="[[su3:p2:authority]]" authorityURI="[[su3:p2:authorityURI]]" valueURI="[[su3:p2:valueURI]]">[[su3:p2:value]]</[[su3:p2:type]]>
-    <[[su3:p3:type]] authority="[[su3:p3:authority]]" authorityURI="[[su3:p3:authorityURI]]" valueURI="[[su3:p3:valueURI]]">[[su3:p3:value]]</[[su3:p3:type]]>
-    <[[su3:p4:type]] authority="[[su3:p4:authority]]" authorityURI="[[su3:p4:authorityURI]]" valueURI="[[su3:p4:valueURI]]">[[su3:p4:value]]</[[su3:p4:type]]>
-    <[[su3:p5:type]] authority="[[su3:p5:authority]]" authorityURI="[[su3:p5:authorityURI]]" valueURI="[[su3:p5:valueURI]]">[[su3:p5:value]]</[[su3:p5:type]]>
+    <[[su3:p1:type]] authority="[[su3:p1:authority]]" authorityURI="[[su3:p1:authorityURI]]" valueURI="[[su3:p1:valueURI]]" encoding="[[su3:p1:encoding]]" point="[[su3:p1:point]]">[[su3:p1:value]]</[[su3:p1:type]]>
+    <[[su3:p2:type]] authority="[[su3:p2:authority]]" authorityURI="[[su3:p2:authorityURI]]" valueURI="[[su3:p2:valueURI]]" encoding="[[su3:p2:encoding]]" point="[[su3:p2:point]]">[[su3:p2:value]]</[[su3:p2:type]]>
+    <[[su3:p3:type]] authority="[[su3:p3:authority]]" authorityURI="[[su3:p3:authorityURI]]" valueURI="[[su3:p3:valueURI]]" encoding="[[su3:p3:encoding]]" point="[[su3:p3:point]]">[[su3:p3:value]]</[[su3:p3:type]]>
+    <[[su3:p4:type]] authority="[[su3:p4:authority]]" authorityURI="[[su3:p4:authorityURI]]" valueURI="[[su3:p4:valueURI]]" encoding="[[su3:p4:encoding]]" point="[[su3:p4:point]]">[[su3:p4:value]]</[[su3:p4:type]]>
+    <[[su3:p5:type]] authority="[[su3:p5:authority]]" authorityURI="[[su3:p5:authorityURI]]" valueURI="[[su3:p5:valueURI]]" encoding="[[su3:p5:encoding]]" point="[[su3:p5:point]]">[[su3:p5:value]]</[[su3:p5:type]]>
   </subject>
   <subject displayLabel="[[su4:displayLabel]]" authority="[[su4:authority]]" authorityURI="[[su4:authorityURI]]" valueURI="[[su4:valueURI]]" lang="[[su4:language]]" script="[[su4:script]]" transliteration="[[su4:transliteration]]" altRepGroup="[[su4:altRepGroup]]">
-    <[[su4:p1:type]] authority="[[su4:p1:authority]]" authorityURI="[[su4:p1:authorityURI]]" valueURI="[[su4:p1:valueURI]]">[[su4:p1:value]]</[[su4:p1:type]]>
-    <[[su4:p2:type]] authority="[[su4:p2:authority]]" authorityURI="[[su4:p2:authorityURI]]" valueURI="[[su4:p2:valueURI]]">[[su4:p2:value]]</[[su4:p2:type]]>
-    <[[su4:p3:type]] authority="[[su4:p3:authority]]" authorityURI="[[su4:p3:authorityURI]]" valueURI="[[su4:p3:valueURI]]">[[su4:p3:value]]</[[su4:p3:type]]>
-    <[[su4:p4:type]] authority="[[su4:p4:authority]]" authorityURI="[[su4:p4:authorityURI]]" valueURI="[[su4:p4:valueURI]]">[[su4:p4:value]]</[[su4:p4:type]]>
-    <[[su4:p5:type]] authority="[[su4:p5:authority]]" authorityURI="[[su4:p5:authorityURI]]" valueURI="[[su4:p5:valueURI]]">[[su4:p5:value]]</[[su4:p5:type]]>
+    <[[su4:p1:type]] authority="[[su4:p1:authority]]" authorityURI="[[su4:p1:authorityURI]]" valueURI="[[su4:p1:valueURI]]" encoding="[[su4:p1:encoding]]" point="[[su4:p1:point]]">[[su4:p1:value]]</[[su4:p1:type]]>
+    <[[su4:p2:type]] authority="[[su4:p2:authority]]" authorityURI="[[su4:p2:authorityURI]]" valueURI="[[su4:p2:valueURI]]" encoding="[[su4:p2:encoding]]" point="[[su4:p2:point]]">[[su4:p2:value]]</[[su4:p2:type]]>
+    <[[su4:p3:type]] authority="[[su4:p3:authority]]" authorityURI="[[su4:p3:authorityURI]]" valueURI="[[su4:p3:valueURI]]" encoding="[[su4:p3:encoding]]" point="[[su4:p3:point]]">[[su4:p3:value]]</[[su4:p3:type]]>
+    <[[su4:p4:type]] authority="[[su4:p4:authority]]" authorityURI="[[su4:p4:authorityURI]]" valueURI="[[su4:p4:valueURI]]" encoding="[[su4:p4:encoding]]" point="[[su4:p4:point]]">[[su4:p4:value]]</[[su4:p4:type]]>
+    <[[su4:p5:type]] authority="[[su4:p5:authority]]" authorityURI="[[su4:p5:authorityURI]]" valueURI="[[su4:p5:valueURI]]" encoding="[[su4:p5:encoding]]" point="[[su4:p5:point]]">[[su4:p5:value]]</[[su4:p5:type]]>
   </subject>
   <subject displayLabel="[[su5:displayLabel]]" authority="[[su5:authority]]" authorityURI="[[su5:authorityURI]]" valueURI="[[su5:valueURI]]" lang="[[su5:language]]" script="[[su5:script]]" transliteration="[[su5:transliteration]]" altRepGroup="[[su5:altRepGroup]]">
-    <[[su5:p1:type]] authority="[[su5:p1:authority]]" authorityURI="[[su5:p1:authorityURI]]" valueURI="[[su5:p1:valueURI]]">[[su5:p1:value]]</[[su5:p1:type]]>
-    <[[su5:p2:type]] authority="[[su5:p2:authority]]" authorityURI="[[su5:p2:authorityURI]]" valueURI="[[su5:p2:valueURI]]">[[su5:p2:value]]</[[su5:p2:type]]>
-    <[[su5:p3:type]] authority="[[su5:p3:authority]]" authorityURI="[[su5:p3:authorityURI]]" valueURI="[[su5:p3:valueURI]]">[[su5:p3:value]]</[[su5:p3:type]]>
-    <[[su5:p4:type]] authority="[[su5:p4:authority]]" authorityURI="[[su5:p4:authorityURI]]" valueURI="[[su5:p4:valueURI]]">[[su5:p4:value]]</[[su5:p4:type]]>
-    <[[su5:p5:type]] authority="[[su5:p5:authority]]" authorityURI="[[su5:p5:authorityURI]]" valueURI="[[su5:p5:valueURI]]">[[su5:p5:value]]</[[su5:p5:type]]>
+    <[[su5:p1:type]] authority="[[su5:p1:authority]]" authorityURI="[[su5:p1:authorityURI]]" valueURI="[[su5:p1:valueURI]]" encoding="[[su5:p1:encoding]]" point="[[su5:p1:point]]">[[su5:p1:value]]</[[su5:p1:type]]>
+    <[[su5:p2:type]] authority="[[su5:p2:authority]]" authorityURI="[[su5:p2:authorityURI]]" valueURI="[[su5:p2:valueURI]]" encoding="[[su5:p2:encoding]]" point="[[su5:p2:point]]">[[su5:p2:value]]</[[su5:p2:type]]>
+    <[[su5:p3:type]] authority="[[su5:p3:authority]]" authorityURI="[[su5:p3:authorityURI]]" valueURI="[[su5:p3:valueURI]]" encoding="[[su5:p3:encoding]]" point="[[su5:p3:point]]">[[su5:p3:value]]</[[su5:p3:type]]>
+    <[[su5:p4:type]] authority="[[su5:p4:authority]]" authorityURI="[[su5:p4:authorityURI]]" valueURI="[[su5:p4:valueURI]]" encoding="[[su5:p4:encoding]]" point="[[su5:p4:point]]">[[su5:p4:value]]</[[su5:p4:type]]>
+    <[[su5:p5:type]] authority="[[su5:p5:authority]]" authorityURI="[[su5:p5:authorityURI]]" valueURI="[[su5:p5:valueURI]]" encoding="[[su5:p5:encoding]]" point="[[su5:p5:point]]">[[su5:p5:value]]</[[su5:p5:type]]>
   </subject>
   <subject displayLabel="[[su6:displayLabel]]" authority="[[su6:authority]]" authorityURI="[[su6:authorityURI]]" valueURI="[[su6:valueURI]]" lang="[[su6:language]]" script="[[su6:script]]" transliteration="[[su6:transliteration]]" altRepGroup="[[su6:altRepGroup]]">
-    <[[su6:p1:type]] authority="[[su6:p1:authority]]" authorityURI="[[su6:p1:authorityURI]]" valueURI="[[su6:p1:valueURI]]">[[su6:p1:value]]</[[su6:p1:type]]>
-    <[[su6:p2:type]] authority="[[su6:p2:authority]]" authorityURI="[[su6:p2:authorityURI]]" valueURI="[[su6:p2:valueURI]]">[[su6:p2:value]]</[[su6:p2:type]]>
-    <[[su6:p3:type]] authority="[[su6:p3:authority]]" authorityURI="[[su6:p3:authorityURI]]" valueURI="[[su6:p3:valueURI]]">[[su6:p3:value]]</[[su6:p3:type]]>
-    <[[su6:p4:type]] authority="[[su6:p4:authority]]" authorityURI="[[su6:p4:authorityURI]]" valueURI="[[su6:p4:valueURI]]">[[su6:p4:value]]</[[su6:p4:type]]>
-    <[[su6:p5:type]] authority="[[su6:p5:authority]]" authorityURI="[[su6:p5:authorityURI]]" valueURI="[[su6:p5:valueURI]]">[[su6:p5:value]]</[[su6:p5:type]]>
+    <[[su6:p1:type]] authority="[[su6:p1:authority]]" authorityURI="[[su6:p1:authorityURI]]" valueURI="[[su6:p1:valueURI]]" encoding="[[su6:p1:encoding]]" point="[[su6:p1:point]]">[[su6:p1:value]]</[[su6:p1:type]]>
+    <[[su6:p2:type]] authority="[[su6:p2:authority]]" authorityURI="[[su6:p2:authorityURI]]" valueURI="[[su6:p2:valueURI]]" encoding="[[su6:p2:encoding]]" point="[[su6:p2:point]]">[[su6:p2:value]]</[[su6:p2:type]]>
+    <[[su6:p3:type]] authority="[[su6:p3:authority]]" authorityURI="[[su6:p3:authorityURI]]" valueURI="[[su6:p3:valueURI]]" encoding="[[su6:p3:encoding]]" point="[[su6:p3:point]]">[[su6:p3:value]]</[[su6:p3:type]]>
+    <[[su6:p4:type]] authority="[[su6:p4:authority]]" authorityURI="[[su6:p4:authorityURI]]" valueURI="[[su6:p4:valueURI]]" encoding="[[su6:p4:encoding]]" point="[[su6:p4:point]]">[[su6:p4:value]]</[[su6:p4:type]]>
+    <[[su6:p5:type]] authority="[[su6:p5:authority]]" authorityURI="[[su6:p5:authorityURI]]" valueURI="[[su6:p5:valueURI]]" encoding="[[su6:p5:encoding]]" point="[[su6:p5:point]]">[[su6:p5:value]]</[[su6:p5:type]]>
   </subject>
   <subject displayLabel="[[su7:displayLabel]]" authority="[[su7:authority]]" authorityURI="[[su7:authorityURI]]" valueURI="[[su7:valueURI]]" lang="[[su7:language]]" script="[[su7:script]]" transliteration="[[su7:transliteration]]" altRepGroup="[[su7:altRepGroup]]">
-    <[[su7:p1:type]] authority="[[su7:p1:authority]]" authorityURI="[[su7:p1:authorityURI]]" valueURI="[[su7:p1:valueURI]]">[[su7:p1:value]]</[[su7:p1:type]]>
-    <[[su7:p2:type]] authority="[[su7:p2:authority]]" authorityURI="[[su7:p2:authorityURI]]" valueURI="[[su7:p2:valueURI]]">[[su7:p2:value]]</[[su7:p2:type]]>
-    <[[su7:p3:type]] authority="[[su7:p3:authority]]" authorityURI="[[su7:p3:authorityURI]]" valueURI="[[su7:p3:valueURI]]">[[su7:p3:value]]</[[su7:p3:type]]>
-    <[[su7:p4:type]] authority="[[su7:p4:authority]]" authorityURI="[[su7:p4:authorityURI]]" valueURI="[[su7:p4:valueURI]]">[[su7:p4:value]]</[[su7:p4:type]]>
-    <[[su7:p5:type]] authority="[[su7:p5:authority]]" authorityURI="[[su7:p5:authorityURI]]" valueURI="[[su7:p5:valueURI]]">[[su7:p5:value]]</[[su7:p5:type]]>
+    <[[su7:p1:type]] authority="[[su7:p1:authority]]" authorityURI="[[su7:p1:authorityURI]]" valueURI="[[su7:p1:valueURI]]" encoding="[[su7:p1:encoding]]" point="[[su7:p1:point]]">[[su7:p1:value]]</[[su7:p1:type]]>
+    <[[su7:p2:type]] authority="[[su7:p2:authority]]" authorityURI="[[su7:p2:authorityURI]]" valueURI="[[su7:p2:valueURI]]" encoding="[[su7:p2:encoding]]" point="[[su7:p2:point]]">[[su7:p2:value]]</[[su7:p2:type]]>
+    <[[su7:p3:type]] authority="[[su7:p3:authority]]" authorityURI="[[su7:p3:authorityURI]]" valueURI="[[su7:p3:valueURI]]" encoding="[[su7:p3:encoding]]" point="[[su7:p3:point]]">[[su7:p3:value]]</[[su7:p3:type]]>
+    <[[su7:p4:type]] authority="[[su7:p4:authority]]" authorityURI="[[su7:p4:authorityURI]]" valueURI="[[su7:p4:valueURI]]" encoding="[[su7:p4:encoding]]" point="[[su7:p4:point]]">[[su7:p4:value]]</[[su7:p4:type]]>
+    <[[su7:p5:type]] authority="[[su7:p5:authority]]" authorityURI="[[su7:p5:authorityURI]]" valueURI="[[su7:p5:valueURI]]" encoding="[[su7:p5:encoding]]" point="[[su7:p5:point]]">[[su7:p5:value]]</[[su7:p5:type]]>
   </subject>
   <subject displayLabel="[[su8:displayLabel]]" authority="[[su8:authority]]" authorityURI="[[su8:authorityURI]]" valueURI="[[su8:valueURI]]" lang="[[su8:language]]" script="[[su8:script]]" transliteration="[[su8:transliteration]]" altRepGroup="[[su8:altRepGroup]]">
-    <[[su8:p1:type]] authority="[[su8:p1:authority]]" authorityURI="[[su8:p1:authorityURI]]" valueURI="[[su8:p1:valueURI]]">[[su8:p1:value]]</[[su8:p1:type]]>
-    <[[su8:p2:type]] authority="[[su8:p2:authority]]" authorityURI="[[su8:p2:authorityURI]]" valueURI="[[su8:p2:valueURI]]">[[su8:p2:value]]</[[su8:p2:type]]>
-    <[[su8:p3:type]] authority="[[su8:p3:authority]]" authorityURI="[[su8:p3:authorityURI]]" valueURI="[[su8:p3:valueURI]]">[[su8:p3:value]]</[[su8:p3:type]]>
-    <[[su8:p4:type]] authority="[[su8:p4:authority]]" authorityURI="[[su8:p4:authorityURI]]" valueURI="[[su8:p4:valueURI]]">[[su8:p4:value]]</[[su8:p4:type]]>
-    <[[su8:p5:type]] authority="[[su8:p5:authority]]" authorityURI="[[su8:p5:authorityURI]]" valueURI="[[su8:p5:valueURI]]">[[su8:p5:value]]</[[su8:p5:type]]>
+    <[[su8:p1:type]] authority="[[su8:p1:authority]]" authorityURI="[[su8:p1:authorityURI]]" valueURI="[[su8:p1:valueURI]]" encoding="[[su8:p1:encoding]]" point="[[su8:p1:point]]">[[su8:p1:value]]</[[su8:p1:type]]>
+    <[[su8:p2:type]] authority="[[su8:p2:authority]]" authorityURI="[[su8:p2:authorityURI]]" valueURI="[[su8:p2:valueURI]]" encoding="[[su8:p2:encoding]]" point="[[su8:p2:point]]">[[su8:p2:value]]</[[su8:p2:type]]>
+    <[[su8:p3:type]] authority="[[su8:p3:authority]]" authorityURI="[[su8:p3:authorityURI]]" valueURI="[[su8:p3:valueURI]]" encoding="[[su8:p3:encoding]]" point="[[su8:p3:point]]">[[su8:p3:value]]</[[su8:p3:type]]>
+    <[[su8:p4:type]] authority="[[su8:p4:authority]]" authorityURI="[[su8:p4:authorityURI]]" valueURI="[[su8:p4:valueURI]]" encoding="[[su8:p4:encoding]]" point="[[su8:p4:point]]">[[su8:p4:value]]</[[su8:p4:type]]>
+    <[[su8:p5:type]] authority="[[su8:p5:authority]]" authorityURI="[[su8:p5:authorityURI]]" valueURI="[[su8:p5:valueURI]]" encoding="[[su8:p5:encoding]]" point="[[su8:p5:point]]">[[su8:p5:value]]</[[su8:p5:type]]>
   </subject>
   <subject displayLabel="[[su9:displayLabel]]" authority="[[su9:authority]]" authorityURI="[[su9:authorityURI]]" valueURI="[[su9:valueURI]]" lang="[[su9:language]]" script="[[su9:script]]" transliteration="[[su9:transliteration]]" altRepGroup="[[su9:altRepGroup]]">
-    <[[su9:p1:type]] authority="[[su9:p1:authority]]" authorityURI="[[su9:p1:authorityURI]]" valueURI="[[su9:p1:valueURI]]">[[su9:p1:value]]</[[su9:p1:type]]>
-    <[[su9:p2:type]] authority="[[su9:p2:authority]]" authorityURI="[[su9:p2:authorityURI]]" valueURI="[[su9:p2:valueURI]]">[[su9:p2:value]]</[[su9:p2:type]]>
-    <[[su9:p3:type]] authority="[[su9:p3:authority]]" authorityURI="[[su9:p3:authorityURI]]" valueURI="[[su9:p3:valueURI]]">[[su9:p3:value]]</[[su9:p3:type]]>
-    <[[su9:p4:type]] authority="[[su9:p4:authority]]" authorityURI="[[su9:p4:authorityURI]]" valueURI="[[su9:p4:valueURI]]">[[su9:p4:value]]</[[su9:p4:type]]>
-    <[[su9:p5:type]] authority="[[su9:p5:authority]]" authorityURI="[[su9:p5:authorityURI]]" valueURI="[[su9:p5:valueURI]]">[[su9:p5:value]]</[[su9:p5:type]]>
+    <[[su9:p1:type]] authority="[[su9:p1:authority]]" authorityURI="[[su9:p1:authorityURI]]" valueURI="[[su9:p1:valueURI]]" encoding="[[su9:p1:encoding]]" point="[[su9:p1:point]]">[[su9:p1:value]]</[[su9:p1:type]]>
+    <[[su9:p2:type]] authority="[[su9:p2:authority]]" authorityURI="[[su9:p2:authorityURI]]" valueURI="[[su9:p2:valueURI]]" encoding="[[su9:p2:encoding]]" point="[[su9:p2:point]]">[[su9:p2:value]]</[[su9:p2:type]]>
+    <[[su9:p3:type]] authority="[[su9:p3:authority]]" authorityURI="[[su9:p3:authorityURI]]" valueURI="[[su9:p3:valueURI]]" encoding="[[su9:p3:encoding]]" point="[[su9:p3:point]]">[[su9:p3:value]]</[[su9:p3:type]]>
+    <[[su9:p4:type]] authority="[[su9:p4:authority]]" authorityURI="[[su9:p4:authorityURI]]" valueURI="[[su9:p4:valueURI]]" encoding="[[su9:p4:encoding]]" point="[[su9:p4:point]]">[[su9:p4:value]]</[[su9:p4:type]]>
+    <[[su9:p5:type]] authority="[[su9:p5:authority]]" authorityURI="[[su9:p5:authorityURI]]" valueURI="[[su9:p5:valueURI]]" encoding="[[su9:p5:encoding]]" point="[[su9:p5:point]]">[[su9:p5:value]]</[[su9:p5:type]]>
   </subject>
   <subject displayLabel="[[su10:displayLabel]]" authority="[[su10:authority]]" authorityURI="[[su10:authorityURI]]" valueURI="[[su10:valueURI]]" lang="[[su10:language]]" script="[[su10:script]]" transliteration="[[su10:transliteration]]" altRepGroup="[[su10:altRepGroup]]">
-    <[[su10:p1:type]] authority="[[su10:p1:authority]]" authorityURI="[[su10:p1:authorityURI]]" valueURI="[[su10:p1:valueURI]]">[[su10:p1:value]]</[[su10:p1:type]]>
-    <[[su10:p2:type]] authority="[[su10:p2:authority]]" authorityURI="[[su10:p2:authorityURI]]" valueURI="[[su10:p2:valueURI]]">[[su10:p2:value]]</[[su10:p2:type]]>
-    <[[su10:p3:type]] authority="[[su10:p3:authority]]" authorityURI="[[su10:p3:authorityURI]]" valueURI="[[su10:p3:valueURI]]">[[su10:p3:value]]</[[su10:p3:type]]>
-    <[[su10:p4:type]] authority="[[su10:p4:authority]]" authorityURI="[[su10:p4:authorityURI]]" valueURI="[[su10:p4:valueURI]]">[[su10:p4:value]]</[[su10:p4:type]]>
-    <[[su10:p5:type]] authority="[[su10:p5:authority]]" authorityURI="[[su10:p5:authorityURI]]" valueURI="[[su10:p5:valueURI]]">[[su10:p5:value]]</[[su10:p5:type]]>
+    <[[su10:p1:type]] authority="[[su10:p1:authority]]" authorityURI="[[su10:p1:authorityURI]]" valueURI="[[su10:p1:valueURI]]" encoding="[[su10:p1:encoding]]" point="[[su10:p1:point]]">[[su10:p1:value]]</[[su10:p1:type]]>
+    <[[su10:p2:type]] authority="[[su10:p2:authority]]" authorityURI="[[su10:p2:authorityURI]]" valueURI="[[su10:p2:valueURI]]" encoding="[[su10:p2:encoding]]" point="[[su10:p2:point]]">[[su10:p2:value]]</[[su10:p2:type]]>
+    <[[su10:p3:type]] authority="[[su10:p3:authority]]" authorityURI="[[su10:p3:authorityURI]]" valueURI="[[su10:p3:valueURI]]" encoding="[[su10:p3:encoding]]" point="[[su10:p3:point]]">[[su10:p3:value]]</[[su10:p3:type]]>
+    <[[su10:p4:type]] authority="[[su10:p4:authority]]" authorityURI="[[su10:p4:authorityURI]]" valueURI="[[su10:p4:valueURI]]" encoding="[[su10:p4:encoding]]" point="[[su10:p4:point]]">[[su10:p4:value]]</[[su10:p4:type]]>
+    <[[su10:p5:type]] authority="[[su10:p5:authority]]" authorityURI="[[su10:p5:authorityURI]]" valueURI="[[su10:p5:valueURI]]" encoding="[[su10:p5:encoding]]" point="[[su10:p5:point]]">[[su10:p5:value]]</[[su10:p5:type]]>
   </subject>
   <subject displayLabel="[[su11:displayLabel]]" authority="[[su11:authority]]" authorityURI="[[su11:authorityURI]]" valueURI="[[su11:valueURI]]" lang="[[su11:language]]" script="[[su11:script]]" transliteration="[[su11:transliteration]]" altRepGroup="[[su11:altRepGroup]]">
-    <[[su11:p1:type]] authority="[[su11:p1:authority]]" authorityURI="[[su11:p1:authorityURI]]" valueURI="[[su11:p1:valueURI]]">[[su11:p1:value]]</[[su11:p1:type]]>
-    <[[su11:p2:type]] authority="[[su11:p2:authority]]" authorityURI="[[su11:p2:authorityURI]]" valueURI="[[su11:p2:valueURI]]">[[su11:p2:value]]</[[su11:p2:type]]>
-    <[[su11:p3:type]] authority="[[su11:p3:authority]]" authorityURI="[[su11:p3:authorityURI]]" valueURI="[[su11:p3:valueURI]]">[[su11:p3:value]]</[[su11:p3:type]]>
-    <[[su11:p4:type]] authority="[[su11:p4:authority]]" authorityURI="[[su11:p4:authorityURI]]" valueURI="[[su11:p4:valueURI]]">[[su11:p4:value]]</[[su11:p4:type]]>
-    <[[su11:p5:type]] authority="[[su11:p5:authority]]" authorityURI="[[su11:p5:authorityURI]]" valueURI="[[su11:p5:valueURI]]">[[su11:p5:value]]</[[su11:p5:type]]>
+    <[[su11:p1:type]] authority="[[su11:p1:authority]]" authorityURI="[[su11:p1:authorityURI]]" valueURI="[[su11:p1:valueURI]]" encoding="[[su11:p1:encoding]]" point="[[su11:p1:point]]">[[su11:p1:value]]</[[su11:p1:type]]>
+    <[[su11:p2:type]] authority="[[su11:p2:authority]]" authorityURI="[[su11:p2:authorityURI]]" valueURI="[[su11:p2:valueURI]]" encoding="[[su11:p2:encoding]]" point="[[su11:p2:point]]">[[su11:p2:value]]</[[su11:p2:type]]>
+    <[[su11:p3:type]] authority="[[su11:p3:authority]]" authorityURI="[[su11:p3:authorityURI]]" valueURI="[[su11:p3:valueURI]]" encoding="[[su11:p3:encoding]]" point="[[su11:p3:point]]">[[su11:p3:value]]</[[su11:p3:type]]>
+    <[[su11:p4:type]] authority="[[su11:p4:authority]]" authorityURI="[[su11:p4:authorityURI]]" valueURI="[[su11:p4:valueURI]]" encoding="[[su11:p4:encoding]]" point="[[su11:p4:point]]">[[su11:p4:value]]</[[su11:p4:type]]>
+    <[[su11:p5:type]] authority="[[su11:p5:authority]]" authorityURI="[[su11:p5:authorityURI]]" valueURI="[[su11:p5:valueURI]]" encoding="[[su11:p5:encoding]]" point="[[su11:p5:point]]">[[su11:p5:value]]</[[su11:p5:type]]>
   </subject>
   <subject displayLabel="[[su12:displayLabel]]" authority="[[su12:authority]]" authorityURI="[[su12:authorityURI]]" valueURI="[[su12:valueURI]]" lang="[[su12:language]]" script="[[su12:script]]" transliteration="[[su12:transliteration]]" altRepGroup="[[su12:altRepGroup]]">
-    <[[su12:p1:type]] authority="[[su12:p1:authority]]" authorityURI="[[su12:p1:authorityURI]]" valueURI="[[su12:p1:valueURI]]">[[su12:p1:value]]</[[su12:p1:type]]>
-    <[[su12:p2:type]] authority="[[su12:p2:authority]]" authorityURI="[[su12:p2:authorityURI]]" valueURI="[[su12:p2:valueURI]]">[[su12:p2:value]]</[[su12:p2:type]]>
-    <[[su12:p3:type]] authority="[[su12:p3:authority]]" authorityURI="[[su12:p3:authorityURI]]" valueURI="[[su12:p3:valueURI]]">[[su12:p3:value]]</[[su12:p3:type]]>
-    <[[su12:p4:type]] authority="[[su12:p4:authority]]" authorityURI="[[su12:p4:authorityURI]]" valueURI="[[su12:p4:valueURI]]">[[su12:p4:value]]</[[su12:p4:type]]>
-    <[[su12:p5:type]] authority="[[su12:p5:authority]]" authorityURI="[[su12:p5:authorityURI]]" valueURI="[[su12:p5:valueURI]]">[[su12:p5:value]]</[[su12:p5:type]]>
+    <[[su12:p1:type]] authority="[[su12:p1:authority]]" authorityURI="[[su12:p1:authorityURI]]" valueURI="[[su12:p1:valueURI]]" encoding="[[su12:p1:encoding]]" point="[[su12:p1:point]]">[[su12:p1:value]]</[[su12:p1:type]]>
+    <[[su12:p2:type]] authority="[[su12:p2:authority]]" authorityURI="[[su12:p2:authorityURI]]" valueURI="[[su12:p2:valueURI]]" encoding="[[su12:p2:encoding]]" point="[[su12:p2:point]]">[[su12:p2:value]]</[[su12:p2:type]]>
+    <[[su12:p3:type]] authority="[[su12:p3:authority]]" authorityURI="[[su12:p3:authorityURI]]" valueURI="[[su12:p3:valueURI]]" encoding="[[su12:p3:encoding]]" point="[[su12:p3:point]]">[[su12:p3:value]]</[[su12:p3:type]]>
+    <[[su12:p4:type]] authority="[[su12:p4:authority]]" authorityURI="[[su12:p4:authorityURI]]" valueURI="[[su12:p4:valueURI]]" encoding="[[su12:p4:encoding]]" point="[[su12:p4:point]]">[[su12:p4:value]]</[[su12:p4:type]]>
+    <[[su12:p5:type]] authority="[[su12:p5:authority]]" authorityURI="[[su12:p5:authorityURI]]" valueURI="[[su12:p5:valueURI]]" encoding="[[su12:p5:encoding]]" point="[[su12:p5:point]]">[[su12:p5:value]]</[[su12:p5:type]]>
   </subject>
   <subject displayLabel="[[su13:displayLabel]]" authority="[[su13:authority]]" authorityURI="[[su13:authorityURI]]" valueURI="[[su13:valueURI]]" lang="[[su13:language]]" script="[[su13:script]]" transliteration="[[su13:transliteration]]" altRepGroup="[[su13:altRepGroup]]">
-    <[[su13:p1:type]] authority="[[su13:p1:authority]]" authorityURI="[[su13:p1:authorityURI]]" valueURI="[[su13:p1:valueURI]]">[[su13:p1:value]]</[[su13:p1:type]]>
-    <[[su13:p2:type]] authority="[[su13:p2:authority]]" authorityURI="[[su13:p2:authorityURI]]" valueURI="[[su13:p2:valueURI]]">[[su13:p2:value]]</[[su13:p2:type]]>
-    <[[su13:p3:type]] authority="[[su13:p3:authority]]" authorityURI="[[su13:p3:authorityURI]]" valueURI="[[su13:p3:valueURI]]">[[su13:p3:value]]</[[su13:p3:type]]>
-    <[[su13:p4:type]] authority="[[su13:p4:authority]]" authorityURI="[[su13:p4:authorityURI]]" valueURI="[[su13:p4:valueURI]]">[[su13:p4:value]]</[[su13:p4:type]]>
-    <[[su13:p5:type]] authority="[[su13:p5:authority]]" authorityURI="[[su13:p5:authorityURI]]" valueURI="[[su13:p5:valueURI]]">[[su13:p5:value]]</[[su13:p5:type]]>
+    <[[su13:p1:type]] authority="[[su13:p1:authority]]" authorityURI="[[su13:p1:authorityURI]]" valueURI="[[su13:p1:valueURI]]" encoding="[[su13:p1:encoding]]" point="[[su13:p1:point]]">[[su13:p1:value]]</[[su13:p1:type]]>
+    <[[su13:p2:type]] authority="[[su13:p2:authority]]" authorityURI="[[su13:p2:authorityURI]]" valueURI="[[su13:p2:valueURI]]" encoding="[[su13:p2:encoding]]" point="[[su13:p2:point]]">[[su13:p2:value]]</[[su13:p2:type]]>
+    <[[su13:p3:type]] authority="[[su13:p3:authority]]" authorityURI="[[su13:p3:authorityURI]]" valueURI="[[su13:p3:valueURI]]" encoding="[[su13:p3:encoding]]" point="[[su13:p3:point]]">[[su13:p3:value]]</[[su13:p3:type]]>
+    <[[su13:p4:type]] authority="[[su13:p4:authority]]" authorityURI="[[su13:p4:authorityURI]]" valueURI="[[su13:p4:valueURI]]" encoding="[[su13:p4:encoding]]" point="[[su13:p4:point]]">[[su13:p4:value]]</[[su13:p4:type]]>
+    <[[su13:p5:type]] authority="[[su13:p5:authority]]" authorityURI="[[su13:p5:authorityURI]]" valueURI="[[su13:p5:valueURI]]" encoding="[[su13:p5:encoding]]" point="[[su13:p5:point]]">[[su13:p5:value]]</[[su13:p5:type]]>
   </subject>
   <subject displayLabel="[[su14:displayLabel]]" authority="[[su14:authority]]" authorityURI="[[su14:authorityURI]]" valueURI="[[su14:valueURI]]" lang="[[su14:language]]" script="[[su14:script]]" transliteration="[[su14:transliteration]]" altRepGroup="[[su14:altRepGroup]]">
-    <[[su14:p1:type]] authority="[[su14:p1:authority]]" authorityURI="[[su14:p1:authorityURI]]" valueURI="[[su14:p1:valueURI]]">[[su14:p1:value]]</[[su14:p1:type]]>
-    <[[su14:p2:type]] authority="[[su14:p2:authority]]" authorityURI="[[su14:p2:authorityURI]]" valueURI="[[su14:p2:valueURI]]">[[su14:p2:value]]</[[su14:p2:type]]>
-    <[[su14:p3:type]] authority="[[su14:p3:authority]]" authorityURI="[[su14:p3:authorityURI]]" valueURI="[[su14:p3:valueURI]]">[[su14:p3:value]]</[[su14:p3:type]]>
-    <[[su14:p4:type]] authority="[[su14:p4:authority]]" authorityURI="[[su14:p4:authorityURI]]" valueURI="[[su14:p4:valueURI]]">[[su14:p4:value]]</[[su14:p4:type]]>
-    <[[su14:p5:type]] authority="[[su14:p5:authority]]" authorityURI="[[su14:p5:authorityURI]]" valueURI="[[su14:p5:valueURI]]">[[su14:p5:value]]</[[su14:p5:type]]>
+    <[[su14:p1:type]] authority="[[su14:p1:authority]]" authorityURI="[[su14:p1:authorityURI]]" valueURI="[[su14:p1:valueURI]]" encoding="[[su14:p1:encoding]]" point="[[su14:p1:point]]">[[su14:p1:value]]</[[su14:p1:type]]>
+    <[[su14:p2:type]] authority="[[su14:p2:authority]]" authorityURI="[[su14:p2:authorityURI]]" valueURI="[[su14:p2:valueURI]]" encoding="[[su14:p2:encoding]]" point="[[su14:p2:point]]">[[su14:p2:value]]</[[su14:p2:type]]>
+    <[[su14:p3:type]] authority="[[su14:p3:authority]]" authorityURI="[[su14:p3:authorityURI]]" valueURI="[[su14:p3:valueURI]]" encoding="[[su14:p3:encoding]]" point="[[su14:p3:point]]">[[su14:p3:value]]</[[su14:p3:type]]>
+    <[[su14:p4:type]] authority="[[su14:p4:authority]]" authorityURI="[[su14:p4:authorityURI]]" valueURI="[[su14:p4:valueURI]]" encoding="[[su14:p4:encoding]]" point="[[su14:p4:point]]">[[su14:p4:value]]</[[su14:p4:type]]>
+    <[[su14:p5:type]] authority="[[su14:p5:authority]]" authorityURI="[[su14:p5:authorityURI]]" valueURI="[[su14:p5:valueURI]]" encoding="[[su14:p5:encoding]]" point="[[su14:p5:point]]">[[su14:p5:value]]</[[su14:p5:type]]>
   </subject>
   <subject displayLabel="[[su15:displayLabel]]" authority="[[su15:authority]]" authorityURI="[[su15:authorityURI]]" valueURI="[[su15:valueURI]]" lang="[[su15:language]]" script="[[su15:script]]" transliteration="[[su15:transliteration]]" altRepGroup="[[su15:altRepGroup]]">
-    <[[su15:p1:type]] authority="[[su15:p1:authority]]" authorityURI="[[su15:p1:authorityURI]]" valueURI="[[su15:p1:valueURI]]">[[su15:p1:value]]</[[su15:p1:type]]>
-    <[[su15:p2:type]] authority="[[su15:p2:authority]]" authorityURI="[[su15:p2:authorityURI]]" valueURI="[[su15:p2:valueURI]]">[[su15:p2:value]]</[[su15:p2:type]]>
-    <[[su15:p3:type]] authority="[[su15:p3:authority]]" authorityURI="[[su15:p3:authorityURI]]" valueURI="[[su15:p3:valueURI]]">[[su15:p3:value]]</[[su15:p3:type]]>
-    <[[su15:p4:type]] authority="[[su15:p4:authority]]" authorityURI="[[su15:p4:authorityURI]]" valueURI="[[su15:p4:valueURI]]">[[su15:p4:value]]</[[su15:p4:type]]>
-    <[[su15:p5:type]] authority="[[su15:p5:authority]]" authorityURI="[[su15:p5:authorityURI]]" valueURI="[[su15:p5:valueURI]]">[[su15:p5:value]]</[[su15:p5:type]]>
+    <[[su15:p1:type]] authority="[[su15:p1:authority]]" authorityURI="[[su15:p1:authorityURI]]" valueURI="[[su15:p1:valueURI]]" encoding="[[su15:p1:encoding]]" point="[[su15:p1:point]]">[[su15:p1:value]]</[[su15:p1:type]]>
+    <[[su15:p2:type]] authority="[[su15:p2:authority]]" authorityURI="[[su15:p2:authorityURI]]" valueURI="[[su15:p2:valueURI]]" encoding="[[su15:p2:encoding]]" point="[[su15:p2:point]]">[[su15:p2:value]]</[[su15:p2:type]]>
+    <[[su15:p3:type]] authority="[[su15:p3:authority]]" authorityURI="[[su15:p3:authorityURI]]" valueURI="[[su15:p3:valueURI]]" encoding="[[su15:p3:encoding]]" point="[[su15:p3:point]]">[[su15:p3:value]]</[[su15:p3:type]]>
+    <[[su15:p4:type]] authority="[[su15:p4:authority]]" authorityURI="[[su15:p4:authorityURI]]" valueURI="[[su15:p4:valueURI]]" encoding="[[su15:p4:encoding]]" point="[[su15:p4:point]]">[[su15:p4:value]]</[[su15:p4:type]]>
+    <[[su15:p5:type]] authority="[[su15:p5:authority]]" authorityURI="[[su15:p5:authorityURI]]" valueURI="[[su15:p5:valueURI]]" encoding="[[su15:p5:encoding]]" point="[[su15:p5:point]]">[[su15:p5:value]]</[[su15:p5:type]]>
   </subject>
   <subject displayLabel="[[su16:displayLabel]]" authority="[[su16:authority]]" authorityURI="[[su16:authorityURI]]" valueURI="[[su16:valueURI]]" lang="[[su16:language]]" script="[[su16:script]]" transliteration="[[su16:transliteration]]" altRepGroup="[[su16:altRepGroup]]">
-    <[[su16:p1:type]] authority="[[su16:p1:authority]]" authorityURI="[[su16:p1:authorityURI]]" valueURI="[[su16:p1:valueURI]]">[[su16:p1:value]]</[[su16:p1:type]]>
-    <[[su16:p2:type]] authority="[[su16:p2:authority]]" authorityURI="[[su16:p2:authorityURI]]" valueURI="[[su16:p2:valueURI]]">[[su16:p2:value]]</[[su16:p2:type]]>
-    <[[su16:p3:type]] authority="[[su16:p3:authority]]" authorityURI="[[su16:p3:authorityURI]]" valueURI="[[su16:p3:valueURI]]">[[su16:p3:value]]</[[su16:p3:type]]>
-    <[[su16:p4:type]] authority="[[su16:p4:authority]]" authorityURI="[[su16:p4:authorityURI]]" valueURI="[[su16:p4:valueURI]]">[[su16:p4:value]]</[[su16:p4:type]]>
-    <[[su16:p5:type]] authority="[[su16:p5:authority]]" authorityURI="[[su16:p5:authorityURI]]" valueURI="[[su16:p5:valueURI]]">[[su16:p5:value]]</[[su16:p5:type]]>
+    <[[su16:p1:type]] authority="[[su16:p1:authority]]" authorityURI="[[su16:p1:authorityURI]]" valueURI="[[su16:p1:valueURI]]" encoding="[[su16:p1:encoding]]" point="[[su16:p1:point]]">[[su16:p1:value]]</[[su16:p1:type]]>
+    <[[su16:p2:type]] authority="[[su16:p2:authority]]" authorityURI="[[su16:p2:authorityURI]]" valueURI="[[su16:p2:valueURI]]" encoding="[[su16:p2:encoding]]" point="[[su16:p2:point]]">[[su16:p2:value]]</[[su16:p2:type]]>
+    <[[su16:p3:type]] authority="[[su16:p3:authority]]" authorityURI="[[su16:p3:authorityURI]]" valueURI="[[su16:p3:valueURI]]" encoding="[[su16:p3:encoding]]" point="[[su16:p3:point]]">[[su16:p3:value]]</[[su16:p3:type]]>
+    <[[su16:p4:type]] authority="[[su16:p4:authority]]" authorityURI="[[su16:p4:authorityURI]]" valueURI="[[su16:p4:valueURI]]" encoding="[[su16:p4:encoding]]" point="[[su16:p4:point]]">[[su16:p4:value]]</[[su16:p4:type]]>
+    <[[su16:p5:type]] authority="[[su16:p5:authority]]" authorityURI="[[su16:p5:authorityURI]]" valueURI="[[su16:p5:valueURI]]" encoding="[[su16:p5:encoding]]" point="[[su16:p5:point]]">[[su16:p5:value]]</[[su16:p5:type]]>
   </subject>
   <subject displayLabel="[[su17:displayLabel]]" authority="[[su17:authority]]" authorityURI="[[su17:authorityURI]]" valueURI="[[su17:valueURI]]" lang="[[su17:language]]" script="[[su17:script]]" transliteration="[[su17:transliteration]]" altRepGroup="[[su17:altRepGroup]]">
-    <[[su17:p1:type]] authority="[[su17:p1:authority]]" authorityURI="[[su17:p1:authorityURI]]" valueURI="[[su17:p1:valueURI]]">[[su17:p1:value]]</[[su17:p1:type]]>
-    <[[su17:p2:type]] authority="[[su17:p2:authority]]" authorityURI="[[su17:p2:authorityURI]]" valueURI="[[su17:p2:valueURI]]">[[su17:p2:value]]</[[su17:p2:type]]>
-    <[[su17:p3:type]] authority="[[su17:p3:authority]]" authorityURI="[[su17:p3:authorityURI]]" valueURI="[[su17:p3:valueURI]]">[[su17:p3:value]]</[[su17:p3:type]]>
-    <[[su17:p4:type]] authority="[[su17:p4:authority]]" authorityURI="[[su17:p4:authorityURI]]" valueURI="[[su17:p4:valueURI]]">[[su17:p4:value]]</[[su17:p4:type]]>
-    <[[su17:p5:type]] authority="[[su17:p5:authority]]" authorityURI="[[su17:p5:authorityURI]]" valueURI="[[su17:p5:valueURI]]">[[su17:p5:value]]</[[su17:p5:type]]>
+    <[[su17:p1:type]] authority="[[su17:p1:authority]]" authorityURI="[[su17:p1:authorityURI]]" valueURI="[[su17:p1:valueURI]]" encoding="[[su17:p1:encoding]]" point="[[su17:p1:point]]">[[su17:p1:value]]</[[su17:p1:type]]>
+    <[[su17:p2:type]] authority="[[su17:p2:authority]]" authorityURI="[[su17:p2:authorityURI]]" valueURI="[[su17:p2:valueURI]]" encoding="[[su17:p2:encoding]]" point="[[su17:p2:point]]">[[su17:p2:value]]</[[su17:p2:type]]>
+    <[[su17:p3:type]] authority="[[su17:p3:authority]]" authorityURI="[[su17:p3:authorityURI]]" valueURI="[[su17:p3:valueURI]]" encoding="[[su17:p3:encoding]]" point="[[su17:p3:point]]">[[su17:p3:value]]</[[su17:p3:type]]>
+    <[[su17:p4:type]] authority="[[su17:p4:authority]]" authorityURI="[[su17:p4:authorityURI]]" valueURI="[[su17:p4:valueURI]]" encoding="[[su17:p4:encoding]]" point="[[su17:p4:point]]">[[su17:p4:value]]</[[su17:p4:type]]>
+    <[[su17:p5:type]] authority="[[su17:p5:authority]]" authorityURI="[[su17:p5:authorityURI]]" valueURI="[[su17:p5:valueURI]]" encoding="[[su17:p5:encoding]]" point="[[su17:p5:point]]">[[su17:p5:value]]</[[su17:p5:type]]>
   </subject>
   <subject displayLabel="[[su18:displayLabel]]" authority="[[su18:authority]]" authorityURI="[[su18:authorityURI]]" valueURI="[[su18:valueURI]]" lang="[[su18:language]]" script="[[su18:script]]" transliteration="[[su18:transliteration]]" altRepGroup="[[su18:altRepGroup]]">
-    <[[su18:p1:type]] authority="[[su18:p1:authority]]" authorityURI="[[su18:p1:authorityURI]]" valueURI="[[su18:p1:valueURI]]">[[su18:p1:value]]</[[su18:p1:type]]>
-    <[[su18:p2:type]] authority="[[su18:p2:authority]]" authorityURI="[[su18:p2:authorityURI]]" valueURI="[[su18:p2:valueURI]]">[[su18:p2:value]]</[[su18:p2:type]]>
-    <[[su18:p3:type]] authority="[[su18:p3:authority]]" authorityURI="[[su18:p3:authorityURI]]" valueURI="[[su18:p3:valueURI]]">[[su18:p3:value]]</[[su18:p3:type]]>
-    <[[su18:p4:type]] authority="[[su18:p4:authority]]" authorityURI="[[su18:p4:authorityURI]]" valueURI="[[su18:p4:valueURI]]">[[su18:p4:value]]</[[su18:p4:type]]>
-    <[[su18:p5:type]] authority="[[su18:p5:authority]]" authorityURI="[[su18:p5:authorityURI]]" valueURI="[[su18:p5:valueURI]]">[[su18:p5:value]]</[[su18:p5:type]]>
+    <[[su18:p1:type]] authority="[[su18:p1:authority]]" authorityURI="[[su18:p1:authorityURI]]" valueURI="[[su18:p1:valueURI]]" encoding="[[su18:p1:encoding]]" point="[[su18:p1:point]]">[[su18:p1:value]]</[[su18:p1:type]]>
+    <[[su18:p2:type]] authority="[[su18:p2:authority]]" authorityURI="[[su18:p2:authorityURI]]" valueURI="[[su18:p2:valueURI]]" encoding="[[su18:p2:encoding]]" point="[[su18:p2:point]]">[[su18:p2:value]]</[[su18:p2:type]]>
+    <[[su18:p3:type]] authority="[[su18:p3:authority]]" authorityURI="[[su18:p3:authorityURI]]" valueURI="[[su18:p3:valueURI]]" encoding="[[su18:p3:encoding]]" point="[[su18:p3:point]]">[[su18:p3:value]]</[[su18:p3:type]]>
+    <[[su18:p4:type]] authority="[[su18:p4:authority]]" authorityURI="[[su18:p4:authorityURI]]" valueURI="[[su18:p4:valueURI]]" encoding="[[su18:p4:encoding]]" point="[[su18:p4:point]]">[[su18:p4:value]]</[[su18:p4:type]]>
+    <[[su18:p5:type]] authority="[[su18:p5:authority]]" authorityURI="[[su18:p5:authorityURI]]" valueURI="[[su18:p5:valueURI]]" encoding="[[su18:p5:encoding]]" point="[[su18:p5:point]]">[[su18:p5:value]]</[[su18:p5:type]]>
   </subject>
   <subject displayLabel="[[su19:displayLabel]]" authority="[[su19:authority]]" authorityURI="[[su19:authorityURI]]" valueURI="[[su19:valueURI]]" lang="[[su19:language]]" script="[[su19:script]]" transliteration="[[su19:transliteration]]" altRepGroup="[[su19:altRepGroup]]">
-    <[[su19:p1:type]] authority="[[su19:p1:authority]]" authorityURI="[[su19:p1:authorityURI]]" valueURI="[[su19:p1:valueURI]]">[[su19:p1:value]]</[[su19:p1:type]]>
-    <[[su19:p2:type]] authority="[[su19:p2:authority]]" authorityURI="[[su19:p2:authorityURI]]" valueURI="[[su19:p2:valueURI]]">[[su19:p2:value]]</[[su19:p2:type]]>
-    <[[su19:p3:type]] authority="[[su19:p3:authority]]" authorityURI="[[su19:p3:authorityURI]]" valueURI="[[su19:p3:valueURI]]">[[su19:p3:value]]</[[su19:p3:type]]>
-    <[[su19:p4:type]] authority="[[su19:p4:authority]]" authorityURI="[[su19:p4:authorityURI]]" valueURI="[[su19:p4:valueURI]]">[[su19:p4:value]]</[[su19:p4:type]]>
-    <[[su19:p5:type]] authority="[[su19:p5:authority]]" authorityURI="[[su19:p5:authorityURI]]" valueURI="[[su19:p5:valueURI]]">[[su19:p5:value]]</[[su19:p5:type]]>
+    <[[su19:p1:type]] authority="[[su19:p1:authority]]" authorityURI="[[su19:p1:authorityURI]]" valueURI="[[su19:p1:valueURI]]" encoding="[[su19:p1:encoding]]" point="[[su19:p1:point]]">[[su19:p1:value]]</[[su19:p1:type]]>
+    <[[su19:p2:type]] authority="[[su19:p2:authority]]" authorityURI="[[su19:p2:authorityURI]]" valueURI="[[su19:p2:valueURI]]" encoding="[[su19:p2:encoding]]" point="[[su19:p2:point]]">[[su19:p2:value]]</[[su19:p2:type]]>
+    <[[su19:p3:type]] authority="[[su19:p3:authority]]" authorityURI="[[su19:p3:authorityURI]]" valueURI="[[su19:p3:valueURI]]" encoding="[[su19:p3:encoding]]" point="[[su19:p3:point]]">[[su19:p3:value]]</[[su19:p3:type]]>
+    <[[su19:p4:type]] authority="[[su19:p4:authority]]" authorityURI="[[su19:p4:authorityURI]]" valueURI="[[su19:p4:valueURI]]" encoding="[[su19:p4:encoding]]" point="[[su19:p4:point]]">[[su19:p4:value]]</[[su19:p4:type]]>
+    <[[su19:p5:type]] authority="[[su19:p5:authority]]" authorityURI="[[su19:p5:authorityURI]]" valueURI="[[su19:p5:valueURI]]" encoding="[[su19:p5:encoding]]" point="[[su19:p5:point]]">[[su19:p5:value]]</[[su19:p5:type]]>
   </subject>
   <subject displayLabel="[[su20:displayLabel]]" authority="[[su20:authority]]" authorityURI="[[su20:authorityURI]]" valueURI="[[su20:valueURI]]" lang="[[su20:language]]" script="[[su20:script]]" transliteration="[[su20:transliteration]]" altRepGroup="[[su20:altRepGroup]]">
-    <[[su20:p1:type]] authority="[[su20:p1:authority]]" authorityURI="[[su20:p1:authorityURI]]" valueURI="[[su20:p1:valueURI]]">[[su20:p1:value]]</[[su20:p1:type]]>
-    <[[su20:p2:type]] authority="[[su20:p2:authority]]" authorityURI="[[su20:p2:authorityURI]]" valueURI="[[su20:p2:valueURI]]">[[su20:p2:value]]</[[su20:p2:type]]>
-    <[[su20:p3:type]] authority="[[su20:p3:authority]]" authorityURI="[[su20:p3:authorityURI]]" valueURI="[[su20:p3:valueURI]]">[[su20:p3:value]]</[[su20:p3:type]]>
-    <[[su20:p4:type]] authority="[[su20:p4:authority]]" authorityURI="[[su20:p4:authorityURI]]" valueURI="[[su20:p4:valueURI]]">[[su20:p4:value]]</[[su20:p4:type]]>
-    <[[su20:p5:type]] authority="[[su20:p5:authority]]" authorityURI="[[su20:p5:authorityURI]]" valueURI="[[su20:p5:valueURI]]">[[su20:p5:value]]</[[su20:p5:type]]>
+    <[[su20:p1:type]] authority="[[su20:p1:authority]]" authorityURI="[[su20:p1:authorityURI]]" valueURI="[[su20:p1:valueURI]]" encoding="[[su20:p1:encoding]]" point="[[su20:p1:point]]">[[su20:p1:value]]</[[su20:p1:type]]>
+    <[[su20:p2:type]] authority="[[su20:p2:authority]]" authorityURI="[[su20:p2:authorityURI]]" valueURI="[[su20:p2:valueURI]]" encoding="[[su20:p2:encoding]]" point="[[su20:p2:point]]">[[su20:p2:value]]</[[su20:p2:type]]>
+    <[[su20:p3:type]] authority="[[su20:p3:authority]]" authorityURI="[[su20:p3:authorityURI]]" valueURI="[[su20:p3:valueURI]]" encoding="[[su20:p3:encoding]]" point="[[su20:p3:point]]">[[su20:p3:value]]</[[su20:p3:type]]>
+    <[[su20:p4:type]] authority="[[su20:p4:authority]]" authorityURI="[[su20:p4:authorityURI]]" valueURI="[[su20:p4:valueURI]]" encoding="[[su20:p4:encoding]]" point="[[su20:p4:point]]">[[su20:p4:value]]</[[su20:p4:type]]>
+    <[[su20:p5:type]] authority="[[su20:p5:authority]]" authorityURI="[[su20:p5:authorityURI]]" valueURI="[[su20:p5:valueURI]]" encoding="[[su20:p5:encoding]]" point="[[su20:p5:point]]">[[su20:p5:value]]</[[su20:p5:type]]>
   </subject>
   <subject displayLabel="[[su21:displayLabel]]" authority="[[su21:authority]]" authorityURI="[[su21:authorityURI]]" valueURI="[[su21:valueURI]]" lang="[[su21:language]]" script="[[su21:script]]" transliteration="[[su21:transliteration]]" altRepGroup="[[su21:altRepGroup]]">
-    <[[su21:p1:type]] authority="[[su21:p1:authority]]" authorityURI="[[su21:p1:authorityURI]]" valueURI="[[su21:p1:valueURI]]">[[su21:p1:value]]</[[su21:p1:type]]>
-    <[[su21:p2:type]] authority="[[su21:p2:authority]]" authorityURI="[[su21:p2:authorityURI]]" valueURI="[[su21:p2:valueURI]]">[[su21:p2:value]]</[[su21:p2:type]]>
-    <[[su21:p3:type]] authority="[[su21:p3:authority]]" authorityURI="[[su21:p3:authorityURI]]" valueURI="[[su21:p3:valueURI]]">[[su21:p3:value]]</[[su21:p3:type]]>
-    <[[su21:p4:type]] authority="[[su21:p4:authority]]" authorityURI="[[su21:p4:authorityURI]]" valueURI="[[su21:p4:valueURI]]">[[su21:p4:value]]</[[su21:p4:type]]>
-    <[[su21:p5:type]] authority="[[su21:p5:authority]]" authorityURI="[[su21:p5:authorityURI]]" valueURI="[[su21:p5:valueURI]]">[[su21:p5:value]]</[[su21:p5:type]]>
+    <[[su21:p1:type]] authority="[[su21:p1:authority]]" authorityURI="[[su21:p1:authorityURI]]" valueURI="[[su21:p1:valueURI]]" encoding="[[su21:p1:encoding]]" point="[[su21:p1:point]]">[[su21:p1:value]]</[[su21:p1:type]]>
+    <[[su21:p2:type]] authority="[[su21:p2:authority]]" authorityURI="[[su21:p2:authorityURI]]" valueURI="[[su21:p2:valueURI]]" encoding="[[su21:p2:encoding]]" point="[[su21:p2:point]]">[[su21:p2:value]]</[[su21:p2:type]]>
+    <[[su21:p3:type]] authority="[[su21:p3:authority]]" authorityURI="[[su21:p3:authorityURI]]" valueURI="[[su21:p3:valueURI]]" encoding="[[su21:p3:encoding]]" point="[[su21:p3:point]]">[[su21:p3:value]]</[[su21:p3:type]]>
+    <[[su21:p4:type]] authority="[[su21:p4:authority]]" authorityURI="[[su21:p4:authorityURI]]" valueURI="[[su21:p4:valueURI]]" encoding="[[su21:p4:encoding]]" point="[[su21:p4:point]]">[[su21:p4:value]]</[[su21:p4:type]]>
+    <[[su21:p5:type]] authority="[[su21:p5:authority]]" authorityURI="[[su21:p5:authorityURI]]" valueURI="[[su21:p5:valueURI]]" encoding="[[su21:p5:encoding]]" point="[[su21:p5:point]]">[[su21:p5:value]]</[[su21:p5:type]]>
   </subject>
   <subject displayLabel="[[su22:displayLabel]]" authority="[[su22:authority]]" authorityURI="[[su22:authorityURI]]" valueURI="[[su22:valueURI]]" lang="[[su22:language]]" script="[[su22:script]]" transliteration="[[su22:transliteration]]" altRepGroup="[[su22:altRepGroup]]">
-    <[[su22:p1:type]] authority="[[su22:p1:authority]]" authorityURI="[[su22:p1:authorityURI]]" valueURI="[[su22:p1:valueURI]]">[[su22:p1:value]]</[[su22:p1:type]]>
-    <[[su22:p2:type]] authority="[[su22:p2:authority]]" authorityURI="[[su22:p2:authorityURI]]" valueURI="[[su22:p2:valueURI]]">[[su22:p2:value]]</[[su22:p2:type]]>
-    <[[su22:p3:type]] authority="[[su22:p3:authority]]" authorityURI="[[su22:p3:authorityURI]]" valueURI="[[su22:p3:valueURI]]">[[su22:p3:value]]</[[su22:p3:type]]>
-    <[[su22:p4:type]] authority="[[su22:p4:authority]]" authorityURI="[[su22:p4:authorityURI]]" valueURI="[[su22:p4:valueURI]]">[[su22:p4:value]]</[[su22:p4:type]]>
-    <[[su22:p5:type]] authority="[[su22:p5:authority]]" authorityURI="[[su22:p5:authorityURI]]" valueURI="[[su22:p5:valueURI]]">[[su22:p5:value]]</[[su22:p5:type]]>
+    <[[su22:p1:type]] authority="[[su22:p1:authority]]" authorityURI="[[su22:p1:authorityURI]]" valueURI="[[su22:p1:valueURI]]" encoding="[[su22:p1:encoding]]" point="[[su22:p1:point]]">[[su22:p1:value]]</[[su22:p1:type]]>
+    <[[su22:p2:type]] authority="[[su22:p2:authority]]" authorityURI="[[su22:p2:authorityURI]]" valueURI="[[su22:p2:valueURI]]" encoding="[[su22:p2:encoding]]" point="[[su22:p2:point]]">[[su22:p2:value]]</[[su22:p2:type]]>
+    <[[su22:p3:type]] authority="[[su22:p3:authority]]" authorityURI="[[su22:p3:authorityURI]]" valueURI="[[su22:p3:valueURI]]" encoding="[[su22:p3:encoding]]" point="[[su22:p3:point]]">[[su22:p3:value]]</[[su22:p3:type]]>
+    <[[su22:p4:type]] authority="[[su22:p4:authority]]" authorityURI="[[su22:p4:authorityURI]]" valueURI="[[su22:p4:valueURI]]" encoding="[[su22:p4:encoding]]" point="[[su22:p4:point]]">[[su22:p4:value]]</[[su22:p4:type]]>
+    <[[su22:p5:type]] authority="[[su22:p5:authority]]" authorityURI="[[su22:p5:authorityURI]]" valueURI="[[su22:p5:valueURI]]" encoding="[[su22:p5:encoding]]" point="[[su22:p5:point]]">[[su22:p5:value]]</[[su22:p5:type]]>
   </subject>
   <subject displayLabel="[[su23:displayLabel]]" authority="[[su23:authority]]" authorityURI="[[su23:authorityURI]]" valueURI="[[su23:valueURI]]" lang="[[su23:language]]" script="[[su23:script]]" transliteration="[[su23:transliteration]]" altRepGroup="[[su23:altRepGroup]]">
-    <[[su23:p1:type]] authority="[[su23:p1:authority]]" authorityURI="[[su23:p1:authorityURI]]" valueURI="[[su23:p1:valueURI]]">[[su23:p1:value]]</[[su23:p1:type]]>
-    <[[su23:p2:type]] authority="[[su23:p2:authority]]" authorityURI="[[su23:p2:authorityURI]]" valueURI="[[su23:p2:valueURI]]">[[su23:p2:value]]</[[su23:p2:type]]>
-    <[[su23:p3:type]] authority="[[su23:p3:authority]]" authorityURI="[[su23:p3:authorityURI]]" valueURI="[[su23:p3:valueURI]]">[[su23:p3:value]]</[[su23:p3:type]]>
-    <[[su23:p4:type]] authority="[[su23:p4:authority]]" authorityURI="[[su23:p4:authorityURI]]" valueURI="[[su23:p4:valueURI]]">[[su23:p4:value]]</[[su23:p4:type]]>
-    <[[su23:p5:type]] authority="[[su23:p5:authority]]" authorityURI="[[su23:p5:authorityURI]]" valueURI="[[su23:p5:valueURI]]">[[su23:p5:value]]</[[su23:p5:type]]>
+    <[[su23:p1:type]] authority="[[su23:p1:authority]]" authorityURI="[[su23:p1:authorityURI]]" valueURI="[[su23:p1:valueURI]]" encoding="[[su23:p1:encoding]]" point="[[su23:p1:point]]">[[su23:p1:value]]</[[su23:p1:type]]>
+    <[[su23:p2:type]] authority="[[su23:p2:authority]]" authorityURI="[[su23:p2:authorityURI]]" valueURI="[[su23:p2:valueURI]]" encoding="[[su23:p2:encoding]]" point="[[su23:p2:point]]">[[su23:p2:value]]</[[su23:p2:type]]>
+    <[[su23:p3:type]] authority="[[su23:p3:authority]]" authorityURI="[[su23:p3:authorityURI]]" valueURI="[[su23:p3:valueURI]]" encoding="[[su23:p3:encoding]]" point="[[su23:p3:point]]">[[su23:p3:value]]</[[su23:p3:type]]>
+    <[[su23:p4:type]] authority="[[su23:p4:authority]]" authorityURI="[[su23:p4:authorityURI]]" valueURI="[[su23:p4:valueURI]]" encoding="[[su23:p4:encoding]]" point="[[su23:p4:point]]">[[su23:p4:value]]</[[su23:p4:type]]>
+    <[[su23:p5:type]] authority="[[su23:p5:authority]]" authorityURI="[[su23:p5:authorityURI]]" valueURI="[[su23:p5:valueURI]]" encoding="[[su23:p5:encoding]]" point="[[su23:p5:point]]">[[su23:p5:value]]</[[su23:p5:type]]>
   </subject>
   <subject displayLabel="[[su24:displayLabel]]" authority="[[su24:authority]]" authorityURI="[[su24:authorityURI]]" valueURI="[[su24:valueURI]]" lang="[[su24:language]]" script="[[su24:script]]" transliteration="[[su24:transliteration]]" altRepGroup="[[su24:altRepGroup]]">
-    <[[su24:p1:type]] authority="[[su24:p1:authority]]" authorityURI="[[su24:p1:authorityURI]]" valueURI="[[su24:p1:valueURI]]">[[su24:p1:value]]</[[su24:p1:type]]>
-    <[[su24:p2:type]] authority="[[su24:p2:authority]]" authorityURI="[[su24:p2:authorityURI]]" valueURI="[[su24:p2:valueURI]]">[[su24:p2:value]]</[[su24:p2:type]]>
-    <[[su24:p3:type]] authority="[[su24:p3:authority]]" authorityURI="[[su24:p3:authorityURI]]" valueURI="[[su24:p3:valueURI]]">[[su24:p3:value]]</[[su24:p3:type]]>
-    <[[su24:p4:type]] authority="[[su24:p4:authority]]" authorityURI="[[su24:p4:authorityURI]]" valueURI="[[su24:p4:valueURI]]">[[su24:p4:value]]</[[su24:p4:type]]>
-    <[[su24:p5:type]] authority="[[su24:p5:authority]]" authorityURI="[[su24:p5:authorityURI]]" valueURI="[[su24:p5:valueURI]]">[[su24:p5:value]]</[[su24:p5:type]]>
+    <[[su24:p1:type]] authority="[[su24:p1:authority]]" authorityURI="[[su24:p1:authorityURI]]" valueURI="[[su24:p1:valueURI]]" encoding="[[su24:p1:encoding]]" point="[[su24:p1:point]]">[[su24:p1:value]]</[[su24:p1:type]]>
+    <[[su24:p2:type]] authority="[[su24:p2:authority]]" authorityURI="[[su24:p2:authorityURI]]" valueURI="[[su24:p2:valueURI]]" encoding="[[su24:p2:encoding]]" point="[[su24:p2:point]]">[[su24:p2:value]]</[[su24:p2:type]]>
+    <[[su24:p3:type]] authority="[[su24:p3:authority]]" authorityURI="[[su24:p3:authorityURI]]" valueURI="[[su24:p3:valueURI]]" encoding="[[su24:p3:encoding]]" point="[[su24:p3:point]]">[[su24:p3:value]]</[[su24:p3:type]]>
+    <[[su24:p4:type]] authority="[[su24:p4:authority]]" authorityURI="[[su24:p4:authorityURI]]" valueURI="[[su24:p4:valueURI]]" encoding="[[su24:p4:encoding]]" point="[[su24:p4:point]]">[[su24:p4:value]]</[[su24:p4:type]]>
+    <[[su24:p5:type]] authority="[[su24:p5:authority]]" authorityURI="[[su24:p5:authorityURI]]" valueURI="[[su24:p5:valueURI]]" encoding="[[su24:p5:encoding]]" point="[[su24:p5:point]]">[[su24:p5:value]]</[[su24:p5:type]]>
   </subject>
   <subject displayLabel="[[su25:displayLabel]]" authority="[[su25:authority]]" authorityURI="[[su25:authorityURI]]" valueURI="[[su25:valueURI]]" lang="[[su25:language]]" script="[[su25:script]]" transliteration="[[su25:transliteration]]" altRepGroup="[[su25:altRepGroup]]">
-    <[[su25:p1:type]] authority="[[su25:p1:authority]]" authorityURI="[[su25:p1:authorityURI]]" valueURI="[[su25:p1:valueURI]]">[[su25:p1:value]]</[[su25:p1:type]]>
-    <[[su25:p2:type]] authority="[[su25:p2:authority]]" authorityURI="[[su25:p2:authorityURI]]" valueURI="[[su25:p2:valueURI]]">[[su25:p2:value]]</[[su25:p2:type]]>
-    <[[su25:p3:type]] authority="[[su25:p3:authority]]" authorityURI="[[su25:p3:authorityURI]]" valueURI="[[su25:p3:valueURI]]">[[su25:p3:value]]</[[su25:p3:type]]>
-    <[[su25:p4:type]] authority="[[su25:p4:authority]]" authorityURI="[[su25:p4:authorityURI]]" valueURI="[[su25:p4:valueURI]]">[[su25:p4:value]]</[[su25:p4:type]]>
-    <[[su25:p5:type]] authority="[[su25:p5:authority]]" authorityURI="[[su25:p5:authorityURI]]" valueURI="[[su25:p5:valueURI]]">[[su25:p5:value]]</[[su25:p5:type]]>
+    <[[su25:p1:type]] authority="[[su25:p1:authority]]" authorityURI="[[su25:p1:authorityURI]]" valueURI="[[su25:p1:valueURI]]" encoding="[[su25:p1:encoding]]" point="[[su25:p1:point]]">[[su25:p1:value]]</[[su25:p1:type]]>
+    <[[su25:p2:type]] authority="[[su25:p2:authority]]" authorityURI="[[su25:p2:authorityURI]]" valueURI="[[su25:p2:valueURI]]" encoding="[[su25:p2:encoding]]" point="[[su25:p2:point]]">[[su25:p2:value]]</[[su25:p2:type]]>
+    <[[su25:p3:type]] authority="[[su25:p3:authority]]" authorityURI="[[su25:p3:authorityURI]]" valueURI="[[su25:p3:valueURI]]" encoding="[[su25:p3:encoding]]" point="[[su25:p3:point]]">[[su25:p3:value]]</[[su25:p3:type]]>
+    <[[su25:p4:type]] authority="[[su25:p4:authority]]" authorityURI="[[su25:p4:authorityURI]]" valueURI="[[su25:p4:valueURI]]" encoding="[[su25:p4:encoding]]" point="[[su25:p4:point]]">[[su25:p4:value]]</[[su25:p4:type]]>
+    <[[su25:p5:type]] authority="[[su25:p5:authority]]" authorityURI="[[su25:p5:authorityURI]]" valueURI="[[su25:p5:valueURI]]" encoding="[[su25:p5:encoding]]" point="[[su25:p5:point]]">[[su25:p5:value]]</[[su25:p5:type]]>
   </subject>
   <subject displayLabel="[[su26:displayLabel]]" authority="[[su26:authority]]" authorityURI="[[su26:authorityURI]]" valueURI="[[su26:valueURI]]" lang="[[su26:language]]" script="[[su26:script]]" transliteration="[[su26:transliteration]]" altRepGroup="[[su26:altRepGroup]]">
-    <[[su26:p1:type]] authority="[[su26:p1:authority]]" authorityURI="[[su26:p1:authorityURI]]" valueURI="[[su26:p1:valueURI]]">[[su26:p1:value]]</[[su26:p1:type]]>
-    <[[su26:p2:type]] authority="[[su26:p2:authority]]" authorityURI="[[su26:p2:authorityURI]]" valueURI="[[su26:p2:valueURI]]">[[su26:p2:value]]</[[su26:p2:type]]>
-    <[[su26:p3:type]] authority="[[su26:p3:authority]]" authorityURI="[[su26:p3:authorityURI]]" valueURI="[[su26:p3:valueURI]]">[[su26:p3:value]]</[[su26:p3:type]]>
-    <[[su26:p4:type]] authority="[[su26:p4:authority]]" authorityURI="[[su26:p4:authorityURI]]" valueURI="[[su26:p4:valueURI]]">[[su26:p4:value]]</[[su26:p4:type]]>
-    <[[su26:p5:type]] authority="[[su26:p5:authority]]" authorityURI="[[su26:p5:authorityURI]]" valueURI="[[su26:p5:valueURI]]">[[su26:p5:value]]</[[su26:p5:type]]>
+    <[[su26:p1:type]] authority="[[su26:p1:authority]]" authorityURI="[[su26:p1:authorityURI]]" valueURI="[[su26:p1:valueURI]]" encoding="[[su26:p1:encoding]]" point="[[su26:p1:point]]">[[su26:p1:value]]</[[su26:p1:type]]>
+    <[[su26:p2:type]] authority="[[su26:p2:authority]]" authorityURI="[[su26:p2:authorityURI]]" valueURI="[[su26:p2:valueURI]]" encoding="[[su26:p2:encoding]]" point="[[su26:p2:point]]">[[su26:p2:value]]</[[su26:p2:type]]>
+    <[[su26:p3:type]] authority="[[su26:p3:authority]]" authorityURI="[[su26:p3:authorityURI]]" valueURI="[[su26:p3:valueURI]]" encoding="[[su26:p3:encoding]]" point="[[su26:p3:point]]">[[su26:p3:value]]</[[su26:p3:type]]>
+    <[[su26:p4:type]] authority="[[su26:p4:authority]]" authorityURI="[[su26:p4:authorityURI]]" valueURI="[[su26:p4:valueURI]]" encoding="[[su26:p4:encoding]]" point="[[su26:p4:point]]">[[su26:p4:value]]</[[su26:p4:type]]>
+    <[[su26:p5:type]] authority="[[su26:p5:authority]]" authorityURI="[[su26:p5:authorityURI]]" valueURI="[[su26:p5:valueURI]]" encoding="[[su26:p5:encoding]]" point="[[su26:p5:point]]">[[su26:p5:value]]</[[su26:p5:type]]>
   </subject>
   <subject displayLabel="[[su27:displayLabel]]" authority="[[su27:authority]]" authorityURI="[[su27:authorityURI]]" valueURI="[[su27:valueURI]]" lang="[[su27:language]]" script="[[su27:script]]" transliteration="[[su27:transliteration]]" altRepGroup="[[su27:altRepGroup]]">
-    <[[su27:p1:type]] authority="[[su27:p1:authority]]" authorityURI="[[su27:p1:authorityURI]]" valueURI="[[su27:p1:valueURI]]">[[su27:p1:value]]</[[su27:p1:type]]>
-    <[[su27:p2:type]] authority="[[su27:p2:authority]]" authorityURI="[[su27:p2:authorityURI]]" valueURI="[[su27:p2:valueURI]]">[[su27:p2:value]]</[[su27:p2:type]]>
-    <[[su27:p3:type]] authority="[[su27:p3:authority]]" authorityURI="[[su27:p3:authorityURI]]" valueURI="[[su27:p3:valueURI]]">[[su27:p3:value]]</[[su27:p3:type]]>
-    <[[su27:p4:type]] authority="[[su27:p4:authority]]" authorityURI="[[su27:p4:authorityURI]]" valueURI="[[su27:p4:valueURI]]">[[su27:p4:value]]</[[su27:p4:type]]>
-    <[[su27:p5:type]] authority="[[su27:p5:authority]]" authorityURI="[[su27:p5:authorityURI]]" valueURI="[[su27:p5:valueURI]]">[[su27:p5:value]]</[[su27:p5:type]]>
+    <[[su27:p1:type]] authority="[[su27:p1:authority]]" authorityURI="[[su27:p1:authorityURI]]" valueURI="[[su27:p1:valueURI]]" encoding="[[su27:p1:encoding]]" point="[[su27:p1:point]]">[[su27:p1:value]]</[[su27:p1:type]]>
+    <[[su27:p2:type]] authority="[[su27:p2:authority]]" authorityURI="[[su27:p2:authorityURI]]" valueURI="[[su27:p2:valueURI]]" encoding="[[su27:p2:encoding]]" point="[[su27:p2:point]]">[[su27:p2:value]]</[[su27:p2:type]]>
+    <[[su27:p3:type]] authority="[[su27:p3:authority]]" authorityURI="[[su27:p3:authorityURI]]" valueURI="[[su27:p3:valueURI]]" encoding="[[su27:p3:encoding]]" point="[[su27:p3:point]]">[[su27:p3:value]]</[[su27:p3:type]]>
+    <[[su27:p4:type]] authority="[[su27:p4:authority]]" authorityURI="[[su27:p4:authorityURI]]" valueURI="[[su27:p4:valueURI]]" encoding="[[su27:p4:encoding]]" point="[[su27:p4:point]]">[[su27:p4:value]]</[[su27:p4:type]]>
+    <[[su27:p5:type]] authority="[[su27:p5:authority]]" authorityURI="[[su27:p5:authorityURI]]" valueURI="[[su27:p5:valueURI]]" encoding="[[su27:p5:encoding]]" point="[[su27:p5:point]]">[[su27:p5:value]]</[[su27:p5:type]]>
   </subject>
   <subject displayLabel="[[su28:displayLabel]]" authority="[[su28:authority]]" authorityURI="[[su28:authorityURI]]" valueURI="[[su28:valueURI]]" lang="[[su28:language]]" script="[[su28:script]]" transliteration="[[su28:transliteration]]" altRepGroup="[[su28:altRepGroup]]">
-    <[[su28:p1:type]] authority="[[su28:p1:authority]]" authorityURI="[[su28:p1:authorityURI]]" valueURI="[[su28:p1:valueURI]]">[[su28:p1:value]]</[[su28:p1:type]]>
-    <[[su28:p2:type]] authority="[[su28:p2:authority]]" authorityURI="[[su28:p2:authorityURI]]" valueURI="[[su28:p2:valueURI]]">[[su28:p2:value]]</[[su28:p2:type]]>
-    <[[su28:p3:type]] authority="[[su28:p3:authority]]" authorityURI="[[su28:p3:authorityURI]]" valueURI="[[su28:p3:valueURI]]">[[su28:p3:value]]</[[su28:p3:type]]>
-    <[[su28:p4:type]] authority="[[su28:p4:authority]]" authorityURI="[[su28:p4:authorityURI]]" valueURI="[[su28:p4:valueURI]]">[[su28:p4:value]]</[[su28:p4:type]]>
-    <[[su28:p5:type]] authority="[[su28:p5:authority]]" authorityURI="[[su28:p5:authorityURI]]" valueURI="[[su28:p5:valueURI]]">[[su28:p5:value]]</[[su28:p5:type]]>
+    <[[su28:p1:type]] authority="[[su28:p1:authority]]" authorityURI="[[su28:p1:authorityURI]]" valueURI="[[su28:p1:valueURI]]" encoding="[[su28:p1:encoding]]" point="[[su28:p1:point]]">[[su28:p1:value]]</[[su28:p1:type]]>
+    <[[su28:p2:type]] authority="[[su28:p2:authority]]" authorityURI="[[su28:p2:authorityURI]]" valueURI="[[su28:p2:valueURI]]" encoding="[[su28:p2:encoding]]" point="[[su28:p2:point]]">[[su28:p2:value]]</[[su28:p2:type]]>
+    <[[su28:p3:type]] authority="[[su28:p3:authority]]" authorityURI="[[su28:p3:authorityURI]]" valueURI="[[su28:p3:valueURI]]" encoding="[[su28:p3:encoding]]" point="[[su28:p3:point]]">[[su28:p3:value]]</[[su28:p3:type]]>
+    <[[su28:p4:type]] authority="[[su28:p4:authority]]" authorityURI="[[su28:p4:authorityURI]]" valueURI="[[su28:p4:valueURI]]" encoding="[[su28:p4:encoding]]" point="[[su28:p4:point]]">[[su28:p4:value]]</[[su28:p4:type]]>
+    <[[su28:p5:type]] authority="[[su28:p5:authority]]" authorityURI="[[su28:p5:authorityURI]]" valueURI="[[su28:p5:valueURI]]" encoding="[[su28:p5:encoding]]" point="[[su28:p5:point]]">[[su28:p5:value]]</[[su28:p5:type]]>
   </subject>
   <subject displayLabel="[[su29:displayLabel]]" authority="[[su29:authority]]" authorityURI="[[su29:authorityURI]]" valueURI="[[su29:valueURI]]" lang="[[su29:language]]" script="[[su29:script]]" transliteration="[[su29:transliteration]]" altRepGroup="[[su29:altRepGroup]]">
-    <[[su29:p1:type]] authority="[[su29:p1:authority]]" authorityURI="[[su29:p1:authorityURI]]" valueURI="[[su29:p1:valueURI]]">[[su29:p1:value]]</[[su29:p1:type]]>
-    <[[su29:p2:type]] authority="[[su29:p2:authority]]" authorityURI="[[su29:p2:authorityURI]]" valueURI="[[su29:p2:valueURI]]">[[su29:p2:value]]</[[su29:p2:type]]>
-    <[[su29:p3:type]] authority="[[su29:p3:authority]]" authorityURI="[[su29:p3:authorityURI]]" valueURI="[[su29:p3:valueURI]]">[[su29:p3:value]]</[[su29:p3:type]]>
-    <[[su29:p4:type]] authority="[[su29:p4:authority]]" authorityURI="[[su29:p4:authorityURI]]" valueURI="[[su29:p4:valueURI]]">[[su29:p4:value]]</[[su29:p4:type]]>
-    <[[su29:p5:type]] authority="[[su29:p5:authority]]" authorityURI="[[su29:p5:authorityURI]]" valueURI="[[su29:p5:valueURI]]">[[su29:p5:value]]</[[su29:p5:type]]>
+    <[[su29:p1:type]] authority="[[su29:p1:authority]]" authorityURI="[[su29:p1:authorityURI]]" valueURI="[[su29:p1:valueURI]]" encoding="[[su29:p1:encoding]]" point="[[su29:p1:point]]">[[su29:p1:value]]</[[su29:p1:type]]>
+    <[[su29:p2:type]] authority="[[su29:p2:authority]]" authorityURI="[[su29:p2:authorityURI]]" valueURI="[[su29:p2:valueURI]]" encoding="[[su29:p2:encoding]]" point="[[su29:p2:point]]">[[su29:p2:value]]</[[su29:p2:type]]>
+    <[[su29:p3:type]] authority="[[su29:p3:authority]]" authorityURI="[[su29:p3:authorityURI]]" valueURI="[[su29:p3:valueURI]]" encoding="[[su29:p3:encoding]]" point="[[su29:p3:point]]">[[su29:p3:value]]</[[su29:p3:type]]>
+    <[[su29:p4:type]] authority="[[su29:p4:authority]]" authorityURI="[[su29:p4:authorityURI]]" valueURI="[[su29:p4:valueURI]]" encoding="[[su29:p4:encoding]]" point="[[su29:p4:point]]">[[su29:p4:value]]</[[su29:p4:type]]>
+    <[[su29:p5:type]] authority="[[su29:p5:authority]]" authorityURI="[[su29:p5:authorityURI]]" valueURI="[[su29:p5:valueURI]]" encoding="[[su29:p5:encoding]]" point="[[su29:p5:point]]">[[su29:p5:value]]</[[su29:p5:type]]>
   </subject>
   <subject displayLabel="[[su30:displayLabel]]" authority="[[su30:authority]]" authorityURI="[[su30:authorityURI]]" valueURI="[[su30:valueURI]]" lang="[[su30:language]]" script="[[su30:script]]" transliteration="[[su30:transliteration]]" altRepGroup="[[su30:altRepGroup]]">
-    <[[su30:p1:type]] authority="[[su30:p1:authority]]" authorityURI="[[su30:p1:authorityURI]]" valueURI="[[su30:p1:valueURI]]">[[su30:p1:value]]</[[su30:p1:type]]>
-    <[[su30:p2:type]] authority="[[su30:p2:authority]]" authorityURI="[[su30:p2:authorityURI]]" valueURI="[[su30:p2:valueURI]]">[[su30:p2:value]]</[[su30:p2:type]]>
-    <[[su30:p3:type]] authority="[[su30:p3:authority]]" authorityURI="[[su30:p3:authorityURI]]" valueURI="[[su30:p3:valueURI]]">[[su30:p3:value]]</[[su30:p3:type]]>
-    <[[su30:p4:type]] authority="[[su30:p4:authority]]" authorityURI="[[su30:p4:authorityURI]]" valueURI="[[su30:p4:valueURI]]">[[su30:p4:value]]</[[su30:p4:type]]>
-    <[[su30:p5:type]] authority="[[su30:p5:authority]]" authorityURI="[[su30:p5:authorityURI]]" valueURI="[[su30:p5:valueURI]]">[[su30:p5:value]]</[[su30:p5:type]]>
+    <[[su30:p1:type]] authority="[[su30:p1:authority]]" authorityURI="[[su30:p1:authorityURI]]" valueURI="[[su30:p1:valueURI]]" encoding="[[su30:p1:encoding]]" point="[[su30:p1:point]]">[[su30:p1:value]]</[[su30:p1:type]]>
+    <[[su30:p2:type]] authority="[[su30:p2:authority]]" authorityURI="[[su30:p2:authorityURI]]" valueURI="[[su30:p2:valueURI]]" encoding="[[su30:p2:encoding]]" point="[[su30:p2:point]]">[[su30:p2:value]]</[[su30:p2:type]]>
+    <[[su30:p3:type]] authority="[[su30:p3:authority]]" authorityURI="[[su30:p3:authorityURI]]" valueURI="[[su30:p3:valueURI]]" encoding="[[su30:p3:encoding]]" point="[[su30:p3:point]]">[[su30:p3:value]]</[[su30:p3:type]]>
+    <[[su30:p4:type]] authority="[[su30:p4:authority]]" authorityURI="[[su30:p4:authorityURI]]" valueURI="[[su30:p4:valueURI]]" encoding="[[su30:p4:encoding]]" point="[[su30:p4:point]]">[[su30:p4:value]]</[[su30:p4:type]]>
+    <[[su30:p5:type]] authority="[[su30:p5:authority]]" authorityURI="[[su30:p5:authorityURI]]" valueURI="[[su30:p5:valueURI]]" encoding="[[su30:p5:encoding]]" point="[[su30:p5:point]]">[[su30:p5:value]]</[[su30:p5:type]]>
   </subject>
   <subject displayLabel="[[su31:displayLabel]]" authority="[[su31:authority]]" authorityURI="[[su31:authorityURI]]" valueURI="[[su31:valueURI]]" lang="[[su31:language]]" script="[[su31:script]]" transliteration="[[su31:transliteration]]" altRepGroup="[[su31:altRepGroup]]">
-    <[[su31:p1:type]] authority="[[su31:p1:authority]]" authorityURI="[[su31:p1:authorityURI]]" valueURI="[[su31:p1:valueURI]]">[[su31:p1:value]]</[[su31:p1:type]]>
-    <[[su31:p2:type]] authority="[[su31:p2:authority]]" authorityURI="[[su31:p2:authorityURI]]" valueURI="[[su31:p2:valueURI]]">[[su31:p2:value]]</[[su31:p2:type]]>
-    <[[su31:p3:type]] authority="[[su31:p3:authority]]" authorityURI="[[su31:p3:authorityURI]]" valueURI="[[su31:p3:valueURI]]">[[su31:p3:value]]</[[su31:p3:type]]>
-    <[[su31:p4:type]] authority="[[su31:p4:authority]]" authorityURI="[[su31:p4:authorityURI]]" valueURI="[[su31:p4:valueURI]]">[[su31:p4:value]]</[[su31:p4:type]]>
-    <[[su31:p5:type]] authority="[[su31:p5:authority]]" authorityURI="[[su31:p5:authorityURI]]" valueURI="[[su31:p5:valueURI]]">[[su31:p5:value]]</[[su31:p5:type]]>
+    <[[su31:p1:type]] authority="[[su31:p1:authority]]" authorityURI="[[su31:p1:authorityURI]]" valueURI="[[su31:p1:valueURI]]" encoding="[[su31:p1:encoding]]" point="[[su31:p1:point]]">[[su31:p1:value]]</[[su31:p1:type]]>
+    <[[su31:p2:type]] authority="[[su31:p2:authority]]" authorityURI="[[su31:p2:authorityURI]]" valueURI="[[su31:p2:valueURI]]" encoding="[[su31:p2:encoding]]" point="[[su31:p2:point]]">[[su31:p2:value]]</[[su31:p2:type]]>
+    <[[su31:p3:type]] authority="[[su31:p3:authority]]" authorityURI="[[su31:p3:authorityURI]]" valueURI="[[su31:p3:valueURI]]" encoding="[[su31:p3:encoding]]" point="[[su31:p3:point]]">[[su31:p3:value]]</[[su31:p3:type]]>
+    <[[su31:p4:type]] authority="[[su31:p4:authority]]" authorityURI="[[su31:p4:authorityURI]]" valueURI="[[su31:p4:valueURI]]" encoding="[[su31:p4:encoding]]" point="[[su31:p4:point]]">[[su31:p4:value]]</[[su31:p4:type]]>
+    <[[su31:p5:type]] authority="[[su31:p5:authority]]" authorityURI="[[su31:p5:authorityURI]]" valueURI="[[su31:p5:valueURI]]" encoding="[[su31:p5:encoding]]" point="[[su31:p5:point]]">[[su31:p5:value]]</[[su31:p5:type]]>
   </subject>
   <subject displayLabel="[[su32:displayLabel]]" authority="[[su32:authority]]" authorityURI="[[su32:authorityURI]]" valueURI="[[su32:valueURI]]" lang="[[su32:language]]" script="[[su32:script]]" transliteration="[[su32:transliteration]]" altRepGroup="[[su32:altRepGroup]]">
-    <[[su32:p1:type]] authority="[[su32:p1:authority]]" authorityURI="[[su32:p1:authorityURI]]" valueURI="[[su32:p1:valueURI]]">[[su32:p1:value]]</[[su32:p1:type]]>
-    <[[su32:p2:type]] authority="[[su32:p2:authority]]" authorityURI="[[su32:p2:authorityURI]]" valueURI="[[su32:p2:valueURI]]">[[su32:p2:value]]</[[su32:p2:type]]>
-    <[[su32:p3:type]] authority="[[su32:p3:authority]]" authorityURI="[[su32:p3:authorityURI]]" valueURI="[[su32:p3:valueURI]]">[[su32:p3:value]]</[[su32:p3:type]]>
-    <[[su32:p4:type]] authority="[[su32:p4:authority]]" authorityURI="[[su32:p4:authorityURI]]" valueURI="[[su32:p4:valueURI]]">[[su32:p4:value]]</[[su32:p4:type]]>
-    <[[su32:p5:type]] authority="[[su32:p5:authority]]" authorityURI="[[su32:p5:authorityURI]]" valueURI="[[su32:p5:valueURI]]">[[su32:p5:value]]</[[su32:p5:type]]>
+    <[[su32:p1:type]] authority="[[su32:p1:authority]]" authorityURI="[[su32:p1:authorityURI]]" valueURI="[[su32:p1:valueURI]]" encoding="[[su32:p1:encoding]]" point="[[su32:p1:point]]">[[su32:p1:value]]</[[su32:p1:type]]>
+    <[[su32:p2:type]] authority="[[su32:p2:authority]]" authorityURI="[[su32:p2:authorityURI]]" valueURI="[[su32:p2:valueURI]]" encoding="[[su32:p2:encoding]]" point="[[su32:p2:point]]">[[su32:p2:value]]</[[su32:p2:type]]>
+    <[[su32:p3:type]] authority="[[su32:p3:authority]]" authorityURI="[[su32:p3:authorityURI]]" valueURI="[[su32:p3:valueURI]]" encoding="[[su32:p3:encoding]]" point="[[su32:p3:point]]">[[su32:p3:value]]</[[su32:p3:type]]>
+    <[[su32:p4:type]] authority="[[su32:p4:authority]]" authorityURI="[[su32:p4:authorityURI]]" valueURI="[[su32:p4:valueURI]]" encoding="[[su32:p4:encoding]]" point="[[su32:p4:point]]">[[su32:p4:value]]</[[su32:p4:type]]>
+    <[[su32:p5:type]] authority="[[su32:p5:authority]]" authorityURI="[[su32:p5:authorityURI]]" valueURI="[[su32:p5:valueURI]]" encoding="[[su32:p5:encoding]]" point="[[su32:p5:point]]">[[su32:p5:value]]</[[su32:p5:type]]>
   </subject>
   <subject displayLabel="[[su33:displayLabel]]" authority="[[su33:authority]]" authorityURI="[[su33:authorityURI]]" valueURI="[[su33:valueURI]]" lang="[[su33:language]]" script="[[su33:script]]" transliteration="[[su33:transliteration]]" altRepGroup="[[su33:altRepGroup]]">
-    <[[su33:p1:type]] authority="[[su33:p1:authority]]" authorityURI="[[su33:p1:authorityURI]]" valueURI="[[su33:p1:valueURI]]">[[su33:p1:value]]</[[su33:p1:type]]>
-    <[[su33:p2:type]] authority="[[su33:p2:authority]]" authorityURI="[[su33:p2:authorityURI]]" valueURI="[[su33:p2:valueURI]]">[[su33:p2:value]]</[[su33:p2:type]]>
-    <[[su33:p3:type]] authority="[[su33:p3:authority]]" authorityURI="[[su33:p3:authorityURI]]" valueURI="[[su33:p3:valueURI]]">[[su33:p3:value]]</[[su33:p3:type]]>
-    <[[su33:p4:type]] authority="[[su33:p4:authority]]" authorityURI="[[su33:p4:authorityURI]]" valueURI="[[su33:p4:valueURI]]">[[su33:p4:value]]</[[su33:p4:type]]>
-    <[[su33:p5:type]] authority="[[su33:p5:authority]]" authorityURI="[[su33:p5:authorityURI]]" valueURI="[[su33:p5:valueURI]]">[[su33:p5:value]]</[[su33:p5:type]]>
+    <[[su33:p1:type]] authority="[[su33:p1:authority]]" authorityURI="[[su33:p1:authorityURI]]" valueURI="[[su33:p1:valueURI]]" encoding="[[su33:p1:encoding]]" point="[[su33:p1:point]]">[[su33:p1:value]]</[[su33:p1:type]]>
+    <[[su33:p2:type]] authority="[[su33:p2:authority]]" authorityURI="[[su33:p2:authorityURI]]" valueURI="[[su33:p2:valueURI]]" encoding="[[su33:p2:encoding]]" point="[[su33:p2:point]]">[[su33:p2:value]]</[[su33:p2:type]]>
+    <[[su33:p3:type]] authority="[[su33:p3:authority]]" authorityURI="[[su33:p3:authorityURI]]" valueURI="[[su33:p3:valueURI]]" encoding="[[su33:p3:encoding]]" point="[[su33:p3:point]]">[[su33:p3:value]]</[[su33:p3:type]]>
+    <[[su33:p4:type]] authority="[[su33:p4:authority]]" authorityURI="[[su33:p4:authorityURI]]" valueURI="[[su33:p4:valueURI]]" encoding="[[su33:p4:encoding]]" point="[[su33:p4:point]]">[[su33:p4:value]]</[[su33:p4:type]]>
+    <[[su33:p5:type]] authority="[[su33:p5:authority]]" authorityURI="[[su33:p5:authorityURI]]" valueURI="[[su33:p5:valueURI]]" encoding="[[su33:p5:encoding]]" point="[[su33:p5:point]]">[[su33:p5:value]]</[[su33:p5:type]]>
   </subject>
   <subject displayLabel="[[su34:displayLabel]]" authority="[[su34:authority]]" authorityURI="[[su34:authorityURI]]" valueURI="[[su34:valueURI]]" lang="[[su34:language]]" script="[[su34:script]]" transliteration="[[su34:transliteration]]" altRepGroup="[[su34:altRepGroup]]">
-    <[[su34:p1:type]] authority="[[su34:p1:authority]]" authorityURI="[[su34:p1:authorityURI]]" valueURI="[[su34:p1:valueURI]]">[[su34:p1:value]]</[[su34:p1:type]]>
-    <[[su34:p2:type]] authority="[[su34:p2:authority]]" authorityURI="[[su34:p2:authorityURI]]" valueURI="[[su34:p2:valueURI]]">[[su34:p2:value]]</[[su34:p2:type]]>
-    <[[su34:p3:type]] authority="[[su34:p3:authority]]" authorityURI="[[su34:p3:authorityURI]]" valueURI="[[su34:p3:valueURI]]">[[su34:p3:value]]</[[su34:p3:type]]>
-    <[[su34:p4:type]] authority="[[su34:p4:authority]]" authorityURI="[[su34:p4:authorityURI]]" valueURI="[[su34:p4:valueURI]]">[[su34:p4:value]]</[[su34:p4:type]]>
-    <[[su34:p5:type]] authority="[[su34:p5:authority]]" authorityURI="[[su34:p5:authorityURI]]" valueURI="[[su34:p5:valueURI]]">[[su34:p5:value]]</[[su34:p5:type]]>
+    <[[su34:p1:type]] authority="[[su34:p1:authority]]" authorityURI="[[su34:p1:authorityURI]]" valueURI="[[su34:p1:valueURI]]" encoding="[[su34:p1:encoding]]" point="[[su34:p1:point]]">[[su34:p1:value]]</[[su34:p1:type]]>
+    <[[su34:p2:type]] authority="[[su34:p2:authority]]" authorityURI="[[su34:p2:authorityURI]]" valueURI="[[su34:p2:valueURI]]" encoding="[[su34:p2:encoding]]" point="[[su34:p2:point]]">[[su34:p2:value]]</[[su34:p2:type]]>
+    <[[su34:p3:type]] authority="[[su34:p3:authority]]" authorityURI="[[su34:p3:authorityURI]]" valueURI="[[su34:p3:valueURI]]" encoding="[[su34:p3:encoding]]" point="[[su34:p3:point]]">[[su34:p3:value]]</[[su34:p3:type]]>
+    <[[su34:p4:type]] authority="[[su34:p4:authority]]" authorityURI="[[su34:p4:authorityURI]]" valueURI="[[su34:p4:valueURI]]" encoding="[[su34:p4:encoding]]" point="[[su34:p4:point]]">[[su34:p4:value]]</[[su34:p4:type]]>
+    <[[su34:p5:type]] authority="[[su34:p5:authority]]" authorityURI="[[su34:p5:authorityURI]]" valueURI="[[su34:p5:valueURI]]" encoding="[[su34:p5:encoding]]" point="[[su34:p5:point]]">[[su34:p5:value]]</[[su34:p5:type]]>
   </subject>
   <subject displayLabel="[[su35:displayLabel]]" authority="[[su35:authority]]" authorityURI="[[su35:authorityURI]]" valueURI="[[su35:valueURI]]" lang="[[su35:language]]" script="[[su35:script]]" transliteration="[[su35:transliteration]]" altRepGroup="[[su35:altRepGroup]]">
-    <[[su35:p1:type]] authority="[[su35:p1:authority]]" authorityURI="[[su35:p1:authorityURI]]" valueURI="[[su35:p1:valueURI]]">[[su35:p1:value]]</[[su35:p1:type]]>
-    <[[su35:p2:type]] authority="[[su35:p2:authority]]" authorityURI="[[su35:p2:authorityURI]]" valueURI="[[su35:p2:valueURI]]">[[su35:p2:value]]</[[su35:p2:type]]>
-    <[[su35:p3:type]] authority="[[su35:p3:authority]]" authorityURI="[[su35:p3:authorityURI]]" valueURI="[[su35:p3:valueURI]]">[[su35:p3:value]]</[[su35:p3:type]]>
-    <[[su35:p4:type]] authority="[[su35:p4:authority]]" authorityURI="[[su35:p4:authorityURI]]" valueURI="[[su35:p4:valueURI]]">[[su35:p4:value]]</[[su35:p4:type]]>
-    <[[su35:p5:type]] authority="[[su35:p5:authority]]" authorityURI="[[su35:p5:authorityURI]]" valueURI="[[su35:p5:valueURI]]">[[su35:p5:value]]</[[su35:p5:type]]>
+    <[[su35:p1:type]] authority="[[su35:p1:authority]]" authorityURI="[[su35:p1:authorityURI]]" valueURI="[[su35:p1:valueURI]]" encoding="[[su35:p1:encoding]]" point="[[su35:p1:point]]">[[su35:p1:value]]</[[su35:p1:type]]>
+    <[[su35:p2:type]] authority="[[su35:p2:authority]]" authorityURI="[[su35:p2:authorityURI]]" valueURI="[[su35:p2:valueURI]]" encoding="[[su35:p2:encoding]]" point="[[su35:p2:point]]">[[su35:p2:value]]</[[su35:p2:type]]>
+    <[[su35:p3:type]] authority="[[su35:p3:authority]]" authorityURI="[[su35:p3:authorityURI]]" valueURI="[[su35:p3:valueURI]]" encoding="[[su35:p3:encoding]]" point="[[su35:p3:point]]">[[su35:p3:value]]</[[su35:p3:type]]>
+    <[[su35:p4:type]] authority="[[su35:p4:authority]]" authorityURI="[[su35:p4:authorityURI]]" valueURI="[[su35:p4:valueURI]]" encoding="[[su35:p4:encoding]]" point="[[su35:p4:point]]">[[su35:p4:value]]</[[su35:p4:type]]>
+    <[[su35:p5:type]] authority="[[su35:p5:authority]]" authorityURI="[[su35:p5:authorityURI]]" valueURI="[[su35:p5:valueURI]]" encoding="[[su35:p5:encoding]]" point="[[su35:p5:point]]">[[su35:p5:value]]</[[su35:p5:type]]>
   </subject>
   <subject displayLabel="[[su36:displayLabel]]" authority="[[su36:authority]]" authorityURI="[[su36:authorityURI]]" valueURI="[[su36:valueURI]]" lang="[[su36:language]]" script="[[su36:script]]" transliteration="[[su36:transliteration]]" altRepGroup="[[su36:altRepGroup]]">
-    <[[su36:p1:type]] authority="[[su36:p1:authority]]" authorityURI="[[su36:p1:authorityURI]]" valueURI="[[su36:p1:valueURI]]">[[su36:p1:value]]</[[su36:p1:type]]>
-    <[[su36:p2:type]] authority="[[su36:p2:authority]]" authorityURI="[[su36:p2:authorityURI]]" valueURI="[[su36:p2:valueURI]]">[[su36:p2:value]]</[[su36:p2:type]]>
-    <[[su36:p3:type]] authority="[[su36:p3:authority]]" authorityURI="[[su36:p3:authorityURI]]" valueURI="[[su36:p3:valueURI]]">[[su36:p3:value]]</[[su36:p3:type]]>
-    <[[su36:p4:type]] authority="[[su36:p4:authority]]" authorityURI="[[su36:p4:authorityURI]]" valueURI="[[su36:p4:valueURI]]">[[su36:p4:value]]</[[su36:p4:type]]>
-    <[[su36:p5:type]] authority="[[su36:p5:authority]]" authorityURI="[[su36:p5:authorityURI]]" valueURI="[[su36:p5:valueURI]]">[[su36:p5:value]]</[[su36:p5:type]]>
+    <[[su36:p1:type]] authority="[[su36:p1:authority]]" authorityURI="[[su36:p1:authorityURI]]" valueURI="[[su36:p1:valueURI]]" encoding="[[su36:p1:encoding]]" point="[[su36:p1:point]]">[[su36:p1:value]]</[[su36:p1:type]]>
+    <[[su36:p2:type]] authority="[[su36:p2:authority]]" authorityURI="[[su36:p2:authorityURI]]" valueURI="[[su36:p2:valueURI]]" encoding="[[su36:p2:encoding]]" point="[[su36:p2:point]]">[[su36:p2:value]]</[[su36:p2:type]]>
+    <[[su36:p3:type]] authority="[[su36:p3:authority]]" authorityURI="[[su36:p3:authorityURI]]" valueURI="[[su36:p3:valueURI]]" encoding="[[su36:p3:encoding]]" point="[[su36:p3:point]]">[[su36:p3:value]]</[[su36:p3:type]]>
+    <[[su36:p4:type]] authority="[[su36:p4:authority]]" authorityURI="[[su36:p4:authorityURI]]" valueURI="[[su36:p4:valueURI]]" encoding="[[su36:p4:encoding]]" point="[[su36:p4:point]]">[[su36:p4:value]]</[[su36:p4:type]]>
+    <[[su36:p5:type]] authority="[[su36:p5:authority]]" authorityURI="[[su36:p5:authorityURI]]" valueURI="[[su36:p5:valueURI]]" encoding="[[su36:p5:encoding]]" point="[[su36:p5:point]]">[[su36:p5:value]]</[[su36:p5:type]]>
   </subject>
   <subject displayLabel="[[su37:displayLabel]]" authority="[[su37:authority]]" authorityURI="[[su37:authorityURI]]" valueURI="[[su37:valueURI]]" lang="[[su37:language]]" script="[[su37:script]]" transliteration="[[su37:transliteration]]" altRepGroup="[[su37:altRepGroup]]">
-    <[[su37:p1:type]] authority="[[su37:p1:authority]]" authorityURI="[[su37:p1:authorityURI]]" valueURI="[[su37:p1:valueURI]]">[[su37:p1:value]]</[[su37:p1:type]]>
-    <[[su37:p2:type]] authority="[[su37:p2:authority]]" authorityURI="[[su37:p2:authorityURI]]" valueURI="[[su37:p2:valueURI]]">[[su37:p2:value]]</[[su37:p2:type]]>
-    <[[su37:p3:type]] authority="[[su37:p3:authority]]" authorityURI="[[su37:p3:authorityURI]]" valueURI="[[su37:p3:valueURI]]">[[su37:p3:value]]</[[su37:p3:type]]>
-    <[[su37:p4:type]] authority="[[su37:p4:authority]]" authorityURI="[[su37:p4:authorityURI]]" valueURI="[[su37:p4:valueURI]]">[[su37:p4:value]]</[[su37:p4:type]]>
-    <[[su37:p5:type]] authority="[[su37:p5:authority]]" authorityURI="[[su37:p5:authorityURI]]" valueURI="[[su37:p5:valueURI]]">[[su37:p5:value]]</[[su37:p5:type]]>
+    <[[su37:p1:type]] authority="[[su37:p1:authority]]" authorityURI="[[su37:p1:authorityURI]]" valueURI="[[su37:p1:valueURI]]" encoding="[[su37:p1:encoding]]" point="[[su37:p1:point]]">[[su37:p1:value]]</[[su37:p1:type]]>
+    <[[su37:p2:type]] authority="[[su37:p2:authority]]" authorityURI="[[su37:p2:authorityURI]]" valueURI="[[su37:p2:valueURI]]" encoding="[[su37:p2:encoding]]" point="[[su37:p2:point]]">[[su37:p2:value]]</[[su37:p2:type]]>
+    <[[su37:p3:type]] authority="[[su37:p3:authority]]" authorityURI="[[su37:p3:authorityURI]]" valueURI="[[su37:p3:valueURI]]" encoding="[[su37:p3:encoding]]" point="[[su37:p3:point]]">[[su37:p3:value]]</[[su37:p3:type]]>
+    <[[su37:p4:type]] authority="[[su37:p4:authority]]" authorityURI="[[su37:p4:authorityURI]]" valueURI="[[su37:p4:valueURI]]" encoding="[[su37:p4:encoding]]" point="[[su37:p4:point]]">[[su37:p4:value]]</[[su37:p4:type]]>
+    <[[su37:p5:type]] authority="[[su37:p5:authority]]" authorityURI="[[su37:p5:authorityURI]]" valueURI="[[su37:p5:valueURI]]" encoding="[[su37:p5:encoding]]" point="[[su37:p5:point]]">[[su37:p5:value]]</[[su37:p5:type]]>
   </subject>
   <subject displayLabel="[[su38:displayLabel]]" authority="[[su38:authority]]" authorityURI="[[su38:authorityURI]]" valueURI="[[su38:valueURI]]" lang="[[su38:language]]" script="[[su38:script]]" transliteration="[[su38:transliteration]]" altRepGroup="[[su38:altRepGroup]]">
-    <[[su38:p1:type]] authority="[[su38:p1:authority]]" authorityURI="[[su38:p1:authorityURI]]" valueURI="[[su38:p1:valueURI]]">[[su38:p1:value]]</[[su38:p1:type]]>
-    <[[su38:p2:type]] authority="[[su38:p2:authority]]" authorityURI="[[su38:p2:authorityURI]]" valueURI="[[su38:p2:valueURI]]">[[su38:p2:value]]</[[su38:p2:type]]>
-    <[[su38:p3:type]] authority="[[su38:p3:authority]]" authorityURI="[[su38:p3:authorityURI]]" valueURI="[[su38:p3:valueURI]]">[[su38:p3:value]]</[[su38:p3:type]]>
-    <[[su38:p4:type]] authority="[[su38:p4:authority]]" authorityURI="[[su38:p4:authorityURI]]" valueURI="[[su38:p4:valueURI]]">[[su38:p4:value]]</[[su38:p4:type]]>
-    <[[su38:p5:type]] authority="[[su38:p5:authority]]" authorityURI="[[su38:p5:authorityURI]]" valueURI="[[su38:p5:valueURI]]">[[su38:p5:value]]</[[su38:p5:type]]>
+    <[[su38:p1:type]] authority="[[su38:p1:authority]]" authorityURI="[[su38:p1:authorityURI]]" valueURI="[[su38:p1:valueURI]]" encoding="[[su38:p1:encoding]]" point="[[su38:p1:point]]">[[su38:p1:value]]</[[su38:p1:type]]>
+    <[[su38:p2:type]] authority="[[su38:p2:authority]]" authorityURI="[[su38:p2:authorityURI]]" valueURI="[[su38:p2:valueURI]]" encoding="[[su38:p2:encoding]]" point="[[su38:p2:point]]">[[su38:p2:value]]</[[su38:p2:type]]>
+    <[[su38:p3:type]] authority="[[su38:p3:authority]]" authorityURI="[[su38:p3:authorityURI]]" valueURI="[[su38:p3:valueURI]]" encoding="[[su38:p3:encoding]]" point="[[su38:p3:point]]">[[su38:p3:value]]</[[su38:p3:type]]>
+    <[[su38:p4:type]] authority="[[su38:p4:authority]]" authorityURI="[[su38:p4:authorityURI]]" valueURI="[[su38:p4:valueURI]]" encoding="[[su38:p4:encoding]]" point="[[su38:p4:point]]">[[su38:p4:value]]</[[su38:p4:type]]>
+    <[[su38:p5:type]] authority="[[su38:p5:authority]]" authorityURI="[[su38:p5:authorityURI]]" valueURI="[[su38:p5:valueURI]]" encoding="[[su38:p5:encoding]]" point="[[su38:p5:point]]">[[su38:p5:value]]</[[su38:p5:type]]>
   </subject>
   <subject displayLabel="[[su39:displayLabel]]" authority="[[su39:authority]]" authorityURI="[[su39:authorityURI]]" valueURI="[[su39:valueURI]]" lang="[[su39:language]]" script="[[su39:script]]" transliteration="[[su39:transliteration]]" altRepGroup="[[su39:altRepGroup]]">
-    <[[su39:p1:type]] authority="[[su39:p1:authority]]" authorityURI="[[su39:p1:authorityURI]]" valueURI="[[su39:p1:valueURI]]">[[su39:p1:value]]</[[su39:p1:type]]>
-    <[[su39:p2:type]] authority="[[su39:p2:authority]]" authorityURI="[[su39:p2:authorityURI]]" valueURI="[[su39:p2:valueURI]]">[[su39:p2:value]]</[[su39:p2:type]]>
-    <[[su39:p3:type]] authority="[[su39:p3:authority]]" authorityURI="[[su39:p3:authorityURI]]" valueURI="[[su39:p3:valueURI]]">[[su39:p3:value]]</[[su39:p3:type]]>
-    <[[su39:p4:type]] authority="[[su39:p4:authority]]" authorityURI="[[su39:p4:authorityURI]]" valueURI="[[su39:p4:valueURI]]">[[su39:p4:value]]</[[su39:p4:type]]>
-    <[[su39:p5:type]] authority="[[su39:p5:authority]]" authorityURI="[[su39:p5:authorityURI]]" valueURI="[[su39:p5:valueURI]]">[[su39:p5:value]]</[[su39:p5:type]]>
+    <[[su39:p1:type]] authority="[[su39:p1:authority]]" authorityURI="[[su39:p1:authorityURI]]" valueURI="[[su39:p1:valueURI]]" encoding="[[su39:p1:encoding]]" point="[[su39:p1:point]]">[[su39:p1:value]]</[[su39:p1:type]]>
+    <[[su39:p2:type]] authority="[[su39:p2:authority]]" authorityURI="[[su39:p2:authorityURI]]" valueURI="[[su39:p2:valueURI]]" encoding="[[su39:p2:encoding]]" point="[[su39:p2:point]]">[[su39:p2:value]]</[[su39:p2:type]]>
+    <[[su39:p3:type]] authority="[[su39:p3:authority]]" authorityURI="[[su39:p3:authorityURI]]" valueURI="[[su39:p3:valueURI]]" encoding="[[su39:p3:encoding]]" point="[[su39:p3:point]]">[[su39:p3:value]]</[[su39:p3:type]]>
+    <[[su39:p4:type]] authority="[[su39:p4:authority]]" authorityURI="[[su39:p4:authorityURI]]" valueURI="[[su39:p4:valueURI]]" encoding="[[su39:p4:encoding]]" point="[[su39:p4:point]]">[[su39:p4:value]]</[[su39:p4:type]]>
+    <[[su39:p5:type]] authority="[[su39:p5:authority]]" authorityURI="[[su39:p5:authorityURI]]" valueURI="[[su39:p5:valueURI]]" encoding="[[su39:p5:encoding]]" point="[[su39:p5:point]]">[[su39:p5:value]]</[[su39:p5:type]]>
   </subject>
   <subject displayLabel="[[su40:displayLabel]]" authority="[[su40:authority]]" authorityURI="[[su40:authorityURI]]" valueURI="[[su40:valueURI]]" lang="[[su40:language]]" script="[[su40:script]]" transliteration="[[su40:transliteration]]" altRepGroup="[[su40:altRepGroup]]">
-    <[[su40:p1:type]] authority="[[su40:p1:authority]]" authorityURI="[[su40:p1:authorityURI]]" valueURI="[[su40:p1:valueURI]]">[[su40:p1:value]]</[[su40:p1:type]]>
-    <[[su40:p2:type]] authority="[[su40:p2:authority]]" authorityURI="[[su40:p2:authorityURI]]" valueURI="[[su40:p2:valueURI]]">[[su40:p2:value]]</[[su40:p2:type]]>
-    <[[su40:p3:type]] authority="[[su40:p3:authority]]" authorityURI="[[su40:p3:authorityURI]]" valueURI="[[su40:p3:valueURI]]">[[su40:p3:value]]</[[su40:p3:type]]>
-    <[[su40:p4:type]] authority="[[su40:p4:authority]]" authorityURI="[[su40:p4:authorityURI]]" valueURI="[[su40:p4:valueURI]]">[[su40:p4:value]]</[[su40:p4:type]]>
-    <[[su40:p5:type]] authority="[[su40:p5:authority]]" authorityURI="[[su40:p5:authorityURI]]" valueURI="[[su40:p5:valueURI]]">[[su40:p5:value]]</[[su40:p5:type]]>
+    <[[su40:p1:type]] authority="[[su40:p1:authority]]" authorityURI="[[su40:p1:authorityURI]]" valueURI="[[su40:p1:valueURI]]" encoding="[[su40:p1:encoding]]" point="[[su40:p1:point]]">[[su40:p1:value]]</[[su40:p1:type]]>
+    <[[su40:p2:type]] authority="[[su40:p2:authority]]" authorityURI="[[su40:p2:authorityURI]]" valueURI="[[su40:p2:valueURI]]" encoding="[[su40:p2:encoding]]" point="[[su40:p2:point]]">[[su40:p2:value]]</[[su40:p2:type]]>
+    <[[su40:p3:type]] authority="[[su40:p3:authority]]" authorityURI="[[su40:p3:authorityURI]]" valueURI="[[su40:p3:valueURI]]" encoding="[[su40:p3:encoding]]" point="[[su40:p3:point]]">[[su40:p3:value]]</[[su40:p3:type]]>
+    <[[su40:p4:type]] authority="[[su40:p4:authority]]" authorityURI="[[su40:p4:authorityURI]]" valueURI="[[su40:p4:valueURI]]" encoding="[[su40:p4:encoding]]" point="[[su40:p4:point]]">[[su40:p4:value]]</[[su40:p4:type]]>
+    <[[su40:p5:type]] authority="[[su40:p5:authority]]" authorityURI="[[su40:p5:authorityURI]]" valueURI="[[su40:p5:valueURI]]" encoding="[[su40:p5:encoding]]" point="[[su40:p5:point]]">[[su40:p5:value]]</[[su40:p5:type]]>
   </subject>
   <subject displayLabel="[[su41:displayLabel]]" authority="[[su41:authority]]" authorityURI="[[su41:authorityURI]]" valueURI="[[su41:valueURI]]" lang="[[su41:language]]" script="[[su41:script]]" transliteration="[[su41:transliteration]]" altRepGroup="[[su41:altRepGroup]]">
-    <[[su41:p1:type]] authority="[[su41:p1:authority]]" authorityURI="[[su41:p1:authorityURI]]" valueURI="[[su41:p1:valueURI]]">[[su41:p1:value]]</[[su41:p1:type]]>
-    <[[su41:p2:type]] authority="[[su41:p2:authority]]" authorityURI="[[su41:p2:authorityURI]]" valueURI="[[su41:p2:valueURI]]">[[su41:p2:value]]</[[su41:p2:type]]>
-    <[[su41:p3:type]] authority="[[su41:p3:authority]]" authorityURI="[[su41:p3:authorityURI]]" valueURI="[[su41:p3:valueURI]]">[[su41:p3:value]]</[[su41:p3:type]]>
-    <[[su41:p4:type]] authority="[[su41:p4:authority]]" authorityURI="[[su41:p4:authorityURI]]" valueURI="[[su41:p4:valueURI]]">[[su41:p4:value]]</[[su41:p4:type]]>
-    <[[su41:p5:type]] authority="[[su41:p5:authority]]" authorityURI="[[su41:p5:authorityURI]]" valueURI="[[su41:p5:valueURI]]">[[su41:p5:value]]</[[su41:p5:type]]>
+    <[[su41:p1:type]] authority="[[su41:p1:authority]]" authorityURI="[[su41:p1:authorityURI]]" valueURI="[[su41:p1:valueURI]]" encoding="[[su41:p1:encoding]]" point="[[su41:p1:point]]">[[su41:p1:value]]</[[su41:p1:type]]>
+    <[[su41:p2:type]] authority="[[su41:p2:authority]]" authorityURI="[[su41:p2:authorityURI]]" valueURI="[[su41:p2:valueURI]]" encoding="[[su41:p2:encoding]]" point="[[su41:p2:point]]">[[su41:p2:value]]</[[su41:p2:type]]>
+    <[[su41:p3:type]] authority="[[su41:p3:authority]]" authorityURI="[[su41:p3:authorityURI]]" valueURI="[[su41:p3:valueURI]]" encoding="[[su41:p3:encoding]]" point="[[su41:p3:point]]">[[su41:p3:value]]</[[su41:p3:type]]>
+    <[[su41:p4:type]] authority="[[su41:p4:authority]]" authorityURI="[[su41:p4:authorityURI]]" valueURI="[[su41:p4:valueURI]]" encoding="[[su41:p4:encoding]]" point="[[su41:p4:point]]">[[su41:p4:value]]</[[su41:p4:type]]>
+    <[[su41:p5:type]] authority="[[su41:p5:authority]]" authorityURI="[[su41:p5:authorityURI]]" valueURI="[[su41:p5:valueURI]]" encoding="[[su41:p5:encoding]]" point="[[su41:p5:point]]">[[su41:p5:value]]</[[su41:p5:type]]>
   </subject>
   <subject displayLabel="[[su42:displayLabel]]" authority="[[su42:authority]]" authorityURI="[[su42:authorityURI]]" valueURI="[[su42:valueURI]]" lang="[[su42:language]]" script="[[su42:script]]" transliteration="[[su42:transliteration]]" altRepGroup="[[su42:altRepGroup]]">
-    <[[su42:p1:type]] authority="[[su42:p1:authority]]" authorityURI="[[su42:p1:authorityURI]]" valueURI="[[su42:p1:valueURI]]">[[su42:p1:value]]</[[su42:p1:type]]>
-    <[[su42:p2:type]] authority="[[su42:p2:authority]]" authorityURI="[[su42:p2:authorityURI]]" valueURI="[[su42:p2:valueURI]]">[[su42:p2:value]]</[[su42:p2:type]]>
-    <[[su42:p3:type]] authority="[[su42:p3:authority]]" authorityURI="[[su42:p3:authorityURI]]" valueURI="[[su42:p3:valueURI]]">[[su42:p3:value]]</[[su42:p3:type]]>
-    <[[su42:p4:type]] authority="[[su42:p4:authority]]" authorityURI="[[su42:p4:authorityURI]]" valueURI="[[su42:p4:valueURI]]">[[su42:p4:value]]</[[su42:p4:type]]>
-    <[[su42:p5:type]] authority="[[su42:p5:authority]]" authorityURI="[[su42:p5:authorityURI]]" valueURI="[[su42:p5:valueURI]]">[[su42:p5:value]]</[[su42:p5:type]]>
+    <[[su42:p1:type]] authority="[[su42:p1:authority]]" authorityURI="[[su42:p1:authorityURI]]" valueURI="[[su42:p1:valueURI]]" encoding="[[su42:p1:encoding]]" point="[[su42:p1:point]]">[[su42:p1:value]]</[[su42:p1:type]]>
+    <[[su42:p2:type]] authority="[[su42:p2:authority]]" authorityURI="[[su42:p2:authorityURI]]" valueURI="[[su42:p2:valueURI]]" encoding="[[su42:p2:encoding]]" point="[[su42:p2:point]]">[[su42:p2:value]]</[[su42:p2:type]]>
+    <[[su42:p3:type]] authority="[[su42:p3:authority]]" authorityURI="[[su42:p3:authorityURI]]" valueURI="[[su42:p3:valueURI]]" encoding="[[su42:p3:encoding]]" point="[[su42:p3:point]]">[[su42:p3:value]]</[[su42:p3:type]]>
+    <[[su42:p4:type]] authority="[[su42:p4:authority]]" authorityURI="[[su42:p4:authorityURI]]" valueURI="[[su42:p4:valueURI]]" encoding="[[su42:p4:encoding]]" point="[[su42:p4:point]]">[[su42:p4:value]]</[[su42:p4:type]]>
+    <[[su42:p5:type]] authority="[[su42:p5:authority]]" authorityURI="[[su42:p5:authorityURI]]" valueURI="[[su42:p5:valueURI]]" encoding="[[su42:p5:encoding]]" point="[[su42:p5:point]]">[[su42:p5:value]]</[[su42:p5:type]]>
   </subject>
   <subject displayLabel="[[su43:displayLabel]]" authority="[[su43:authority]]" authorityURI="[[su43:authorityURI]]" valueURI="[[su43:valueURI]]" lang="[[su43:language]]" script="[[su43:script]]" transliteration="[[su43:transliteration]]" altRepGroup="[[su43:altRepGroup]]">
-    <[[su43:p1:type]] authority="[[su43:p1:authority]]" authorityURI="[[su43:p1:authorityURI]]" valueURI="[[su43:p1:valueURI]]">[[su43:p1:value]]</[[su43:p1:type]]>
-    <[[su43:p2:type]] authority="[[su43:p2:authority]]" authorityURI="[[su43:p2:authorityURI]]" valueURI="[[su43:p2:valueURI]]">[[su43:p2:value]]</[[su43:p2:type]]>
-    <[[su43:p3:type]] authority="[[su43:p3:authority]]" authorityURI="[[su43:p3:authorityURI]]" valueURI="[[su43:p3:valueURI]]">[[su43:p3:value]]</[[su43:p3:type]]>
-    <[[su43:p4:type]] authority="[[su43:p4:authority]]" authorityURI="[[su43:p4:authorityURI]]" valueURI="[[su43:p4:valueURI]]">[[su43:p4:value]]</[[su43:p4:type]]>
-    <[[su43:p5:type]] authority="[[su43:p5:authority]]" authorityURI="[[su43:p5:authorityURI]]" valueURI="[[su43:p5:valueURI]]">[[su43:p5:value]]</[[su43:p5:type]]>
+    <[[su43:p1:type]] authority="[[su43:p1:authority]]" authorityURI="[[su43:p1:authorityURI]]" valueURI="[[su43:p1:valueURI]]" encoding="[[su43:p1:encoding]]" point="[[su43:p1:point]]">[[su43:p1:value]]</[[su43:p1:type]]>
+    <[[su43:p2:type]] authority="[[su43:p2:authority]]" authorityURI="[[su43:p2:authorityURI]]" valueURI="[[su43:p2:valueURI]]" encoding="[[su43:p2:encoding]]" point="[[su43:p2:point]]">[[su43:p2:value]]</[[su43:p2:type]]>
+    <[[su43:p3:type]] authority="[[su43:p3:authority]]" authorityURI="[[su43:p3:authorityURI]]" valueURI="[[su43:p3:valueURI]]" encoding="[[su43:p3:encoding]]" point="[[su43:p3:point]]">[[su43:p3:value]]</[[su43:p3:type]]>
+    <[[su43:p4:type]] authority="[[su43:p4:authority]]" authorityURI="[[su43:p4:authorityURI]]" valueURI="[[su43:p4:valueURI]]" encoding="[[su43:p4:encoding]]" point="[[su43:p4:point]]">[[su43:p4:value]]</[[su43:p4:type]]>
+    <[[su43:p5:type]] authority="[[su43:p5:authority]]" authorityURI="[[su43:p5:authorityURI]]" valueURI="[[su43:p5:valueURI]]" encoding="[[su43:p5:encoding]]" point="[[su43:p5:point]]">[[su43:p5:value]]</[[su43:p5:type]]>
   </subject>
   <subject displayLabel="[[su44:displayLabel]]" authority="[[su44:authority]]" authorityURI="[[su44:authorityURI]]" valueURI="[[su44:valueURI]]" lang="[[su44:language]]" script="[[su44:script]]" transliteration="[[su44:transliteration]]" altRepGroup="[[su44:altRepGroup]]">
-    <[[su44:p1:type]] authority="[[su44:p1:authority]]" authorityURI="[[su44:p1:authorityURI]]" valueURI="[[su44:p1:valueURI]]">[[su44:p1:value]]</[[su44:p1:type]]>
-    <[[su44:p2:type]] authority="[[su44:p2:authority]]" authorityURI="[[su44:p2:authorityURI]]" valueURI="[[su44:p2:valueURI]]">[[su44:p2:value]]</[[su44:p2:type]]>
-    <[[su44:p3:type]] authority="[[su44:p3:authority]]" authorityURI="[[su44:p3:authorityURI]]" valueURI="[[su44:p3:valueURI]]">[[su44:p3:value]]</[[su44:p3:type]]>
-    <[[su44:p4:type]] authority="[[su44:p4:authority]]" authorityURI="[[su44:p4:authorityURI]]" valueURI="[[su44:p4:valueURI]]">[[su44:p4:value]]</[[su44:p4:type]]>
-    <[[su44:p5:type]] authority="[[su44:p5:authority]]" authorityURI="[[su44:p5:authorityURI]]" valueURI="[[su44:p5:valueURI]]">[[su44:p5:value]]</[[su44:p5:type]]>
+    <[[su44:p1:type]] authority="[[su44:p1:authority]]" authorityURI="[[su44:p1:authorityURI]]" valueURI="[[su44:p1:valueURI]]" encoding="[[su44:p1:encoding]]" point="[[su44:p1:point]]">[[su44:p1:value]]</[[su44:p1:type]]>
+    <[[su44:p2:type]] authority="[[su44:p2:authority]]" authorityURI="[[su44:p2:authorityURI]]" valueURI="[[su44:p2:valueURI]]" encoding="[[su44:p2:encoding]]" point="[[su44:p2:point]]">[[su44:p2:value]]</[[su44:p2:type]]>
+    <[[su44:p3:type]] authority="[[su44:p3:authority]]" authorityURI="[[su44:p3:authorityURI]]" valueURI="[[su44:p3:valueURI]]" encoding="[[su44:p3:encoding]]" point="[[su44:p3:point]]">[[su44:p3:value]]</[[su44:p3:type]]>
+    <[[su44:p4:type]] authority="[[su44:p4:authority]]" authorityURI="[[su44:p4:authorityURI]]" valueURI="[[su44:p4:valueURI]]" encoding="[[su44:p4:encoding]]" point="[[su44:p4:point]]">[[su44:p4:value]]</[[su44:p4:type]]>
+    <[[su44:p5:type]] authority="[[su44:p5:authority]]" authorityURI="[[su44:p5:authorityURI]]" valueURI="[[su44:p5:valueURI]]" encoding="[[su44:p5:encoding]]" point="[[su44:p5:point]]">[[su44:p5:value]]</[[su44:p5:type]]>
   </subject>
   <subject displayLabel="[[su45:displayLabel]]" authority="[[su45:authority]]" authorityURI="[[su45:authorityURI]]" valueURI="[[su45:valueURI]]" lang="[[su45:language]]" script="[[su45:script]]" transliteration="[[su45:transliteration]]" altRepGroup="[[su45:altRepGroup]]">
-    <[[su45:p1:type]] authority="[[su45:p1:authority]]" authorityURI="[[su45:p1:authorityURI]]" valueURI="[[su45:p1:valueURI]]">[[su45:p1:value]]</[[su45:p1:type]]>
-    <[[su45:p2:type]] authority="[[su45:p2:authority]]" authorityURI="[[su45:p2:authorityURI]]" valueURI="[[su45:p2:valueURI]]">[[su45:p2:value]]</[[su45:p2:type]]>
-    <[[su45:p3:type]] authority="[[su45:p3:authority]]" authorityURI="[[su45:p3:authorityURI]]" valueURI="[[su45:p3:valueURI]]">[[su45:p3:value]]</[[su45:p3:type]]>
-    <[[su45:p4:type]] authority="[[su45:p4:authority]]" authorityURI="[[su45:p4:authorityURI]]" valueURI="[[su45:p4:valueURI]]">[[su45:p4:value]]</[[su45:p4:type]]>
-    <[[su45:p5:type]] authority="[[su45:p5:authority]]" authorityURI="[[su45:p5:authorityURI]]" valueURI="[[su45:p5:valueURI]]">[[su45:p5:value]]</[[su45:p5:type]]>
+    <[[su45:p1:type]] authority="[[su45:p1:authority]]" authorityURI="[[su45:p1:authorityURI]]" valueURI="[[su45:p1:valueURI]]" encoding="[[su45:p1:encoding]]" point="[[su45:p1:point]]">[[su45:p1:value]]</[[su45:p1:type]]>
+    <[[su45:p2:type]] authority="[[su45:p2:authority]]" authorityURI="[[su45:p2:authorityURI]]" valueURI="[[su45:p2:valueURI]]" encoding="[[su45:p2:encoding]]" point="[[su45:p2:point]]">[[su45:p2:value]]</[[su45:p2:type]]>
+    <[[su45:p3:type]] authority="[[su45:p3:authority]]" authorityURI="[[su45:p3:authorityURI]]" valueURI="[[su45:p3:valueURI]]" encoding="[[su45:p3:encoding]]" point="[[su45:p3:point]]">[[su45:p3:value]]</[[su45:p3:type]]>
+    <[[su45:p4:type]] authority="[[su45:p4:authority]]" authorityURI="[[su45:p4:authorityURI]]" valueURI="[[su45:p4:valueURI]]" encoding="[[su45:p4:encoding]]" point="[[su45:p4:point]]">[[su45:p4:value]]</[[su45:p4:type]]>
+    <[[su45:p5:type]] authority="[[su45:p5:authority]]" authorityURI="[[su45:p5:authorityURI]]" valueURI="[[su45:p5:valueURI]]" encoding="[[su45:p5:encoding]]" point="[[su45:p5:point]]">[[su45:p5:value]]</[[su45:p5:type]]>
   </subject>
   <subject displayLabel="[[su46:displayLabel]]" authority="[[su46:authority]]" authorityURI="[[su46:authorityURI]]" valueURI="[[su46:valueURI]]" lang="[[su46:language]]" script="[[su46:script]]" transliteration="[[su46:transliteration]]" altRepGroup="[[su46:altRepGroup]]">
-    <[[su46:p1:type]] authority="[[su46:p1:authority]]" authorityURI="[[su46:p1:authorityURI]]" valueURI="[[su46:p1:valueURI]]">[[su46:p1:value]]</[[su46:p1:type]]>
-    <[[su46:p2:type]] authority="[[su46:p2:authority]]" authorityURI="[[su46:p2:authorityURI]]" valueURI="[[su46:p2:valueURI]]">[[su46:p2:value]]</[[su46:p2:type]]>
-    <[[su46:p3:type]] authority="[[su46:p3:authority]]" authorityURI="[[su46:p3:authorityURI]]" valueURI="[[su46:p3:valueURI]]">[[su46:p3:value]]</[[su46:p3:type]]>
-    <[[su46:p4:type]] authority="[[su46:p4:authority]]" authorityURI="[[su46:p4:authorityURI]]" valueURI="[[su46:p4:valueURI]]">[[su46:p4:value]]</[[su46:p4:type]]>
-    <[[su46:p5:type]] authority="[[su46:p5:authority]]" authorityURI="[[su46:p5:authorityURI]]" valueURI="[[su46:p5:valueURI]]">[[su46:p5:value]]</[[su46:p5:type]]>
+    <[[su46:p1:type]] authority="[[su46:p1:authority]]" authorityURI="[[su46:p1:authorityURI]]" valueURI="[[su46:p1:valueURI]]" encoding="[[su46:p1:encoding]]" point="[[su46:p1:point]]">[[su46:p1:value]]</[[su46:p1:type]]>
+    <[[su46:p2:type]] authority="[[su46:p2:authority]]" authorityURI="[[su46:p2:authorityURI]]" valueURI="[[su46:p2:valueURI]]" encoding="[[su46:p2:encoding]]" point="[[su46:p2:point]]">[[su46:p2:value]]</[[su46:p2:type]]>
+    <[[su46:p3:type]] authority="[[su46:p3:authority]]" authorityURI="[[su46:p3:authorityURI]]" valueURI="[[su46:p3:valueURI]]" encoding="[[su46:p3:encoding]]" point="[[su46:p3:point]]">[[su46:p3:value]]</[[su46:p3:type]]>
+    <[[su46:p4:type]] authority="[[su46:p4:authority]]" authorityURI="[[su46:p4:authorityURI]]" valueURI="[[su46:p4:valueURI]]" encoding="[[su46:p4:encoding]]" point="[[su46:p4:point]]">[[su46:p4:value]]</[[su46:p4:type]]>
+    <[[su46:p5:type]] authority="[[su46:p5:authority]]" authorityURI="[[su46:p5:authorityURI]]" valueURI="[[su46:p5:valueURI]]" encoding="[[su46:p5:encoding]]" point="[[su46:p5:point]]">[[su46:p5:value]]</[[su46:p5:type]]>
   </subject>
   <subject displayLabel="[[su47:displayLabel]]" authority="[[su47:authority]]" authorityURI="[[su47:authorityURI]]" valueURI="[[su47:valueURI]]" lang="[[su47:language]]" script="[[su47:script]]" transliteration="[[su47:transliteration]]" altRepGroup="[[su47:altRepGroup]]">
-    <[[su47:p1:type]] authority="[[su47:p1:authority]]" authorityURI="[[su47:p1:authorityURI]]" valueURI="[[su47:p1:valueURI]]">[[su47:p1:value]]</[[su47:p1:type]]>
-    <[[su47:p2:type]] authority="[[su47:p2:authority]]" authorityURI="[[su47:p2:authorityURI]]" valueURI="[[su47:p2:valueURI]]">[[su47:p2:value]]</[[su47:p2:type]]>
-    <[[su47:p3:type]] authority="[[su47:p3:authority]]" authorityURI="[[su47:p3:authorityURI]]" valueURI="[[su47:p3:valueURI]]">[[su47:p3:value]]</[[su47:p3:type]]>
-    <[[su47:p4:type]] authority="[[su47:p4:authority]]" authorityURI="[[su47:p4:authorityURI]]" valueURI="[[su47:p4:valueURI]]">[[su47:p4:value]]</[[su47:p4:type]]>
-    <[[su47:p5:type]] authority="[[su47:p5:authority]]" authorityURI="[[su47:p5:authorityURI]]" valueURI="[[su47:p5:valueURI]]">[[su47:p5:value]]</[[su47:p5:type]]>
+    <[[su47:p1:type]] authority="[[su47:p1:authority]]" authorityURI="[[su47:p1:authorityURI]]" valueURI="[[su47:p1:valueURI]]" encoding="[[su47:p1:encoding]]" point="[[su47:p1:point]]">[[su47:p1:value]]</[[su47:p1:type]]>
+    <[[su47:p2:type]] authority="[[su47:p2:authority]]" authorityURI="[[su47:p2:authorityURI]]" valueURI="[[su47:p2:valueURI]]" encoding="[[su47:p2:encoding]]" point="[[su47:p2:point]]">[[su47:p2:value]]</[[su47:p2:type]]>
+    <[[su47:p3:type]] authority="[[su47:p3:authority]]" authorityURI="[[su47:p3:authorityURI]]" valueURI="[[su47:p3:valueURI]]" encoding="[[su47:p3:encoding]]" point="[[su47:p3:point]]">[[su47:p3:value]]</[[su47:p3:type]]>
+    <[[su47:p4:type]] authority="[[su47:p4:authority]]" authorityURI="[[su47:p4:authorityURI]]" valueURI="[[su47:p4:valueURI]]" encoding="[[su47:p4:encoding]]" point="[[su47:p4:point]]">[[su47:p4:value]]</[[su47:p4:type]]>
+    <[[su47:p5:type]] authority="[[su47:p5:authority]]" authorityURI="[[su47:p5:authorityURI]]" valueURI="[[su47:p5:valueURI]]" encoding="[[su47:p5:encoding]]" point="[[su47:p5:point]]">[[su47:p5:value]]</[[su47:p5:type]]>
   </subject>
   <subject displayLabel="[[su48:displayLabel]]" authority="[[su48:authority]]" authorityURI="[[su48:authorityURI]]" valueURI="[[su48:valueURI]]" lang="[[su48:language]]" script="[[su48:script]]" transliteration="[[su48:transliteration]]" altRepGroup="[[su48:altRepGroup]]">
-    <[[su48:p1:type]] authority="[[su48:p1:authority]]" authorityURI="[[su48:p1:authorityURI]]" valueURI="[[su48:p1:valueURI]]">[[su48:p1:value]]</[[su48:p1:type]]>
-    <[[su48:p2:type]] authority="[[su48:p2:authority]]" authorityURI="[[su48:p2:authorityURI]]" valueURI="[[su48:p2:valueURI]]">[[su48:p2:value]]</[[su48:p2:type]]>
-    <[[su48:p3:type]] authority="[[su48:p3:authority]]" authorityURI="[[su48:p3:authorityURI]]" valueURI="[[su48:p3:valueURI]]">[[su48:p3:value]]</[[su48:p3:type]]>
-    <[[su48:p4:type]] authority="[[su48:p4:authority]]" authorityURI="[[su48:p4:authorityURI]]" valueURI="[[su48:p4:valueURI]]">[[su48:p4:value]]</[[su48:p4:type]]>
-    <[[su48:p5:type]] authority="[[su48:p5:authority]]" authorityURI="[[su48:p5:authorityURI]]" valueURI="[[su48:p5:valueURI]]">[[su48:p5:value]]</[[su48:p5:type]]>
+    <[[su48:p1:type]] authority="[[su48:p1:authority]]" authorityURI="[[su48:p1:authorityURI]]" valueURI="[[su48:p1:valueURI]]" encoding="[[su48:p1:encoding]]" point="[[su48:p1:point]]">[[su48:p1:value]]</[[su48:p1:type]]>
+    <[[su48:p2:type]] authority="[[su48:p2:authority]]" authorityURI="[[su48:p2:authorityURI]]" valueURI="[[su48:p2:valueURI]]" encoding="[[su48:p2:encoding]]" point="[[su48:p2:point]]">[[su48:p2:value]]</[[su48:p2:type]]>
+    <[[su48:p3:type]] authority="[[su48:p3:authority]]" authorityURI="[[su48:p3:authorityURI]]" valueURI="[[su48:p3:valueURI]]" encoding="[[su48:p3:encoding]]" point="[[su48:p3:point]]">[[su48:p3:value]]</[[su48:p3:type]]>
+    <[[su48:p4:type]] authority="[[su48:p4:authority]]" authorityURI="[[su48:p4:authorityURI]]" valueURI="[[su48:p4:valueURI]]" encoding="[[su48:p4:encoding]]" point="[[su48:p4:point]]">[[su48:p4:value]]</[[su48:p4:type]]>
+    <[[su48:p5:type]] authority="[[su48:p5:authority]]" authorityURI="[[su48:p5:authorityURI]]" valueURI="[[su48:p5:valueURI]]" encoding="[[su48:p5:encoding]]" point="[[su48:p5:point]]">[[su48:p5:value]]</[[su48:p5:type]]>
   </subject>
   <subject displayLabel="[[su49:displayLabel]]" authority="[[su49:authority]]" authorityURI="[[su49:authorityURI]]" valueURI="[[su49:valueURI]]" lang="[[su49:language]]" script="[[su49:script]]" transliteration="[[su49:transliteration]]" altRepGroup="[[su49:altRepGroup]]">
-    <[[su49:p1:type]] authority="[[su49:p1:authority]]" authorityURI="[[su49:p1:authorityURI]]" valueURI="[[su49:p1:valueURI]]">[[su49:p1:value]]</[[su49:p1:type]]>
-    <[[su49:p2:type]] authority="[[su49:p2:authority]]" authorityURI="[[su49:p2:authorityURI]]" valueURI="[[su49:p2:valueURI]]">[[su49:p2:value]]</[[su49:p2:type]]>
-    <[[su49:p3:type]] authority="[[su49:p3:authority]]" authorityURI="[[su49:p3:authorityURI]]" valueURI="[[su49:p3:valueURI]]">[[su49:p3:value]]</[[su49:p3:type]]>
-    <[[su49:p4:type]] authority="[[su49:p4:authority]]" authorityURI="[[su49:p4:authorityURI]]" valueURI="[[su49:p4:valueURI]]">[[su49:p4:value]]</[[su49:p4:type]]>
-    <[[su49:p5:type]] authority="[[su49:p5:authority]]" authorityURI="[[su49:p5:authorityURI]]" valueURI="[[su49:p5:valueURI]]">[[su49:p5:value]]</[[su49:p5:type]]>
+    <[[su49:p1:type]] authority="[[su49:p1:authority]]" authorityURI="[[su49:p1:authorityURI]]" valueURI="[[su49:p1:valueURI]]" encoding="[[su49:p1:encoding]]" point="[[su49:p1:point]]">[[su49:p1:value]]</[[su49:p1:type]]>
+    <[[su49:p2:type]] authority="[[su49:p2:authority]]" authorityURI="[[su49:p2:authorityURI]]" valueURI="[[su49:p2:valueURI]]" encoding="[[su49:p2:encoding]]" point="[[su49:p2:point]]">[[su49:p2:value]]</[[su49:p2:type]]>
+    <[[su49:p3:type]] authority="[[su49:p3:authority]]" authorityURI="[[su49:p3:authorityURI]]" valueURI="[[su49:p3:valueURI]]" encoding="[[su49:p3:encoding]]" point="[[su49:p3:point]]">[[su49:p3:value]]</[[su49:p3:type]]>
+    <[[su49:p4:type]] authority="[[su49:p4:authority]]" authorityURI="[[su49:p4:authorityURI]]" valueURI="[[su49:p4:valueURI]]" encoding="[[su49:p4:encoding]]" point="[[su49:p4:point]]">[[su49:p4:value]]</[[su49:p4:type]]>
+    <[[su49:p5:type]] authority="[[su49:p5:authority]]" authorityURI="[[su49:p5:authorityURI]]" valueURI="[[su49:p5:valueURI]]" encoding="[[su49:p5:encoding]]" point="[[su49:p5:point]]">[[su49:p5:value]]</[[su49:p5:type]]>
   </subject>
   <subject displayLabel="[[su50:displayLabel]]" authority="[[su50:authority]]" authorityURI="[[su50:authorityURI]]" valueURI="[[su50:valueURI]]" lang="[[su50:language]]" script="[[su50:script]]" transliteration="[[su50:transliteration]]" altRepGroup="[[su50:altRepGroup]]">
-    <[[su50:p1:type]] authority="[[su50:p1:authority]]" authorityURI="[[su50:p1:authorityURI]]" valueURI="[[su50:p1:valueURI]]">[[su50:p1:value]]</[[su50:p1:type]]>
-    <[[su50:p2:type]] authority="[[su50:p2:authority]]" authorityURI="[[su50:p2:authorityURI]]" valueURI="[[su50:p2:valueURI]]">[[su50:p2:value]]</[[su50:p2:type]]>
-    <[[su50:p3:type]] authority="[[su50:p3:authority]]" authorityURI="[[su50:p3:authorityURI]]" valueURI="[[su50:p3:valueURI]]">[[su50:p3:value]]</[[su50:p3:type]]>
-    <[[su50:p4:type]] authority="[[su50:p4:authority]]" authorityURI="[[su50:p4:authorityURI]]" valueURI="[[su50:p4:valueURI]]">[[su50:p4:value]]</[[su50:p4:type]]>
-    <[[su50:p5:type]] authority="[[su50:p5:authority]]" authorityURI="[[su50:p5:authorityURI]]" valueURI="[[su50:p5:valueURI]]">[[su50:p5:value]]</[[su50:p5:type]]>
+    <[[su50:p1:type]] authority="[[su50:p1:authority]]" authorityURI="[[su50:p1:authorityURI]]" valueURI="[[su50:p1:valueURI]]" encoding="[[su50:p1:encoding]]" point="[[su50:p1:point]]">[[su50:p1:value]]</[[su50:p1:type]]>
+    <[[su50:p2:type]] authority="[[su50:p2:authority]]" authorityURI="[[su50:p2:authorityURI]]" valueURI="[[su50:p2:valueURI]]" encoding="[[su50:p2:encoding]]" point="[[su50:p2:point]]">[[su50:p2:value]]</[[su50:p2:type]]>
+    <[[su50:p3:type]] authority="[[su50:p3:authority]]" authorityURI="[[su50:p3:authorityURI]]" valueURI="[[su50:p3:valueURI]]" encoding="[[su50:p3:encoding]]" point="[[su50:p3:point]]">[[su50:p3:value]]</[[su50:p3:type]]>
+    <[[su50:p4:type]] authority="[[su50:p4:authority]]" authorityURI="[[su50:p4:authorityURI]]" valueURI="[[su50:p4:valueURI]]" encoding="[[su50:p4:encoding]]" point="[[su50:p4:point]]">[[su50:p4:value]]</[[su50:p4:type]]>
+    <[[su50:p5:type]] authority="[[su50:p5:authority]]" authorityURI="[[su50:p5:authorityURI]]" valueURI="[[su50:p5:valueURI]]" encoding="[[su50:p5:encoding]]" point="[[su50:p5:point]]">[[su50:p5:value]]</[[su50:p5:type]]>
   </subject>
   <subject authority="[[shg1:authority]]" authorityURI="[[shg1:authorityURI]]" valueURI="[[shg1:valueURI]]">
     <hierarchicalGeographic>
