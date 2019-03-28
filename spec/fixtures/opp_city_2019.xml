@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2019-03-12 08:39:21AM" sourceFile="Open Policing Data Upload - 2019, City-Level - dataset metadata final.csv">
+  <xmlDoc id="descMetadata" objectId="tr137st9964">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>U.S. Police Traffic Stop Data by City (2002-2018) 2019 version</title>
+      </titleInfo>
+      <name type="corporate" usage="primary">
+        <namePart>Stanford Computational Journalism Lab</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/com">com</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/com">compiler</roleTerm>
+        </role>
+      </name>
+      <name type="corporate">
+        <namePart>Stanford Computational Policy Lab</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/com">com</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/com">compiler</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="local">dataset</genre>
+      <genre authority="lcgft" authorityURI="http://id.loc.gov/authorities/genreForms" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026186">Tables (Data)</genre>
+      <genre authority="lcgft" authorityURI="http://id.loc.gov/authorities/genreForms" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</genre>
+      <originInfo eventType="publication">
+        <place>
+          <placeTerm type="text">Stanford (Calif.)</placeTerm>
+        </place>
+        <publisher>Big Local News</publisher>
+        <dateIssued keyDate="yes" encoding="w3cdtf">2019-03-04</dateIssued>
+      </originInfo>
+      <originInfo eventType="production">
+        <dateCreated encoding="w3cdtf">2019</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <note type="preferred citation" displayLabel="Preferred citation">Stanford Computational Journalism Lab. (2019) U.S. Police Traffic Stop Data by City (2002-2018) 2019 version. Stanford Digital Repository. Available at: http://purl.stanford.edu/tr137st9964</note>
+      <note displayLabel="Abstract">On a typical day in the United States, police officers make more than 50,000 traffic stops. Our team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country. Our goal is to help researchers, journalists, and policymakers investigate and improve interactions between police and the public.</note>
+      <note displayLabel="Abstract">This is a collection of over 30 million traffic stop records covering about 50 cities. The local policing data contains detailed information on individual stops including time, date, location and driver race, ethnicity, gender and age.</note>
+      <note displayLabel="Abstract">It covers the following cities: Little Rock, Arkansas -- Gilbert, Arizona -- Mesa, Arizona -- Bakersfield, California -- Long Beach, California -- San Bernardino, California -- San Diego, California -- San Francisco, California -- San Jose, California -- Santa Ana, California -- Stockton, California -- Aurora, Colorado -- Denver, Colorado -- Hartford, Connecticut -- Saint Petersburg, Florida -- Tampa, Florida -- Idaho Falls, Idaho -- Chicago, Illinois -- Fort Wayne, Indiana -- Wichita, Kansas -- Owensboro, Kentucky -- New Orleans, Louisiana -- Baltimore, Maryland -- St. Paul, Minnesota -- Charlotte, North Carolina -- Durham, North Carolina -- Fayetteville, North Carolina -- Greensboro, North Carolina -- Raleigh, North Carolina -- Winston-Salem, North Carolina -- Grand Forks, North Dakota -- Camden, New Jersey -- Albany, New York -- Cincinnati, Ohio -- Columbus, Ohio -- Oklahoma City, Oklahoma -- Tulsa, Oklahoma -- Philadelphia, New Jersey -- Nashville, Tennessee -- Arlington, Texas -- Austin, Texas -- Houston, Texas -- Plano, Texas -- San Antonio, Texas -- Burlington, Vermont -- Seattle, Washington -- Tacoma, Washington  -- Madison, Wisconsin</note>
+      <note displayLabel="Abstract">This is a collaboration between Big Local News and the Stanford Computational Policy Lab for the Stanford Open Policing Project.</note>
+      <note displayLabel="Abstract">Big Local News is a foundational project of the Stanford Journalism and Democracy Initiative.</note>
+      <note type="contact" displayLabel="Contact">open-policing@lists.stanford.edu, biglocalnews@stanford.edu</note>
+      <subject>
+        <name type="corporate">
+          <namePart>Stanford Computational Journalism Lab</namePart>
+        </name>
+      </subject>
+      <subject>
+        <name type="corporate">
+          <namePart>Stanford Computational Policy Lab</namePart>
+        </name>
+      </subject>
+      <subject authority="lcsh">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/names/n78095330">United States</geographic>
+      </subject>
+      <subject authority="lcsh">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85075302">Law enforcement</topic>
+      </subject>
+      <subject authority="lcsh">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85104183">Police</topic>
+      </subject>
+      <subject authority="lcsh">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85013567">Bias (Law)</topic>
+      </subject>
+      <subject authority="lcsh">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85110237">Race discrimination</topic>
+      </subject>
+      <subject>
+        <temporal>2001-2018</temporal>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford Digital Repository</physicalLocation>
+        <url usage="primary display">http://purl.stanford.edu/tr137st9964</url>
+      </location>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ar_little_rock_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Little Rock, AR (2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ar_little_rock_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Little Rock, AR (2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>az_gilbert_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <location>
+          <url>az_gilbert_2019_02_25.csv.zip</url>
+        </location>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>az_gilbert_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Gilbert, AZ (2008-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>az_mesa_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Mesa, AZ (2014-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>az_mesa_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Mesa, AZ (2014-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_anaheim_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Anaheim, CA (2012-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_anaheim_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Anaheim, CA (2012-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_bakersfield_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Bakersfield, CA (2008-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_bakersfield_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Bakersfield, CA (2008-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_bakersfield_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Bakersfield, CA (2008-2018) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_long_beach_2019_02_26.csv.zip</title>
+        </titleInfo>
+        <abstract>Long Beach, CA (2008-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_long_beach_2019_02_26.rds</title>
+        </titleInfo>
+        <abstract>Long Beach, CA (2008-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_long_beach_shapefiles_2019_02_26.tgz</title>
+        </titleInfo>
+        <abstract>Long Beach, CA (2008-2017) shapefile [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_bernardino_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>San Bernardino, CA (2011-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_bernardino_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>San Bernardino, CA (2011-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_diego_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>San Diego, CA (2014-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_diego_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>San Diego, CA (2014-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_diego_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>San Diego, CA (2014-2015) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_francisco_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>San Francisco (2007-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_francisco_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>San Francisco (2007-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_jose_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>San Jose (2014-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_san_jose_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>San Jose (2014-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_santa_ana_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Santa Ana, CA (2014-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_santa_ana_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Santa Ana, CA (2014-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_santa_ana_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Santa Ana, CA (2014-2018) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_stockton_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Stockton, CA  (2012-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ca_stockton_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Stockton, CA  (2012-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>co_aurora_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Aurora, CO (2012-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>co_aurora_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Aurora, CO (2012-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>co_aurora_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Aurora, CO (2012-2016) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>co_denver_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Denver, CO (2010-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>co_denver_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Denver, CO (2010-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>co_denver_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Denver, CO (2010-2018) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ct_hartford_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Hartford, CT (2013-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ct_hartford_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Hartford, CT (2013-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ct_hartford_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Hartford, CT (2013-2016) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>fl_saint_petersburg_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Saint Petersburg, FL (2010) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>fl_saint_petersburg_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Saint Petersburg, FL (2010) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>fl_tampa_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Tampa, FL (2003-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>fl_tampa_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Tampa, FL (2003-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>fl_tampa_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Tampa, FL (2003-2018) shapefile [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>id_idaho_falls_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Idaho Falls, ID (2008-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>id_idaho_falls_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Idaho Falls, ID (2008-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>il_chicago_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Chicago, IL (2012-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>il_chicago_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Chicago, IL (2012-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>in_fort_wayne_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Fort Wayne, IN (2007-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>in_fort_wayne_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Fort Wayne, IN (2007-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ks_wichita_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Wichita, KS (2006-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ks_wichita_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Wichita, KS (2006-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ky_owensboro_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Owensboro, KY (2015-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ky_owensboro_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Owensboro, KY (2015-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ky_owensboro_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Owensboro, KY (2015-2017) shapefile [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>la_new_orleans_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>New Orleans, LA (2010-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>la_new_orleans_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>New Orleans, LA (2010-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>md_baltimore_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Baltimore, MD (2011-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>md_baltimore_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Baltimore, MD (2011-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>mn_saint_paul_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Saint Paul, MN (2001-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>mn_saint_paul_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Saint Paul, MN (2001-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_charlotte_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Charlotte, NC (2002-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_charlotte_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Charlotte, NC (2002-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_durham_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Durham, NC (2002-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_durham_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Durham, NC (2002-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_fayetteville_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Fayetteville, NC (2002-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_fayetteville_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Fayetteville, NC (2002-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_greensboro_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Greensboro, NC (2002-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_greensboro_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Greensboro, NC (2002-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_raleigh_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Raleigh, NC (2002-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_raleigh_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Raleigh, NC (2002-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_winston-salem_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Winston-Salem, NC (2002-2015) csv  [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nc_winston-salem_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Winston-Salem, NC (2002-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nd_grand_forks_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Grand Forks, ND (2007-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nd_grand_forks_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Grand Forks, ND (2007-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nj_camden_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Camden, NJ (2013-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>nj_camden_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Camden, NJ (2013-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ny_albany_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Albany, NY (2008-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ny_albany_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Albany, NY (2008-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>oh_cincinnati_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Cincinnati, OH (2009-2018) csv[version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>oh_cincinnati_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Cincinnati, OH (2009-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>oh_columbus_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Columbus, OH (2012-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>oh_columbus_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Columbus, OH (2012-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>oh_columbus_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Columbus, OH (2012-2016) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ok_oklahoma_city_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Oklahoma City, OK (2007-2017) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ok_oklahoma_city_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Oklahoma City, OK (2007-2017) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ok_oklahoma_city_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Oklahoma City, OK (2007-2017) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ok_tulsa_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Tulsa, OK (2009-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>ok_tulsa_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Tulsa, OK (2009-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>pa_philadelphia_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Philadelphia, PA (2014-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>pa_philadelphia_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Philadelphia, PA (2014-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tn_nashville_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Nashville, TN (2010-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tn_nashville_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Nashville, TN (2010-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_arlington_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Arlington, TX (2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_arlington_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Arlington, TX (2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_austin_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Austin, TX (2006-2016) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_austin_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Austin, TX (2006-2016) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_houston_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Houston, TX (2014-2018) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_houston_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Houston, TX (2014-2018) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_houston_shapefiles_2019_02_25.tgz</title>
+        </titleInfo>
+        <abstract>Houston, TX (2014-2018) shapefiles [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_plano_2019_02_25.csv.zip</title>
+        </titleInfo>
+        <abstract>Plano, TX (2012-2015) csv [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <relatedItem type="constituent" displayLabel="Files">
+        <titleInfo>
+          <title>tx_plano_2019_02_25.rds</title>
+        </titleInfo>
+        <abstract>Plano, TX (2012-2015) rds [version date 2019-02-25]</abstract>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="text" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">English</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordContentSource authority="marcorg" authorityURI="http://id.loc.gov/vocabulary/organizations" valueURI="http://id.loc.gov/vocabulary/organizations/cst">CSt</recordContentSource>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+</xmlDocs>

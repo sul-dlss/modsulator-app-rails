@@ -24,9 +24,10 @@ RSpec.describe Modsulator do
       '20190207_related.csv' => '20190207_related.xml',
       '20190207_subject_temporal.csv' => '20190207_subject_temporal.xml',
       '20190207_title.csv' => '20190207_title.xml',
-      '20190207_type_genre.csv' => '20190207_type_genre.xml'
+      '20190207_type_genre.csv' => '20190207_type_genre.xml',
+      'opp_city_2019.csv' => 'opp_city_2019.xml'
     }.each do |testfile, results_file|
-      puts '.'
+
       generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
 
       it "converts #{testfile} to valid XML" do
