@@ -1,7 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe SpreadsheetController, type: :controller do
-
   describe 'GET #index' do
     before do
       allow(Modsulator).to receive(:template_spreadsheet_path).and_return('send/file.xlsx')

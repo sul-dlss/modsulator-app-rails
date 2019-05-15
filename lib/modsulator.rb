@@ -8,10 +8,9 @@ class Modsulator
   self.deprecation_horizon = 'modsulator version 2.0.0'
 
   # We define our own namespace for <xmlDocs>
-  NAMESPACE = 'http://library.stanford.edu/xmlDocs'
+  NAMESPACE = 'http://library.stanford.edu/xmlDocs'.freeze
 
   attr_reader :file, :template_xml, :rows
-
 
   # The reason for requiring both a file and filename is that within the API that is one of the users of this class,
   # the file and filename exist separately.
@@ -27,15 +26,14 @@ class Modsulator
 
     @rows = ModsulatorSheet.new(@file, @filename).rows
 
-    if options[:template_string]
-      @template_xml = options[:template_string]
-    elsif options[:template_file]
-      @template_xml = File.read(options[:template_file])
-    else
-      @template_xml = File.read(File.expand_path('../modsulator/modsulator_template.xml', __FILE__))
-    end
+    @template_xml = if options[:template_string]
+                      options[:template_string]
+                    elsif options[:template_file]
+                      File.read(options[:template_file])
+                    else
+                      File.read(File.expand_path('modsulator/modsulator_template.xml', __dir__))
+                    end
   end
-
 
   # Generates an XML document with one <mods> entry per input row.
   # Example output:
@@ -60,14 +58,13 @@ class Modsulator
 
     @rows.each do |row|
       mods_xml_doc = row_to_xml(row)
-      sub_doc = full_doc.create_element('xmlDoc', { id: 'descMetadata', objectId: "#{row['druid']}" })
+      sub_doc = full_doc.create_element('xmlDoc', id: 'descMetadata', objectId: (row['druid']).to_s)
       sub_doc.add_child(mods_xml_doc.root)
       root.add_child(sub_doc)
     end
 
     full_doc.to_s
   end
-
 
   # Checks whether or not a string contains any <br> or <p> markup.
   #
@@ -77,7 +74,6 @@ class Modsulator
     str.match('<br>') || str.match('<br/>') || str.match('<p>') || str.match('<p/>')
   end
 
-
   # Transforms HTML paragraph and line break markup tags to newline characters. This should be run <b>before</b> escaping
   # any XML characters.
   #
@@ -85,9 +81,8 @@ class Modsulator
   # @return [String]    The given string, with a single newline character substituted for line break tags and two consecutive
   #                     newline characters substituted for paragraph tags.
   def transform_whitespace_markup(str)
-    str.gsub(/<br\/>/, '\n').gsub(/<br>/, '\n').gsub(/<p>/, '\n\n').gsub(/<p\/>/, '\n\n')
+    str.gsub(%r{<br/>}, '\n').gsub(/<br>/, '\n').gsub(/<p>/, '\n\n').gsub(%r{<p/>}, '\n\n')
   end
-
 
   # Generates an XML string for a given row in a spreadsheet.
   #
@@ -100,10 +95,10 @@ class Modsulator
     # and international characters into their corresponding code point etc.
     manifest_row.each do |k, v|
       next unless v
+
       v = transform_whitespace_markup(v) if v.instance_of?(String) && has_whitespace_markup?(v)
       manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s
     end
-
 
     # Enable access with symbol or string keys
     manifest_row = manifest_row.with_indifferent_access
@@ -125,7 +120,6 @@ class Modsulator
     descriptive_metadata_xml
   end
 
-
   # Generates normalized (Stanford) MODS XML, writing output to files.
   #
   # @param [String] output_directory       The directory where output files should be stored.
@@ -141,7 +135,6 @@ class Modsulator
     end
   end
 
-
   # Checks that all the headers in the spreadsheet has a corresponding entry in the XML template.
   #
   # @param [Array<String>] spreadsheet_headers A list of all the headers in the spreadsheet
@@ -153,33 +146,30 @@ class Modsulator
     end
   end
 
-
   # Converts a single data row into a normalized MODS XML document.
   #
   # @param row     A single row in a MODS metadata spreadsheet, as provided by the {ModsulatorSheet#rows} method.
   # @return        An instance of Nokogiri::XML::Document that holds a normalized MODS XML instance.
   def row_to_xml(row)
-
     # Generate an XML string, then remove any text carried over from the template
     mods_xml = generate_xml(row)
     mods_xml.gsub!(/\[\[[^\]]+\]\]/, '')
 
     # Remove empty tags from when e.g. <[[sn1:p2:type]]> does not get filled in when [[sn1:p2:type]] has no value in the source spreadsheet
-    mods_xml.gsub!(/<\s[^>]+><\/>/, '')
+    mods_xml.gsub!(%r{<\s[^>]+></>}, '')
 
     mods_xml_doc = Nokogiri::XML(mods_xml)
     normalizer = Stanford::Mods::Normalizer.new
     normalizer.normalize_document(mods_xml_doc.root)
-    return mods_xml_doc
+    mods_xml_doc
   end
-
 
   class << self
     # Returns the template spreadsheet that's built into this gem.
     #
     # @return [String] The template spreadsheet, in binary form.
     def get_template_spreadsheet
-      IO.read(File.expand_path('../modsulator/modsulator_template.xlsx', __FILE__), mode: 'rb')
+      IO.read(File.expand_path('modsulator/modsulator_template.xlsx', __dir__), mode: 'rb')
     end
     deprecation_deprecate :get_template_spreadsheet
 
@@ -189,7 +179,7 @@ class Modsulator
     #   render body: Modsulator.get_template_spreadsheet
     # @return [String] the path to the spreadsheet template.
     def template_spreadsheet_path
-      File.expand_path('../modsulator/modsulator_template.xlsx', __FILE__)
+      File.expand_path('modsulator/modsulator_template.xlsx', __dir__)
     end
   end
 end

@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 git_source(:github) do |repo_name|
-  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
+  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?('/')
   "https://github.com/#{repo_name}.git"
 end
 
@@ -23,7 +23,7 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
   gem 'coveralls', require: false
-  gem "equivalent-xml", '>= 0.6.0'   # For ignoring_attr_values() with arguments
+  gem 'equivalent-xml', '>= 0.6.0' # For ignoring_attr_values() with arguments
   gem 'rspec-rails', '~> 3.5'
 end
 
@@ -43,4 +43,4 @@ group :deploy do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]

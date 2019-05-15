@@ -3,7 +3,7 @@ set :repo_url, 'https://github.com/sul-dlss/modsulator-app-rails'
 
 # Default branch is :master
 ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
-set :deploy_to, "/opt/app/modsulator/modsulator-app-rails"
+set :deploy_to, '/opt/app/modsulator/modsulator-app-rails'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
@@ -24,10 +24,10 @@ set :deploy_to, "/opt/app/modsulator/modsulator-app-rails"
 # set :pty, true
 
 # Default value for :linked_files is []
-set :linked_files, %w(config/secrets.yml config/honeybadger.yml)
+set :linked_files, %w[config/secrets.yml config/honeybadger.yml]
 
 # Default value for linked_dirs is []
-set :linked_dirs, ['log', 'tmp']
+set :linked_dirs, %w[log tmp]
 
 # Default value for default_env is {}
 # set :default_env, { path: "/opt/ruby/bin:$PATH" }
@@ -43,7 +43,7 @@ namespace :deploy do
   task :restart do
     on roles(:app), in: :sequence, wait: 5 do
       # Your restart mechanism here, for example:
-      #execute :touch, release_path.join('tmp/restart.txt')
+      # execute :touch, release_path.join('tmp/restart.txt')
     end
   end
 
