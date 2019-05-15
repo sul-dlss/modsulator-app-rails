@@ -59,6 +59,8 @@ class Modsulator
     root = full_doc.root
 
     @rows.each do |row|
+      next if row['druid'].nil?
+
       mods_xml_doc = row_to_xml(row)
       sub_doc = full_doc.create_element('xmlDoc', { id: 'descMetadata', objectId: "#{row['druid']}" })
       sub_doc.add_child(mods_xml_doc.root)
@@ -159,7 +161,6 @@ class Modsulator
   # @param row     A single row in a MODS metadata spreadsheet, as provided by the {ModsulatorSheet#rows} method.
   # @return        An instance of Nokogiri::XML::Document that holds a normalized MODS XML instance.
   def row_to_xml(row)
-
     # Generate an XML string, then remove any text carried over from the template
     mods_xml = generate_xml(row)
     mods_xml.gsub!(/\[\[[^\]]+\]\]/, '')
