@@ -333,7 +333,10 @@ Style/StringLiterals:
 # Configuration parameters: MinSize.
 # SupportedStyles: percent, brackets
 Style/SymbolArray:
-  EnforcedStyle: brackets
+  EnforcedStyle: percent
+  Exclude:
+    - 'Gemfile'
+    - 'config/routes.rb'
 
 # Offense count: 1
 # Cop supports --auto-correct.
