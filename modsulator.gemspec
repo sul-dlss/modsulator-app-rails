@@ -14,10 +14,10 @@ Gem::Specification.new do |s|
   s.platform    =  Gem::Platform::RUBY
   s.executables << 'modsulator'
 
-  s.add_dependency 'roo', '>= 2.7.1'
+  s.add_dependency 'activesupport', '~> 5.0'
+  s.add_dependency 'deprecation', '~> 0'
   s.add_dependency 'equivalent-xml', '>= 0.6.0'   # For ignoring_attr_values() with arguments
   s.add_dependency 'nokogiri', '~> 1.8'
-  s.add_dependency 'activesupport', '~> 5.0'
+  s.add_dependency 'roo', '>= 2.7.1'
   s.add_dependency 'stanford-mods-normalizer', '~> 0.1'
-  s.add_dependency 'deprecation', '~> 0'
 end

@@ -11,11 +11,10 @@ gem 'rails', '~> 5.2.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 
-gem 'stanford-mods-normalizer'
-gem 'roo', '>= 2.7.1'
-gem 'honeybadger'
 gem 'deprecation'
-
+gem 'honeybadger'
+gem 'roo', '>= 2.7.1'
+gem 'stanford-mods-normalizer'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
@@ -23,9 +22,9 @@ gem 'bootsnap', '>= 1.1.0', require: false
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
-  gem 'rspec-rails', '~> 3.5'
-  gem "equivalent-xml", '>= 0.6.0'   # For ignoring_attr_values() with arguments
   gem 'coveralls', require: false
+  gem "equivalent-xml", '>= 0.6.0'   # For ignoring_attr_values() with arguments
+  gem 'rspec-rails', '~> 3.5'
 end
 
 group :development do
@@ -38,8 +37,8 @@ group :development do
 end
 
 group :deploy do
-  gem 'capistrano-rails'
   gem 'capistrano-passenger'
+  gem 'capistrano-rails'
   gem 'dlss-capistrano'
 end
 
