@@ -17,7 +17,6 @@ class ModsulatorSheet
     @filename = filename
   end
 
-
   # Loads the input spreadsheet into an array of hashes. This spreadsheet should conform to the Stanford MODS template format,
   # which has three header rows. The first row is a kind of "super header", the second row is an intermediate header and the
   # third row is the header row that names the fields. The data rows are in the fourth row onwards.
@@ -27,9 +26,8 @@ class ModsulatorSheet
   def rows
     # Parse the spreadsheet, automatically finding the header row by looking for "druid" and "sourceId" and leave the
     # header row itself out of the resulting array. Everything preceding the header row is discarded.
-    @rows ||= spreadsheet.parse(header_search: ['druid', 'sourceId'], clean: true)
+    @rows ||= spreadsheet.parse(header_search: %w[druid sourceId], clean: true)
   end
-
 
   # Opens a spreadsheet based on its filename extension.
   #
@@ -39,20 +37,18 @@ class ModsulatorSheet
                      when '.csv' then Roo::Spreadsheet.open(@file, extension: :csv)
                      when '.xls' then Roo::Spreadsheet.open(@file, extension: :xls)
                      when '.xlsx' then Roo::Spreadsheet.open(@file, extension: :xlsx)
-                     else fail "Unknown file type: #{@filename}"
-    end
+                     else raise "Unknown file type: #{@filename}"
+                     end
   end
-
 
   # Get the headers used in the spreadsheet
   def headers
     rows.first.keys
   end
 
-
   # Convert the loaded spreadsheet to a JSON string.
   # @return [String]  A JSON string.
-  def to_json
+  def to_json(_opts)
     json_hash = {}
     json_hash['filename'] = File.basename(filename)
     json_hash['rows'] = rows
