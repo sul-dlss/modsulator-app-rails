@@ -57,6 +57,8 @@ class Modsulator
     root = full_doc.root
 
     @rows.each do |row|
+      next if row['druid'].nil?
+
       mods_xml_doc = row_to_xml(row)
       sub_doc = full_doc.create_element('xmlDoc', id: 'descMetadata', objectId: (row['druid']).to_s)
       sub_doc.add_child(mods_xml_doc.root)
