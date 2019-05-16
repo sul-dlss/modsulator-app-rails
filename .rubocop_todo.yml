@@ -66,4 +66,7 @@ Style/MixinUsage:
 # Configuration parameters: AllowHeredoc, AllowURI, URISchemes, IgnoreCopDirectives, IgnoredPatterns.
 # URISchemes: http, https
 Metrics/LineLength:
-  Max: 234
+  Max: 135
+  Exclude:
+    - 'spec/controllers/modsulator_controller_spec.rb'
+    - 'bin/modsulator'

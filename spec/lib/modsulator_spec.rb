@@ -11,7 +11,9 @@ RSpec.describe Modsulator do
   describe '#get_template_spreadsheet' do
     subject { Modsulator.get_template_spreadsheet }
     it 'returns the correct spreadsheet' do
-      expected_binary_string = IO.read(File.join(File.expand_path('../../lib/modsulator', __dir__), 'modsulator_template.xlsx'), mode: 'rb')
+      expected_binary_string = IO.read(File.join(File.expand_path('../../lib/modsulator', __dir__),
+                                                 'modsulator_template.xlsx'),
+                                       mode: 'rb')
       expect(Deprecation).to receive(:warn)
       expect(subject).to eq(expected_binary_string)
     end

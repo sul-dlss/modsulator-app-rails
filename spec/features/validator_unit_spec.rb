@@ -4,7 +4,8 @@ RSpec.describe Validator do
   let(:service_path) { Rails.root.join('app', 'services') }
   describe 'initialize' do
     it 'validates a valid XML file using the internal XML Schema Definition file' do
-      # Nokogiri won't load the imported schema unless we explicitly set the current dir. This only seems to be a problem from within RSpec, though.
+      # Nokogiri won't load the imported schema unless we explicitly set the current dir.
+      # This only seems to be a problem from within RSpec, though.
       Dir.chdir(service_path) do
         validator = Validator.new('modsulator.xsd')
         error_list = validator.validate_xml_string(File.read(File.join(FIXTURES_DIR, 'crowdsourcing_bridget_1.xml')))
@@ -21,7 +22,8 @@ RSpec.describe Validator do
     end
 
     it 'validates a valid XML file by automatically picking up the internal XML Schema Definition file' do
-      # Nokogiri won't load the imported schema unless we explicitly set the current dir. This only seems to be a problem from within RSpec, though.
+      # Nokogiri won't load the imported schema unless we explicitly set the current dir.
+      # This only seems to be a problem from within RSpec, though.
       Dir.chdir(service_path) do
         validator = Validator.new
         error_list = validator.validate_xml_string(File.read(File.join(FIXTURES_DIR, 'crowdsourcing_bridget_1.xml')))

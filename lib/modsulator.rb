@@ -155,7 +155,8 @@ class Modsulator
     mods_xml = generate_xml(row)
     mods_xml.gsub!(/\[\[[^\]]+\]\]/, '')
 
-    # Remove empty tags from when e.g. <[[sn1:p2:type]]> does not get filled in when [[sn1:p2:type]] has no value in the source spreadsheet
+    # Remove empty tags from when e.g. <[[sn1:p2:type]]> does not get filled in
+    # when [[sn1:p2:type]] has no value in the source spreadsheet
     mods_xml.gsub!(%r{<\s[^>]+></>}, '')
 
     mods_xml_doc = Nokogiri::XML(mods_xml)
