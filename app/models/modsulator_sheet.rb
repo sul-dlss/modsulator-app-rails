@@ -38,7 +38,7 @@ class ModsulatorSheet
                      when '.xls' then Roo::Spreadsheet.open(@file, extension: :xls)
                      when '.xlsx' then Roo::Spreadsheet.open(@file, extension: :xlsx)
                      else raise "Unknown file type: #{@filename}"
-    end
+                     end
   end
 
   # Get the headers used in the spreadsheet
