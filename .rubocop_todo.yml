@@ -21,7 +21,8 @@ Metrics/BlockLength:
 # Offense count: 2
 # Configuration parameters: CountComments, ExcludedMethods.
 Metrics/MethodLength:
-  Max: 11
+  Exclude:
+    - 'lib/modsulator.rb'
 
 # Offense count: 1
 Naming/AccessorMethodName:
