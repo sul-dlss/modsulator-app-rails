@@ -7,16 +7,6 @@
 # versions of RuboCop, may require this file to be generated again.
 
 # Offense count: 1
-Lint/UselessAssignment:
-  Exclude:
-    - 'spec/controllers/modsulator_controller_spec.rb'
-
-# Offense count: 1
-Layout/EndAlignment:
-  Exclude:
-    - 'app/models/modsulator_sheet.rb'
-
-# Offense count: 1
 Metrics/AbcSize:
   Max: 19
 
@@ -24,7 +14,9 @@ Metrics/AbcSize:
 # Configuration parameters: CountComments, ExcludedMethods.
 # ExcludedMethods: refine
 Metrics/BlockLength:
-  Max: 38
+  Exclude:
+    - 'spec/integration_tests/integration_spec.rb'
+    - 'spec/features/validator_unit_spec.rb'
 
 # Offense count: 2
 # Configuration parameters: CountComments, ExcludedMethods.
