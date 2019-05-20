@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Validates XML against the MODSulator schema.
 class Validator
   # The Nokogiri::XML::Schema instance used for validation.

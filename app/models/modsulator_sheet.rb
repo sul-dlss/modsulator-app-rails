@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # File "modsulator_sheet.rb" - a class to load and validate metadata spreadsheets (.xlsx or .csv) for input
 # to Modsulator.
 

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 server 'modsulator-app-rails-prod.stanford.edu', user: 'modsulator', roles: %w[web db app]
 
 set :rails_env, 'production'

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe ModsulatorSheet do
   describe '#rows' do
     subject { ModsulatorSheet.new File.join(FIXTURES_DIR, 'test_002.csv'), 'test_002.csv' }

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe Modsulator do
   describe '#validate_headers' do
     subject { Modsulator.new File.join(FIXTURES_DIR, 'test_002.csv'), 'test_002.csv', template_string: 'abc def ghi' }

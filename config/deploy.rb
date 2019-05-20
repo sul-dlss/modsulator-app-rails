@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 set :application, 'modsulator-app'
 set :repo_url, 'https://github.com/sul-dlss/modsulator-app-rails'
 

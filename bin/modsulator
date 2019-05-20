@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 # This is a command line script that generates <xmlDocs> using the modsulator methods.
 abort 'Usage: bin/modsulator <spreadsheet>' unless ARGV.length == 1
