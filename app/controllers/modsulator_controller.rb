@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class ModsulatorController < ApplicationController
   def create
     mods_converter = Modsulator.new(File.new(params[:file].tempfile), params[:filename])

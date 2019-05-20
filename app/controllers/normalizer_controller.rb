@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class NormalizerController < ApplicationController
   def create
     input_file = File.open(File.new(params[:file].tempfile))

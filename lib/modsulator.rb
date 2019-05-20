@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # File "modsulator.rb" - defines the Modsulator class, providing the main part of the API that lets you work
 # with metadata spreadsheets and MODS XML.
 
@@ -8,7 +10,7 @@ class Modsulator
   self.deprecation_horizon = 'modsulator version 2.0.0'
 
   # We define our own namespace for <xmlDocs>
-  NAMESPACE = 'http://library.stanford.edu/xmlDocs'.freeze
+  NAMESPACE = 'http://library.stanford.edu/xmlDocs'
 
   attr_reader :file, :template_xml, :rows
 
