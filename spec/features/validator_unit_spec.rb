@@ -19,7 +19,7 @@ RSpec.describe Validator do
       Dir.chdir(service_path) do
         validator = Validator.new('modsulator.xsd')
         error_list = validator.validate_xml_string(File.read(File.join(FIXTURES_DIR, 'invalid_crowdsourcing_bridget_1.xml')))
-        expect(error_list.length).to eq(3)
+        expect(error_list.length).to eq(2)
       end
     end
 
@@ -37,7 +37,7 @@ RSpec.describe Validator do
       Dir.chdir(service_path) do
         validator = Validator.new('modsulator.xsd')
         error_list = validator.validate_xml_string(File.read(File.join(FIXTURES_DIR, 'invalid_crowdsourcing_bridget_1.xml')))
-        expect(error_list.length).to eq(3)
+        expect(error_list.length).to eq(2)
       end
     end
   end
