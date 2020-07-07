@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.org/sul-dlss/modsulator-app-rails.svg?branch=master)](https://travis-ci.org/sul-dlss/modsulator-app-rails)
-[![Coverage Status](https://coveralls.io/repos/sul-dlss/modsulator-app-rails/badge.svg)](https://coveralls.io/r/sul-dlss/modsulator-app-rails)
+[![CircleCI](https://circleci.com/gh/sul-dlss/modsulator-app-rails.svg?style=svg)](https://circleci.com/gh/sul-dlss/modsulator-app-rails)
+[![Code Climate](https://codeclimate.com/github/sul-dlss/modsulator-app-rails/badges/gpa.svg)](https://codeclimate.com/github/sul-dlss/modsulator-app-rails)
+[![Code Climate Test Coverage](https://codeclimate.com/github/sul-dlss/modsulator-app-rails/badges/coverage.svg)](https://codeclimate.com/github/sul-dlss/
 [![GitHub version](https://badge.fury.io/gh/sul-dlss%2Fmodsulator-app-rails.svg)](https://badge.fury.io/gh/sul-dlss%2Fmodsulator-app-rails)
 
 # modsulator-app-rails
