@@ -944,6 +944,7 @@
   <abstract displayLabel="[[ab:displayLabel]]" lang="[[ab:language]]" script="[[ab:script]]" transliteration="[[ab:transliteration]]" altRepGroup="[[ab:altRepGroup]]">[[ab:abstract]]</abstract>
   <abstract displayLabel="[[ab2:displayLabel]]" lang="[[ab2:language]]" script="[[ab2:script]]" transliteration="[[ab2:transliteration]]" altRepGroup="[[ab2:altRepGroup]]">[[ab2:abstract]]</abstract>
   <tableOfContents displayLabel="[[tc:displayLabel]]" lang="[[tc:language]]" script="[[tc:script]]" transliteration="[[tc:transliteration]]">[[tc:tableOfContents]]</tableOfContents>
+  <tableOfContents displayLabel="[[tc2:displayLabel]]" lang="[[tc2:language]]" script="[[tc2:script]]" transliteration="[[tc2:transliteration]]">[[tc2:tableOfContents]]</tableOfContents>
   <note type="[[no1:type]]" displayLabel="[[no1:displayLabel]]" lang="[[no1:language]]" script="[[no1:script]]" transliteration="[[no1:transliteration]]" altRepGroup="[[no1:altRepGroup]]">[[no1:note]]</note>
   <note type="[[no2:type]]" displayLabel="[[no2:displayLabel]]" lang="[[no2:language]]" script="[[no2:script]]" transliteration="[[no2:transliteration]]" altRepGroup="[[no2:altRepGroup]]">[[no2:note]]</note>
   <note type="[[no3:type]]" displayLabel="[[no3:displayLabel]]" lang="[[no3:language]]" script="[[no3:script]]" transliteration="[[no3:transliteration]]" altRepGroup="[[no3:altRepGroup]]">[[no3:note]]</note>
