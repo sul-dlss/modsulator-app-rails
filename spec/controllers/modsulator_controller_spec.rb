@@ -23,7 +23,7 @@ RSpec.describe ModsulatorController, type: :controller do
       post :create, params: { file: Rack::Test::UploadedFile.new(File.join(FIXTURES_DIR, 'crowdsourcing_bridget_1.xlsx'), 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'), filename: 'crowdsourcing_bridget_1.xlsx' }
       returned_xml = Nokogiri::XML(response.body)
       expected_xml = Nokogiri::XML(File.read(File.join(FIXTURES_DIR, 'crowdsourcing_bridget_1.xml')))
-      expect(EquivalentXml.equivalent?(returned_xml, expected_xml, ignore_attr_values: ['datetime', 'version', 'schemaLocation'])).to be_truthy
+      expect(EquivalentXml.equivalent?(returned_xml, expected_xml, ignore_attr_values: %w(datetime version schemaLocation))).to be_truthy
     end
   end
 end
