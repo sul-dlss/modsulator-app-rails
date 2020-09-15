@@ -38,7 +38,7 @@ RSpec.describe Modsulator do
       it "generates same XML from #{testfile} as previous modsulator version" do
         generated_xml = Nokogiri::XML(generated_xml_string)
         expected_xml = Nokogiri::XML(File.read(File.join(FIXTURES_DIR, results_file)))
-        expect(generated_xml).to be_equivalent_to(expected_xml).ignoring_attr_values('datetime')
+        expect(generated_xml).to be_equivalent_to(expected_xml).ignoring_attr_values('datetime', 'version', 'schemaLocation')
       end
     end
   end
