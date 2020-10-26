@@ -132,7 +132,7 @@ class Modsulator
     # Write one XML file per data row in the input spreadsheet
     rows.each do |row|
       sourceid = row['sourceId']
-      output_filename = output_directory + '/' + sourceid + '.xml'
+      output_filename = "#{output_directory}/#{sourceid}.xml"
 
       mods_doc = row_to_xml(row)
       File.open(output_filename, 'w') { |fh| fh.puts(mods_doc.root.to_s) }

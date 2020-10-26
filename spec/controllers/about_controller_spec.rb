@@ -9,7 +9,7 @@ RSpec.describe AboutController, type: :controller do
       get :index
       expect(response).to have_http_status(:success)
       expected_version = File.read(File.expand_path('../../VERSION', __dir__))
-      expect(response.body).to eq(String.new('modsulator-api version ' + expected_version))
+      expect(response.body).to eq(String.new("modsulator-api version #{expected_version}"))
     end
   end
 end
