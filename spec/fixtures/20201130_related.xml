@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2019-02-07 03:33:15PM" sourceFile="20190207_related.csv">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2020-11-30 01:35:19PM" sourceFile="20201130_related.csv">
   <xmlDoc id="descMetadata" objectId="aa111aa1111">
-    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
       <titleInfo>
         <title>ti1:title</title>
       </titleInfo>
@@ -21,7 +21,7 @@
             <roleTerm type="text" authority="ri1:ro1:authority2" authorityURI="ri1:ro1:authorityURI2" valueURI="ri1:ro1:valueURI2">ri1:ro1:roleText2</roleTerm>
           </role>
         </name>
-        <originInfo>
+        <originInfo eventType="publication">
           <place>
             <placeTerm type="code" authority="marcgac" authorityURI="ri1:pl:authorityURI" valueURI="ri1:pl:valueURI">ri1:pl:placeCode</placeTerm>
             <placeTerm type="text" authority="marcgac" authorityURI="ri1:pl:authorityURI" valueURI="ri1:pl:valueURI">ri1:pl:placeText</placeTerm>
@@ -55,7 +55,7 @@
             <roleTerm type="text" authority="ri2:ro1:authority2" authorityURI="ri2:ro1:authorityURI2" valueURI="ri2:ro1:valueURI2">ri2:ro1:roleText2</roleTerm>
           </role>
         </name>
-        <originInfo>
+        <originInfo eventType="distributor">
           <place>
             <placeTerm type="code" authority="marcgac" authorityURI="ri2:pl:authorityURI" valueURI="ri2:pl:valueURI">ri2:pl:placeCode</placeTerm>
             <placeTerm type="text" authority="marcgac" authorityURI="ri2:pl:authorityURI" valueURI="ri2:pl:valueURI">ri2:pl:placeText</placeTerm>
@@ -89,7 +89,7 @@
             <roleTerm type="text" authority="ri3:ro1:authority2" authorityURI="ri3:ro1:authorityURI2" valueURI="ri3:ro1:valueURI2">ri3:ro1:roleText2</roleTerm>
           </role>
         </name>
-        <originInfo>
+        <originInfo eventType="manufacture">
           <place>
             <placeTerm type="code" authority="marcgac" authorityURI="ri3:pl:authorityURI" valueURI="ri3:pl:valueURI">ri3:pl:placeCode</placeTerm>
             <placeTerm type="text" authority="marcgac" authorityURI="ri3:pl:authorityURI" valueURI="ri3:pl:valueURI">ri3:pl:placeText</placeTerm>

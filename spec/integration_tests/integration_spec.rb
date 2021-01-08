@@ -21,7 +21,7 @@ RSpec.describe Modsulator do
       'point_coord_test.xlsx' => 'point_coord_test.xml',
       '20190207_language.csv' => '20190207_language.xml',
       '20190207_name.csv' => '20190207_name.xml',
-      '20190207_related.csv' => '20190207_related.xml',
+      '20201130_related.csv' => '20201130_related.xml',
       '20190207_subject_temporal.csv' => '20190207_subject_temporal.xml',
       '20190207_title.csv' => '20190207_title.xml',
       '20190207_type_genre.csv' => '20190207_type_genre.xml',
