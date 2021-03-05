@@ -2423,6 +2423,12 @@
         <placeTerm type="code" authority="[[ri1:pl:authority]]" authorityURI="[[ri1:pl:authorityURI]]" valueURI="[[ri1:pl:valueURI]]">[[ri1:pl:placeCode]]</placeTerm>
         <placeTerm type="text" authority="[[ri1:pl:authority]]" authorityURI="[[ri1:pl:authorityURI]]" valueURI="[[ri1:pl:valueURI]]">[[ri1:pl:placeText]]</placeTerm>
       </place>
+      <place>
+        <placeTerm type="code" authority="[[ri1:or:pl:placeCodeAuthority]]" authorityURI="[[ri1:or:pl:placeCodeAuthorityURI]]" valueURI="[[ri1:or:pl:placeCodeValueURI]]">[[ri1:or:pl:placeCodeValue]]</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text" authority="[[ri1:or:pl:placeTextAuthority]]" authorityURI="[[ri1:or:pl:placeTextAuthorityURI]]" valueURI="[[ri1:or:pl:placeTextValueURI]]">[[ri1:or:pl:placeTextValue]]</placeTerm>
+      </place>
       <publisher>[[ri1:or:publisher]]</publisher>
       <dateCreated keyDate="[[ri1:dt:dateCreatedKeyDate]]" encoding="[[ri1:dt:dateCreatedEncoding]]" qualifier="[[ri1:dt:dateCreatedQualifier]]" point="[[ri1:dt:dateCreatedPoint]]">[[ri1:dt:dateCreated]]</dateCreated>
       <dateCreated encoding="[[ri1:dt:dateCreatedEncoding]]" qualifier="[[ri1:dt:dateCreated2Qualifier]]" point="[[ri1:dt:dateCreated2Point]]">[[ri1:dt:dateCreated2]]</dateCreated>
@@ -2926,6 +2932,12 @@
         <placeTerm type="code" authority="[[ri2:pl:authority]]" authorityURI="[[ri2:pl:authorityURI]]" valueURI="[[ri2:pl:valueURI]]">[[ri2:pl:placeCode]]</placeTerm>
         <placeTerm type="text" authority="[[ri2:pl:authority]]" authorityURI="[[ri2:pl:authorityURI]]" valueURI="[[ri2:pl:valueURI]]">[[ri2:pl:placeText]]</placeTerm>
       </place>
+      <place>
+        <placeTerm type="code" authority="[[ri2:or:pl:placeCodeAuthority]]" authorityURI="[[ri2:or:pl:placeCodeAuthorityURI]]" valueURI="[[ri2:or:pl:placeCodeValueURI]]">[[ri2:or:pl:placeCodeValue]]</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text" authority="[[ri2:or:pl:placeTextAuthority]]" authorityURI="[[ri2:or:pl:placeTextAuthorityURI]]" valueURI="[[ri2:or:pl:placeTextValueURI]]">[[ri2:or:pl:placeTextValue]]</placeTerm>
+      </place>
       <publisher>[[ri2:or:publisher]]</publisher>
       <dateCreated keyDate="[[ri2:dt:dateCreatedKeyDate]]" encoding="[[ri2:dt:dateCreatedEncoding]]" qualifier="[[ri2:dt:dateCreatedQualifier]]" point="[[ri2:dt:dateCreatedPoint]]">[[ri2:dt:dateCreated]]</dateCreated>
       <dateCreated encoding="[[ri2:dt:dateCreatedEncoding]]" qualifier="[[ri2:dt:dateCreated2Qualifier]]" point="[[ri2:dt:dateCreated2Point]]">[[ri2:dt:dateCreated2]]</dateCreated>
@@ -2979,6 +2991,12 @@
       <place>
         <placeTerm type="code" authority="[[ri3:pl:authority]]" authorityURI="[[ri3:pl:authorityURI]]" valueURI="[[ri3:pl:valueURI]]">[[ri3:pl:placeCode]]</placeTerm>
         <placeTerm type="text" authority="[[ri3:pl:authority]]" authorityURI="[[ri3:pl:authorityURI]]" valueURI="[[ri3:pl:valueURI]]">[[ri3:pl:placeText]]</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="code" authority="[[ri3:or:pl:placeCodeAuthority]]" authorityURI="[[ri3:or:pl:placeCodeAuthorityURI]]" valueURI="[[ri3:or:pl:placeCodeValueURI]]">[[ri3:or:pl:placeCodeValue]]</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text" authority="[[ri3:or:pl:placeTextAuthority]]" authorityURI="[[ri3:or:pl:placeTextAuthorityURI]]" valueURI="[[ri3:or:pl:placeTextValueURI]]">[[ri3:or:pl:placeTextValue]]</placeTerm>
       </place>
       <publisher>[[ri3:or:publisher]]</publisher>
       <dateCreated keyDate="[[ri3:dt:dateCreatedKeyDate]]" encoding="[[ri3:dt:dateCreatedEncoding]]" qualifier="[[ri3:dt:dateCreatedQualifier]]" point="[[ri3:dt:dateCreatedPoint]]">[[ri3:dt:dateCreated]]</dateCreated>
