@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2021-03-05 10:09:55AM" sourceFile="origin-info-update.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2021-03-05 10:36:09AM" sourceFile="origin-info-update.xlsx">
   <xmlDoc id="descMetadata" objectId="aa111aa1111">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
       <titleInfo>
@@ -7,7 +7,7 @@
       </titleInfo>
       <originInfo>
         <place>
-          <placeTerm type="code" authority="marccountry-a" authorityURI="http://marccountry-a.org/" valueURI="http://marccountry-a.org/aaa">aaa</placeTerm>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://marccountry.org/" valueURI="http://marccountry.org/aaa">aaa</placeTerm>
         </place>
         <place>
           <placeTerm type="text" authorityURI="http://naf-sf.org" valueURI="http://naf-sf.org/sf">San Francisco</placeTerm>
@@ -15,7 +15,7 @@
       </originInfo>
       <originInfo>
         <place>
-          <placeTerm type="code" authority="marccountry-b" authorityURI="http://marccountry-b.org/" valueURI="http://marccountry-b.org/bbb">bbb</placeTerm>
+          <placeTerm type="code" authority="marcgac" authorityURI="http://marcgac.org/" valueURI="http://marcgac.org/bbb">bbb</placeTerm>
         </place>
         <place>
           <placeTerm type="text" authorityURI="http://naf-oak.org/" valueURI="http://naf-oak.org/oak">Oakland</placeTerm>
@@ -24,7 +24,7 @@
       <relatedItem>
         <originInfo eventType="publication">
           <place>
-            <placeTerm type="code" authority="marccountry-pub" authorityURI="http://marccountry-pub.org" valueURI="http://marccountry-pub.org/pub">pub</placeTerm>
+            <placeTerm type="code" authority="iso3166" authorityURI="http://iso3166.org/" valueURI="http://iso3166.org/pub">pub</placeTerm>
           </place>
           <place>
             <placeTerm type="text" authorityURI="http://naf-lon.org/" valueURI="http://naf-lon.org/lon">London</placeTerm>
@@ -34,7 +34,7 @@
       <relatedItem>
         <originInfo eventType="production">
           <place>
-            <placeTerm type="code" authority="marccountry-pro" authorityURI="http://marccountry-pro.org/" valueURI="http://marccountry-pro.org/pro">pro</placeTerm>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://marccountry.org/" valueURI="http://marccountry.org/pro">pro</placeTerm>
           </place>
           <place>
             <placeTerm type="text" authorityURI="http://naf-par.org/" valueURI="http://naf-par.org/par">Paris</placeTerm>
@@ -44,7 +44,7 @@
       <relatedItem>
         <originInfo eventType="distribution">
           <place>
-            <placeTerm type="code" authority="marccountry-dis" authorityURI="http://marccountry-dis.org/" valueURI="http://marccountry-dis.org/dis">dis</placeTerm>
+            <placeTerm type="code" authority="marcgac" authorityURI="http://marcgac.org/" valueURI="http://marcgac.org/dis">dis</placeTerm>
           </place>
           <place>
             <placeTerm type="text" authorityURI="http://naf-tok.org/" valueURI="http://naf-tok.org/tok">Tokyo</placeTerm>
