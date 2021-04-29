@@ -1955,7 +1955,7 @@
     </extent>
   </part>
   <relatedItem type="[[ri1:type]]" displayLabel="[[ri1:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri1:ti1:type]]" authority="[[ri1:ti1:authority]]" authorityURI="[[ri1:ti1:authorityURI]]" valueURI="[[ri1:ti1:valueURI]]" nameTitleGroup="[[ri1:ti1:nameTitleGroup]]">
       <title>[[ri1:title]]</title>
     </titleInfo>
     <name type="[[ri1:na1:type]]" usage="[[ri1:na1:usage]]" authority="[[ri1:na1:authority]]" authorityURI="[[ri1:na1:authorityURI]]" valueURI="[[ri1:na1:valueURI]]" nameTitleGroup="[[ri1:na1:nameTitleGroup]]" lang="[[ri1:na1:language]]" script="[[ri1:na1:script]]" transliteration="[[ri1:na1:transliteration]]" altRepGroup="[[ri1:na1:altRepGroup]]">
@@ -2464,7 +2464,7 @@
     </part>
   </relatedItem>
   <relatedItem type="[[ri2:type]]" displayLabel="[[ri2:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri2:ti1:type]]" authority="[[ri2:ti1:authority]]" authorityURI="[[ri2:ti1:authorityURI]]" valueURI="[[ri2:ti1:valueURI]]" nameTitleGroup="[[ri2:ti1:nameTitleGroup]]">
       <title>[[ri2:title]]</title>
     </titleInfo>
     <name type="[[ri2:na1:type]]" usage="[[ri2:na1:usage]]" authority="[[ri2:na1:authority]]" authorityURI="[[ri2:na1:authorityURI]]" valueURI="[[ri2:na1:valueURI]]" nameTitleGroup="[[ri2:na1:nameTitleGroup]]" lang="[[ri2:na1:language]]" script="[[ri2:na1:script]]" transliteration="[[ri2:na1:transliteration]]" altRepGroup="[[ri2:na1:altRepGroup]]">
@@ -2973,10 +2973,10 @@
     </part>
   </relatedItem>
   <relatedItem type="[[ri3:type]]" displayLabel="[[ri3:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri3:ti1:type]]" authority="[[ri3:ti1:authority]]" authorityURI="[[ri3:ti1:authorityURI]]" valueURI="[[ri3:ti1:valueURI]]" nameTitleGroup="[[ri3:ti1:nameTitleGroup]]">
       <title>[[ri3:title]]</title>
     </titleInfo>
-    <name type="[[ri3:na1:type]]" authority="[[ri3:na1:authority]]" authorityURI="[[ri3:na1:authorityURI]]" valueURI="[[ri3:na1:valueURI]]">
+    <name type="[[ri3:na1:type]]" usage="[[ri3:na1:usage]]" authority="[[ri3:na1:authority]]" authorityURI="[[ri3:na1:authorityURI]]" valueURI="[[ri3:na1:valueURI]]" nameTitleGroup="[[ri3:na1:nameTitleGroup]]" lang="[[ri3:na1:language]]" script="[[ri3:na1:script]]" transliteration="[[ri3:na1:transliteration]]">
       <namePart>[[ri3:na1:namePart]]</namePart>
       <role>
         <roleTerm type="code" authority="[[ri3:ro1:authority]]" authorityURI="[[ri3:ro1:authorityURI]]" valueURI="[[ri3:ro1:valueURI]]">[[ri3:ro1:roleCode]]</roleTerm>
@@ -3033,9 +3033,20 @@
     </part>
   </relatedItem>
   <relatedItem type="[[ri4:type]]" displayLabel="[[ri4:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri4:ti1:type]]" authority="[[ri4:ti1:authority]]" authorityURI="[[ri4:ti1:authorityURI]]" valueURI="[[ri4:ti1:valueURI]]" nameTitleGroup="[[ri4:ti1:nameTitleGroup]]">
       <title>[[ri4:title]]</title>
     </titleInfo>
+    <name type="[[ri4:na1:type]]" usage="[[ri4:na1:usage]]" authority="[[ri4:na1:authority]]" authorityURI="[[ri4:na1:authorityURI]]" valueURI="[[ri4:na1:valueURI]]" nameTitleGroup="[[ri4:na1:nameTitleGroup]]" lang="[[ri4:na1:language]]" script="[[ri4:na1:script]]" transliteration="[[ri4:na1:transliteration]]">
+      <namePart>[[ri4:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri4:ro1:authority]]" authorityURI="[[ri4:ro1:authorityURI]]" valueURI="[[ri4:ro1:valueURI]]">[[ri4:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri4:ro1:authority]]" authorityURI="[[ri4:ro1:authorityURI]]" valueURI="[[ri4:ro1:valueURI]]">[[ri4:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri4:ro1:authority2]]" authorityURI="[[ri4:ro1:authorityURI2]]" valueURI="[[ri4:ro1:valueURI2]]">[[ri4:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri4:ro1:authority2]]" authorityURI="[[ri4:ro1:authorityURI2]]" valueURI="[[ri4:ro1:valueURI2]]">[[ri4:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
     <location>
       <url>[[ri4:url]]</url>
     </location>
@@ -3045,9 +3056,20 @@
     <identifier type="[[ri4:id3:type]]" displayLabel="[[ri4:id3:displayLabel]]">[[ri4:id3:identifier]]</identifier>
   </relatedItem>
   <relatedItem type="[[ri5:type]]" displayLabel="[[ri5:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri5:ti1:type]]" authority="[[ri5:ti1:authority]]" authorityURI="[[ri5:ti1:authorityURI]]" valueURI="[[ri5:ti1:valueURI]]" nameTitleGroup="[[ri5:ti1:nameTitleGroup]]">
       <title>[[ri5:title]]</title>
-    </titleInfo>
+    </titleInfo
+    <name type="[[ri5:na1:type]]" usage="[[ri5:na1:usage]]" authority="[[ri5:na1:authority]]" authorityURI="[[ri5:na1:authorityURI]]" valueURI="[[ri5:na1:valueURI]]" nameTitleGroup="[[ri5:na1:nameTitleGroup]]" lang="[[ri5:na1:language]]" script="[[ri5:na1:script]]" transliteration="[[ri5:na1:transliteration]]">
+      <namePart>[[ri5:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri5:ro1:authority]]" authorityURI="[[ri5:ro1:authorityURI]]" valueURI="[[ri5:ro1:valueURI]]">[[ri5:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri5:ro1:authority]]" authorityURI="[[ri5:ro1:authorityURI]]" valueURI="[[ri5:ro1:valueURI]]">[[ri5:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri5:ro1:authority2]]" authorityURI="[[ri5:ro1:authorityURI2]]" valueURI="[[ri5:ro1:valueURI2]]">[[ri5:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri5:ro1:authority2]]" authorityURI="[[ri5:ro1:authorityURI2]]" valueURI="[[ri5:ro1:valueURI2]]">[[ri5:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
     <location>
       <url>[[ri5:url]]</url>
     </location>
@@ -3057,9 +3079,20 @@
     <identifier type="[[ri5:id3:type]]" displayLabel="[[ri5:id3:displayLabel]]">[[ri5:id3:identifier]]</identifier>
   </relatedItem>
   <relatedItem type="[[ri6:type]]" displayLabel="[[ri6:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri6:ti1:type]]" authority="[[ri6:ti1:authority]]" authorityURI="[[ri6:ti1:authorityURI]]" valueURI="[[ri6:ti1:valueURI]]" nameTitleGroup="[[ri6:ti1:nameTitleGroup]]">
       <title>[[ri6:title]]</title>
     </titleInfo>
+    <name type="[[ri6:na1:type]]" usage="[[ri6:na1:usage]]" authority="[[ri6:na1:authority]]" authorityURI="[[ri6:na1:authorityURI]]" valueURI="[[ri6:na1:valueURI]]" nameTitleGroup="[[ri6:na1:nameTitleGroup]]" lang="[[ri6:na1:language]]" script="[[ri6:na1:script]]" transliteration="[[ri6:na1:transliteration]]">
+      <namePart>[[ri6:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri6:ro1:authority]]" authorityURI="[[ri6:ro1:authorityURI]]" valueURI="[[ri6:ro1:valueURI]]">[[ri6:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri6:ro1:authority]]" authorityURI="[[ri6:ro1:authorityURI]]" valueURI="[[ri6:ro1:valueURI]]">[[ri6:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri6:ro1:authority2]]" authorityURI="[[ri6:ro1:authorityURI2]]" valueURI="[[ri6:ro1:valueURI2]]">[[ri6:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri6:ro1:authority2]]" authorityURI="[[ri6:ro1:authorityURI2]]" valueURI="[[ri6:ro1:valueURI2]]">[[ri6:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
     <location>
       <url>[[ri6:url]]</url>
     </location>
@@ -3069,9 +3102,20 @@
     <identifier type="[[ri6:id3:type]]" displayLabel="[[ri6:id3:displayLabel]]">[[ri6:id3:identifier]]</identifier>
   </relatedItem>
   <relatedItem type="[[ri7:type]]" displayLabel="[[ri7:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri7:ti1:type]]" authority="[[ri7:ti1:authority]]" authorityURI="[[ri7:ti1:authorityURI]]" valueURI="[[ri7:ti1:valueURI]]" nameTitleGroup="[[ri7:ti1:nameTitleGroup]]">
       <title>[[ri7:title]]</title>
     </titleInfo>
+    <name type="[[ri7:na1:type]]" usage="[[ri7:na1:usage]]" authority="[[ri7:na1:authority]]" authorityURI="[[ri7:na1:authorityURI]]" valueURI="[[ri7:na1:valueURI]]" nameTitleGroup="[[ri7:na1:nameTitleGroup]]" lang="[[ri7:na1:language]]" script="[[ri7:na1:script]]" transliteration="[[ri7:na1:transliteration]]">
+      <namePart>[[ri7:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri7:ro1:authority]]" authorityURI="[[ri7:ro1:authorityURI]]" valueURI="[[ri7:ro1:valueURI]]">[[ri7:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri7:ro1:authority]]" authorityURI="[[ri7:ro1:authorityURI]]" valueURI="[[ri7:ro1:valueURI]]">[[ri7:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri7:ro1:authority2]]" authorityURI="[[ri7:ro1:authorityURI2]]" valueURI="[[ri7:ro1:valueURI2]]">[[ri7:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri7:ro1:authority2]]" authorityURI="[[ri7:ro1:authorityURI2]]" valueURI="[[ri7:ro1:valueURI2]]">[[ri7:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
     <location>
       <url>[[ri7:url]]</url>
     </location>
@@ -3081,9 +3125,20 @@
     <identifier type="[[ri7:id3:type]]" displayLabel="[[ri7:id3:displayLabel]]">[[ri7:id3:identifier]]</identifier>
   </relatedItem>
   <relatedItem type="[[ri8:type]]" displayLabel="[[ri8:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri8:ti1:type]]" authority="[[ri8:ti1:authority]]" authorityURI="[[ri8:ti1:authorityURI]]" valueURI="[[ri8:ti1:valueURI]]" nameTitleGroup="[[ri8:ti1:nameTitleGroup]]">
       <title>[[ri8:title]]</title>
     </titleInfo>
+    <name type="[[ri8:na1:type]]" usage="[[ri8:na1:usage]]" authority="[[ri8:na1:authority]]" authorityURI="[[ri8:na1:authorityURI]]" valueURI="[[ri8:na1:valueURI]]" nameTitleGroup="[[ri8:na1:nameTitleGroup]]" lang="[[ri8:na1:language]]" script="[[ri8:na1:script]]" transliteration="[[ri8:na1:transliteration]]">
+      <namePart>[[ri8:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri8:ro1:authority]]" authorityURI="[[ri8:ro1:authorityURI]]" valueURI="[[ri8:ro1:valueURI]]">[[ri8:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri8:ro1:authority]]" authorityURI="[[ri8:ro1:authorityURI]]" valueURI="[[ri8:ro1:valueURI]]">[[ri8:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri8:ro1:authority2]]" authorityURI="[[ri8:ro1:authorityURI2]]" valueURI="[[ri8:ro1:valueURI2]]">[[ri8:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri8:ro1:authority2]]" authorityURI="[[ri8:ro1:authorityURI2]]" valueURI="[[ri8:ro1:valueURI2]]">[[ri8:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
     <location>
       <url>[[ri8:url]]</url>
     </location>
@@ -3093,9 +3148,20 @@
     <identifier type="[[ri8:id3:type]]" displayLabel="[[ri8:id3:displayLabel]]">[[ri8:id3:identifier]]</identifier>
   </relatedItem>
   <relatedItem type="[[ri9:type]]" displayLabel="[[ri9:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri9:ti1:type]]" authority="[[ri9:ti1:authority]]" authorityURI="[[ri9:ti1:authorityURI]]" valueURI="[[ri9:ti1:valueURI]]" nameTitleGroup="[[ri9:ti1:nameTitleGroup]]">
       <title>[[ri9:title]]</title>
     </titleInfo>
+    <name type="[[ri9:na1:type]]" usage="[[ri9:na1:usage]]" authority="[[ri9:na1:authority]]" authorityURI="[[ri9:na1:authorityURI]]" valueURI="[[ri9:na1:valueURI]]" nameTitleGroup="[[ri9:na1:nameTitleGroup]]" lang="[[ri9:na1:language]]" script="[[ri9:na1:script]]" transliteration="[[ri9:na1:transliteration]]">
+      <namePart>[[ri9:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri9:ro1:authority]]" authorityURI="[[ri9:ro1:authorityURI]]" valueURI="[[ri9:ro1:valueURI]]">[[ri9:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri9:ro1:authority]]" authorityURI="[[ri9:ro1:authorityURI]]" valueURI="[[ri9:ro1:valueURI]]">[[ri9:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri9:ro1:authority2]]" authorityURI="[[ri9:ro1:authorityURI2]]" valueURI="[[ri9:ro1:valueURI2]]">[[ri9:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri9:ro1:authority2]]" authorityURI="[[ri9:ro1:authorityURI2]]" valueURI="[[ri9:ro1:valueURI2]]">[[ri9:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
     <location>
       <url>[[ri9:url]]</url>
     </location>
@@ -3105,9 +3171,20 @@
     <identifier type="[[ri9:id3:type]]" displayLabel="[[ri9:id3:displayLabel]]">[[ri9:id3:identifier]]</identifier>
   </relatedItem>
   <relatedItem type="[[ri10:type]]" displayLabel="[[ri10:displayLabel]]">
-    <titleInfo>
+    <titleInfo type="[[ri10:ti1:type]]" authority="[[ri10:ti1:authority]]" authorityURI="[[ri10:ti1:authorityURI]]" valueURI="[[ri10:ti1:valueURI]]" nameTitleGroup="[[ri10:ti1:nameTitleGroup]]">
       <title>[[ri10:title]]</title>
     </titleInfo>
+    <name type="[[ri10:na1:type]]" usage="[[ri10:na1:usage]]" authority="[[ri10:na1:authority]]" authorityURI="[[ri10:na1:authorityURI]]" valueURI="[[ri10:na1:valueURI]]" nameTitleGroup="[[ri10:na1:nameTitleGroup]]" lang="[[ri10:na1:language]]" script="[[ri10:na1:script]]" transliteration="[[ri10:na1:transliteration]]">
+      <namePart>[[ri10:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri10:ro1:authority]]" authorityURI="[[ri10:ro1:authorityURI]]" valueURI="[[ri10:ro1:valueURI]]">[[ri10:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri10:ro1:authority]]" authorityURI="[[ri10:ro1:authorityURI]]" valueURI="[[ri10:ro1:valueURI]]">[[ri10:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri10:ro1:authority2]]" authorityURI="[[ri10:ro1:authorityURI2]]" valueURI="[[ri10:ro1:valueURI2]]">[[ri10:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri10:ro1:authority2]]" authorityURI="[[ri10:ro1:authorityURI2]]" valueURI="[[ri10:ro1:valueURI2]]">[[ri10:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
     <location>
       <url>[[ri10:url]]</url>
     </location>
