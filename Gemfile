@@ -7,14 +7,10 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.2.0'
-
-# Use Puma as the app server
-gem 'puma', '~> 3.12'
-
 gem 'deprecation'
 gem 'honeybadger'
+gem 'puma', '~> 5.3' # the app server
+gem 'rails', '~> 5.2.0'
 gem 'roo', '>= 2.7.1'
 gem 'stanford-mods-normalizer'
 
