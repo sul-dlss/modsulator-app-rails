@@ -826,17 +826,18 @@
     </place>
     <publisher lang="[[or:publisherLanguage]]" script="[[or:publisherScript]]" transliteration="[[or:publisherTransliteration]]">[[or:publisher]]</publisher>
     <dateCreated keyDate="[[dt:dateCreatedKeyDate]]" encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreatedQualifier]]" point="[[dt:dateCreatedPoint]]">[[dt:dateCreated]]</dateCreated>
-    <dateCreated encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreated2Qualifier]]" point="[[dt:dateCreated2Point]]">[[dt:dateCreated2]]</dateCreated>
-    <dateCreated keyDate="[[dt:dateCreated3KeyDate]]" encoding="[[dt:dateCreated3Encoding]]" qualifier="[[dt:dateCreated3Qualifier]]">[[dt:dateCreated3]]</dateCreated>
+    <dateCreated encoding="[[dt:dateCreated2Encoding]]" qualifier="[[dt:dateCreated2Qualifier]]" point="[[dt:dateCreated2Point]]">[[dt:dateCreated2]]</dateCreated>
+    <dateCreated encoding="[[dt:dateCreated3Encoding]]" qualifier="[[dt:dateCreated3Qualifier]]" point="[[dt:dateCreated3Point]]">[[dt:dateCreated3]]</dateCreated>
+    <dateCreated encoding="[[dt:dateCreated4Encoding]]" qualifier="[[dt:dateCreated4Qualifier]]" point="[[dt:dateCreated4Point]]">[[dt:dateCreated4]]</dateCreated>
     <dateIssued keyDate="[[dt:dateIssuedKeyDate]]" encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssuedQualifier]]" point="[[dt:dateIssuedPoint]]">[[dt:dateIssued]]</dateIssued>
-    <dateIssued encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssued2Qualifier]]" point="[[dt:dateIssued2Point]]">[[dt:dateIssued2]]</dateIssued>
-    <dateIssued keyDate="[[dt:dateIssued3KeyDate]]" encoding="[[dt:dateIssued3Encoding]]" qualifier="[[dt:dateIssued3Qualifier]]">[[dt:dateIssued3]]</dateIssued>
+    <dateIssued encoding="[[dt:dateIssued2Encoding]]" qualifier="[[dt:dateIssued2Qualifier]]" point="[[dt:dateIssued2Point]]">[[dt:dateIssued2]]</dateIssued>
+    <dateIssued encoding="[[dt:dateIssued3Encoding]]" qualifier="[[dt:dateIssued3Qualifier]]" point="[[dt:dateIssued3Point]]">[[dt:dateIssued3]]</dateIssued>
     <dateCaptured keyDate="[[dt:dateCapturedKeyDate]]" encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCapturedQualifier]]" point="[[dt:dateCapturedPoint]]">[[dt:dateCaptured]]</dateCaptured>
-    <dateCaptured encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCaptured2Qualifier]]" point="[[dt:dateCaptured2Point]]">[[dt:dateCaptured2]]</dateCaptured>
+    <dateCaptured encoding="[[dt:dateCaptured2Encoding]]" qualifier="[[dt:dateCaptured2Qualifier]]" point="[[dt:dateCaptured2Point]]">[[dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[dt:copyrightDateKeyDate]]" encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDateQualifier]]" point="[[dt:copyrightDatePoint]]">[[dt:copyrightDate]]</copyrightDate>
-    <copyrightDate encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDate2Qualifier]]" point="[[dt:copyrightDate2Point]]">[[dt:copyrightDate2]]</copyrightDate>
+    <copyrightDate encoding="[[dt:copyrightDate2Encoding]]" qualifier="[[dt:copyrightDate2Qualifier]]" point="[[dt:copyrightDate2Point]]">[[dt:copyrightDate2]]</copyrightDate>
     <dateOther keyDate="[[dt:dateOtherKeyDate]]" type="[[dt:dateOtherType]]" encoding="[[dt:dateOtherEncoding]]" qualifier="[[dt:dateOtherQualifier]]" point="[[dt:dateOtherPoint]]" script="[[dt:dateOtherScript]]" transliteration="[[dt:dateOtherTransliteration]]">[[dt:dateOther]]</dateOther>
-    <dateOther type="[[dt:dateOtherType]]" encoding="[[dt:dateOtherEncoding]]" qualifier="[[dt:dateOther2Qualifier]]" point="[[dt:dateOther2Point]]" script="[[dt:dateOtherScript]]" transliteration="[[dt:dateOtherTransliteration]]">[[dt:dateOther2]]</dateOther>
+    <dateOther type="[[dt:dateOther2Type]]" encoding="[[dt:dateOther2Encoding]]" qualifier="[[dt:dateOther2Qualifier]]" point="[[dt:dateOther2Point]]" script="[[dt:dateOther2Script]]" transliteration="[[dt:dateOther2Transliteration]]">[[dt:dateOther2]]</dateOther>
     <edition>[[or:edition]]</edition>
     <issuance>[[or:issuance]]</issuance>
     <frequency>[[or:frequency]]</frequency>
