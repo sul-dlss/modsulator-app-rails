@@ -26,7 +26,8 @@ RSpec.describe Modsulator do
       '20190207_title.csv' => '20190207_title.xml',
       '20190207_type_genre.csv' => '20190207_type_genre.xml',
       'opp_city_2019.csv' => 'opp_city_2019.xml',
-      'origin-info-update.xlsx' => 'origin-info-update.xml'
+      'origin-info-update.xlsx' => 'origin-info-update.xml',
+      'relatedItem_otherType.xlsx' => 'relatedItem_otherType.xml'
     }.each do |testfile, results_file|
       generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows
 
