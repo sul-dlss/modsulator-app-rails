@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2021-08-16 11:17:09AM" sourceFile="filled_template_20160711.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2021-08-16 12:44:49PM" sourceFile="filled_template_20160711.xlsx">
   <xmlDoc id="descMetadata" objectId="123">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
       <titleInfo authority="ti1:authority" authorityURI="ti1:authorityURI" valueURI="ti1:valueURI" nameTitleGroup="ti1:nameTitleGroup" lang="ti1:language" script="ti1:script" transliteration="ti1:transliteration" altRepGroup="ti1:altRepGroup">
@@ -130,15 +130,15 @@
         </place>
         <publisher lang="or2:publisherLanguage" script="or2:publisherScript" transliteration="or2:publisherTransliteration">or2:publisher</publisher>
         <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCreated</dateCreated>
-        <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCreated2</dateCreated>
+        <dateCreated qualifier="approximate" point="start">or2:dt:dateCreated2</dateCreated>
         <dateIssued keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateIssued</dateIssued>
-        <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateIssued2</dateIssued>
+        <dateIssued qualifier="approximate" point="start">or2:dt:dateIssued2</dateIssued>
         <dateCaptured keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCaptured</dateCaptured>
-        <dateCaptured encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCaptured2</dateCaptured>
+        <dateCaptured qualifier="approximate" point="start">or2:dt:dateCaptured2</dateCaptured>
         <copyrightDate keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:copyrightDate</copyrightDate>
-        <copyrightDate encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:copyrightDate2</copyrightDate>
+        <copyrightDate qualifier="approximate" point="start">or2:dt:copyrightDate2</copyrightDate>
         <dateOther keyDate="yes" type="or2:dt:dateOtherType" encoding="w3cdtf" qualifier="approximate" point="start" script="or2:dt:dateOtherScript" transliteration="or2:dt:dateOtherTransliteration">or2:dt:dateOther</dateOther>
-        <dateOther type="or2:dt:dateOtherType" encoding="w3cdtf" qualifier="approximate" point="start" script="or2:dt:dateOtherScript" transliteration="or2:dt:dateOtherTransliteration">or2:dt:dateOther2</dateOther>
+        <dateOther qualifier="approximate" point="start">or2:dt:dateOther2</dateOther>
         <edition>or2:edition</edition>
         <issuance>continuing</issuance>
       </originInfo>
