@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2021-08-17 09:32:24AM" sourceFile="relatedItem_otherType.xlsx">
+  <xmlDoc id="descMetadata" objectId="aa111aa1111">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <titleInfo>
+        <title>Test</title>
+      </titleInfo>
+      <relatedItem otherType="basedOn" otherTypeAuth="authority" otherTypeURI="http://authority.org/basedOn">
+        <titleInfo>
+          <title>Related item test</title>
+        </titleInfo>
+      </relatedItem>
+    </mods>
+  </xmlDoc>
+</xmlDocs>
