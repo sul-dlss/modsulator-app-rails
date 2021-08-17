@@ -855,15 +855,15 @@
     </place>
     <publisher lang="[[or2:publisherLanguage]]" script="[[or2:publisherScript]]" transliteration="[[or2:publisherTransliteration]]">[[or2:publisher]]</publisher>
     <dateCreated keyDate="[[or2:dt:dateCreatedKeyDate]]" encoding="[[or2:dt:dateCreatedEncoding]]" qualifier="[[or2:dt:dateCreatedQualifier]]" point="[[or2:dt:dateCreatedPoint]]">[[or2:dt:dateCreated]]</dateCreated>
-    <dateCreated encoding="[[or2:dt:dateCreatedEncoding]]" qualifier="[[or2:dt:dateCreated2Qualifier]]" point="[[or2:dt:dateCreated2Point]]">[[or2:dt:dateCreated2]]</dateCreated>
+    <dateCreated encoding="[[or2:dt:dateCreated2Encoding]]" qualifier="[[or2:dt:dateCreated2Qualifier]]" point="[[or2:dt:dateCreated2Point]]">[[or2:dt:dateCreated2]]</dateCreated>
     <dateIssued keyDate="[[or2:dt:dateIssuedKeyDate]]" encoding="[[or2:dt:dateIssuedEncoding]]" qualifier="[[or2:dt:dateIssuedQualifier]]" point="[[or2:dt:dateIssuedPoint]]">[[or2:dt:dateIssued]]</dateIssued>
-    <dateIssued encoding="[[or2:dt:dateIssuedEncoding]]" qualifier="[[or2:dt:dateIssued2Qualifier]]" point="[[or2:dt:dateIssued2Point]]">[[or2:dt:dateIssued2]]</dateIssued>
+    <dateIssued encoding="[[or2:dt:dateIssued2Encoding]]" qualifier="[[or2:dt:dateIssued2Qualifier]]" point="[[or2:dt:dateIssued2Point]]">[[or2:dt:dateIssued2]]</dateIssued>
     <dateCaptured keyDate="[[or2:dt:dateCapturedKeyDate]]" encoding="[[or2:dt:dateCapturedEncoding]]" qualifier="[[or2:dt:dateCapturedQualifier]]" point="[[or2:dt:dateCapturedPoint]]">[[or2:dt:dateCaptured]]</dateCaptured>
-    <dateCaptured encoding="[[or2:dt:dateCapturedEncoding]]" qualifier="[[or2:dt:dateCaptured2Qualifier]]" point="[[or2:dt:dateCaptured2Point]]">[[or2:dt:dateCaptured2]]</dateCaptured>
+    <dateCaptured encoding="[[or2:dt:dateCaptured2Encoding]]" qualifier="[[or2:dt:dateCaptured2Qualifier]]" point="[[or2:dt:dateCaptured2Point]]">[[or2:dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[or2:dt:copyrightDateKeyDate]]" encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDateQualifier]]" point="[[or2:dt:copyrightDatePoint]]">[[or2:dt:copyrightDate]]</copyrightDate>
-    <copyrightDate encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDate2Qualifier]]" point="[[or2:dt:copyrightDate2Point]]">[[or2:dt:copyrightDate2]]</copyrightDate>
+    <copyrightDate encoding="[[or2:dt:copyrightDate2Encoding]]" qualifier="[[or2:dt:copyrightDate2Qualifier]]" point="[[or2:dt:copyrightDate2Point]]">[[or2:dt:copyrightDate2]]</copyrightDate>
     <dateOther keyDate="[[or2:dt:dateOtherKeyDate]]" type="[[or2:dt:dateOtherType]]" encoding="[[or2:dt:dateOtherEncoding]]" qualifier="[[or2:dt:dateOtherQualifier]]" point="[[or2:dt:dateOtherPoint]]" script="[[or2:dt:dateOtherScript]]" transliteration="[[or2:dt:dateOtherTransliteration]]">[[or2:dt:dateOther]]</dateOther>
-    <dateOther type="[[or2:dt:dateOtherType]]" encoding="[[or2:dt:dateOtherEncoding]]" qualifier="[[or2:dt:dateOther2Qualifier]]" point="[[or2:dt:dateOther2Point]]" script="[[or2:dt:dateOtherScript]]" transliteration="[[or2:dt:dateOtherTransliteration]]">[[or2:dt:dateOther2]]</dateOther>
+    <dateOther type="[[or2:dt:dateOther2Type]]" encoding="[[or2:dt:dateOther2Encoding]]" qualifier="[[or2:dt:dateOther2Qualifier]]" point="[[or2:dt:dateOther2Point]]" script="[[or2:dt:dateOther2Script]]" transliteration="[[or2:dt:dateOther2Transliteration]]">[[or2:dt:dateOther2]]</dateOther>
     <edition>[[or2:edition]]</edition>
     <issuance>[[or2:issuance]]</issuance>
     <frequency>[[or2:frequency]]</frequency>
@@ -881,15 +881,15 @@
     </place>
     <publisher lang="[[or3:publisherLanguage]]" script="[[or3:publisherScript]]" transliteration="[[or3:publisherTransliteration]]">[[or3:publisher]]</publisher>
     <dateCreated keyDate="[[or3:dt:dateCreatedKeyDate]]" encoding="[[or3:dt:dateCreatedEncoding]]" qualifier="[[or3:dt:dateCreatedQualifier]]" point="[[or3:dt:dateCreatedPoint]]">[[or3:dt:dateCreated]]</dateCreated>
-    <dateCreated encoding="[[or3:dt:dateCreatedEncoding]]" qualifier="[[or3:dt:dateCreated2Qualifier]]" point="[[or3:dt:dateCreated2Point]]">[[or3:dt:dateCreated2]]</dateCreated>
+    <dateCreated encoding="[[or3:dt:dateCreated2Encoding]]" qualifier="[[or3:dt:dateCreated2Qualifier]]" point="[[or3:dt:dateCreated2Point]]">[[or3:dt:dateCreated2]]</dateCreated>
     <dateIssued keyDate="[[or3:dt:dateIssuedKeyDate]]" encoding="[[or3:dt:dateIssuedEncoding]]" qualifier="[[or3:dt:dateIssuedQualifier]]" point="[[or3:dt:dateIssuedPoint]]">[[or3:dt:dateIssued]]</dateIssued>
-    <dateIssued encoding="[[or3:dt:dateIssuedEncoding]]" qualifier="[[or3:dt:dateIssued2Qualifier]]" point="[[or3:dt:dateIssued2Point]]">[[or3:dt:dateIssued2]]</dateIssued>
+    <dateIssued encoding="[[or3:dt:dateIssued2Encoding]]" qualifier="[[or3:dt:dateIssued2Qualifier]]" point="[[or3:dt:dateIssued2Point]]">[[or3:dt:dateIssued2]]</dateIssued>
     <dateCaptured keyDate="[[or3:dt:dateCapturedKeyDate]]" encoding="[[or3:dt:dateCapturedEncoding]]" qualifier="[[or3:dt:dateCapturedQualifier]]" point="[[or3:dt:dateCapturedPoint]]">[[or3:dt:dateCaptured]]</dateCaptured>
-    <dateCaptured encoding="[[or3:dt:dateCapturedEncoding]]" qualifier="[[or3:dt:dateCaptured2Qualifier]]" point="[[or3:dt:dateCaptured2Point]]">[[or3:dt:dateCaptured2]]</dateCaptured>
+    <dateCaptured encoding="[[or3:dt:dateCaptured2Encoding]]" qualifier="[[or3:dt:dateCaptured2Qualifier]]" point="[[or3:dt:dateCaptured2Point]]">[[or3:dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[or3:dt:copyrightDateKeyDate]]" encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDateQualifier]]" point="[[or3:dt:copyrightDatePoint]]">[[or3:dt:copyrightDate]]</copyrightDate>
-    <copyrightDate encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDate2Qualifier]]" point="[[or3:dt:copyrightDate2Point]]">[[or3:dt:copyrightDate2]]</copyrightDate>
+    <copyrightDate encoding="[[or3:dt:copyrightDate2Encoding]]" qualifier="[[or3:dt:copyrightDate2Qualifier]]" point="[[or3:dt:copyrightDate2Point]]">[[or3:dt:copyrightDate2]]</copyrightDate>
     <dateOther keyDate="[[or3:dt:dateOtherKeyDate]]" type="[[or3:dt:dateOtherType]]" encoding="[[or3:dt:dateOtherEncoding]]" qualifier="[[or3:dt:dateOtherQualifier]]" point="[[or3:dt:dateOtherPoint]]" script="[[or3:dt:dateOtherScript]]" transliteration="[[or3:dt:dateOtherTransliteration]]">[[or3:dt:dateOther]]</dateOther>
-    <dateOther type="[[or3:dt:dateOtherType]]" encoding="[[or3:dt:dateOtherEncoding]]" qualifier="[[or3:dt:dateOther2Qualifier]]" point="[[or3:dt:dateOther2Point]]" script="[[or3:dt:dateOtherScript]]" transliteration="[[or3:dt:dateOtherTransliteration]]">[[or3:dt:dateOther2]]</dateOther>
+    <dateOther type="[[or3:dt:dateOther2Type]]" encoding="[[or3:dt:dateOther2Encoding]]" qualifier="[[or3:dt:dateOther2Qualifier]]" point="[[or3:dt:dateOther2Point]]" script="[[or3:dt:dateOther2Script]]" transliteration="[[or3:dt:dateOther2Transliteration]]">[[or3:dt:dateOther2]]</dateOther>
     <edition>[[or3:edition]]</edition>
     <issuance>[[or3:issuance]]</issuance>
     <frequency>[[or3:frequency]]</frequency>
