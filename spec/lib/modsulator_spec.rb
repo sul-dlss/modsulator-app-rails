@@ -13,7 +13,7 @@ RSpec.describe Modsulator do
   end
 
   describe '#get_template_spreadsheet' do
-    subject { Modsulator.get_template_spreadsheet }
+    subject { Modsulator.template_spreadsheet }
     it 'returns the correct spreadsheet' do
       expected_binary_string = IO.read(File.join(File.expand_path('../../app/lib/modsulator', __dir__),
                                                  'modsulator_template.xlsx'),

@@ -74,7 +74,7 @@ class Modsulator
   #
   # @param  [String]   str  Any string.
   # @return [Boolean]  true if the given string contains paragraph or line break HTML markup, false otherwise.
-  def has_whitespace_markup?(str)
+  def whitespace_markup?(str)
     str.match('<br>') || str.match('<br/>') || str.match('<p>') || str.match('<p/>')
   end
 
@@ -100,7 +100,7 @@ class Modsulator
     manifest_row.each do |k, v|
       next unless v
 
-      v = transform_whitespace_markup(v) if v.instance_of?(String) && has_whitespace_markup?(v)
+      v = transform_whitespace_markup(v) if v.instance_of?(String) && whitespace_markup?(v)
       manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s
     end
 
@@ -173,15 +173,15 @@ class Modsulator
     # Returns the template spreadsheet that's built into this gem.
     #
     # @return [String] The template spreadsheet, in binary form.
-    def get_template_spreadsheet
+    def template_spreadsheet
       IO.read(File.expand_path('modsulator/modsulator_template.xlsx', __dir__), mode: 'rb')
     end
-    deprecation_deprecate :get_template_spreadsheet
+    deprecation_deprecate :template_spreadsheet
 
     # This can be used by modsulator-rails-app so we can do:
     #   send_file Modsulator.template_spreadsheet_path
     # which is more memory efficient than:
-    #   render body: Modsulator.get_template_spreadsheet
+    #   render body: Modsulator.template_spreadsheet
     # @return [String] the path to the spreadsheet template.
     def template_spreadsheet_path
       File.expand_path('modsulator/modsulator_template.xlsx', __dir__)
