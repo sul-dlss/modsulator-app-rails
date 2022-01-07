@@ -109,7 +109,7 @@ class Modsulator
 
     # Run the XML template through ERB. This creates a new ERB object from the template XML,
     # NOT creating a separate thread, and omitting newlines for lines ending with '%>'
-    template = ERB.new(template_xml, nil, '>')
+    template = ERB.new(template_xml, trim_mode: '>')
 
     # ERB.result() actually computes the template. This just passes the top level binding.
     descriptive_metadata_xml = template.result(binding)
