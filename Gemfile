@@ -24,6 +24,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'coveralls', require: false
   gem 'equivalent-xml', '>= 0.6.0' # For ignoring_attr_values() with arguments
+  gem 'rspec_junit_formatter' # For CircleCI
   gem 'rspec-rails', '~> 3.5'
 end
 
