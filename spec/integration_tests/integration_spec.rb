@@ -29,12 +29,13 @@ RSpec.describe Modsulator do
       'origin-info-update.xlsx' => 'origin-info-update.xml',
       'relatedItem_otherType.xlsx' => 'relatedItem_otherType.xml'
     }.each do |testfile, results_file|
-      generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows
+      generated_xml_string = described_class.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows
 
       it "converts #{testfile} to valid XML" do
         error_list = Validator.new(Rails.root.join('app', 'services', 'modsulator.xsd')).validate_xml_string(generated_xml_string)
         expect(error_list.length).to eq(0)
       end
+
       it "generates same XML from #{testfile} as previous modsulator version" do
         generated_xml = Nokogiri::XML(generated_xml_string)
         expected_xml = Nokogiri::XML(File.read(File.join(FIXTURES_DIR, results_file)))

@@ -4,13 +4,13 @@ require 'rails_helper'
 
 RSpec.describe ModsulatorSheet do
   describe '#rows' do
-    subject { ModsulatorSheet.new File.join(FIXTURES_DIR, 'test_002.csv'), 'test_002.csv' }
+    subject { described_class.new File.join(FIXTURES_DIR, 'test_002.csv'), 'test_002.csv' }
 
-    it 'should use the right header row' do
+    it 'uses the right header row' do
       expect(subject.headers).to include 'druid', 'sourceId'
     end
 
-    it 'should present each row as a hash' do
+    it 'presents each row as a hash' do
       row = subject.rows.first
       expect(row['druid']).to be_nil
       expect(row['sourceId']).to eq 'test:002'
