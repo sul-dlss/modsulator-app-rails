@@ -26,6 +26,3 @@ RSpec::Core::RakeTask.new(:spec) do |t|
   # The modsulator integration_tests are very slow
   t.exclude_pattern = 'spec/integration_tests/*_spec.rb'
 end
-
-# This gives us task for managing the gem (e.g.: rake release)
-Bundler::GemHelper.install_tasks

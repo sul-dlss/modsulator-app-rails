@@ -16,7 +16,7 @@ class Modsulator
 
   # The reason for requiring both a file and filename is that within the API that is one of the users of this class,
   # the file and filename exist separately.
-  # Note that if neither :template_file nor :template_string are specified, the gem's built-in XML template is used.
+  # Note that if neither :template_file nor :template_string are specified, the built-in XML template is used.
   # @param [File]   file                       Input spreadsheet file.
   # @param [String] filename                   The filename for the input spreadsheet.
   # @param [Hash]   options
@@ -170,7 +170,7 @@ class Modsulator
   end
 
   class << self
-    # Returns the template spreadsheet that's built into this gem.
+    # Returns the template spreadsheet that's built into this code.
     #
     # @return [String] The template spreadsheet, in binary form.
     def template_spreadsheet
