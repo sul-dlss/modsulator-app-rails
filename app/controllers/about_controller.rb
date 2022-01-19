@@ -2,7 +2,7 @@
 
 class AboutController < ApplicationController
   def index
-    @version ||= IO.readlines('VERSION').first
+    @version ||= File.readlines('VERSION').first
     render plain: "modsulator-api version #{@version}"
   end
 end

@@ -174,7 +174,7 @@ class Modsulator
     #
     # @return [String] The template spreadsheet, in binary form.
     def template_spreadsheet
-      IO.read(File.expand_path('modsulator/modsulator_template.xlsx', __dir__), mode: 'rb')
+      File.read(File.expand_path('modsulator/modsulator_template.xlsx', __dir__), mode: 'rb')
     end
     deprecation_deprecate :template_spreadsheet
 
