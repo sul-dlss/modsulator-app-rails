@@ -9,6 +9,7 @@ end
 
 gem 'deprecation'
 gem 'honeybadger'
+gem 'okcomputer'
 gem 'puma', '~> 5.3' # the app server
 gem 'rails', '~> 6.1.0'
 # Parse spreadsheet uploads with roo
