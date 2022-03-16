@@ -148,6 +148,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.13.3-x86_64-linux)
       racc (~> 1.4)
+    okcomputer (1.18.4)
     parallel (1.21.0)
     parser (3.1.1.0)
       ast (~> 2.4.1)
@@ -278,6 +279,7 @@ DEPENDENCIES
   equivalent-xml (>= 0.6.0)
   honeybadger
   listen (~> 3.0.5)
+  okcomputer
   puma (~> 5.3)
   rails (~> 6.1.0)
   roo!
