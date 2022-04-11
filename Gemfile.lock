@@ -1,12 +1,3 @@
-GIT
-  remote: https://github.com/roo-rb/roo.git
-  revision: 868d4ea419cf393c9d8832838d96c82e47116d2f
-  ref: 868d4ea419cf393c9d8832838d96c82e47116d2f
-  specs:
-    roo (2.8.3)
-      nokogiri (~> 1)
-      rubyzip (>= 1.3.0, < 3.0.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -191,6 +182,9 @@ GEM
       ffi (~> 1.0)
     regexp_parser (2.3.0)
     rexml (3.2.5)
+    roo (2.9.0)
+      nokogiri (~> 1)
+      rubyzip (>= 1.3.0, < 3.0.0)
     rspec-core (3.9.3)
       rspec-support (~> 3.9.3)
     rspec-expectations (3.9.4)
@@ -282,7 +276,7 @@ DEPENDENCIES
   okcomputer
   puma (~> 5.3)
   rails (~> 6.1.0)
-  roo!
+  roo (~> 2.9)
   rspec-rails (~> 3.5)
   rspec_junit_formatter
   rubocop (~> 1.24)
