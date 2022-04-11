@@ -13,8 +13,7 @@ gem 'okcomputer'
 gem 'puma', '~> 5.3' # the app server
 gem 'rails', '~> 6.1.0'
 # Parse spreadsheet uploads with roo
-# Pin roo dependency to a thus far unreleased commit that brings Ruby 3 compatibility
-gem 'roo', github: 'roo-rb/roo', ref: '868d4ea419cf393c9d8832838d96c82e47116d2f' # '>= 2.7.1'
+gem 'roo', '~> 2.9'
 gem 'stanford-mods-normalizer'
 
 # Reduces boot times through caching; required in config/boot.rb
