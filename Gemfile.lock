@@ -1,3 +1,15 @@
+GIT
+  remote: https://github.com/sul-dlss/dlss-capistrano.git
+  revision: 6104bb256d4f5881db73259be11449bd69eb5a13
+  branch: ruby-version-reporting
+  specs:
+    dlss-capistrano (4.1.1)
+      capistrano (~> 3.0)
+      capistrano-bundle_audit (>= 0.3.0)
+      capistrano-one_time_key
+      capistrano-rvm
+      capistrano-shared_configs
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -88,6 +100,9 @@ GEM
     capistrano-rails (1.6.2)
       capistrano (~> 3.1)
       capistrano-bundler (>= 1.1, < 3)
+    capistrano-rvm (0.1.2)
+      capistrano (~> 3.0)
+      sshkit (~> 1.2)
     capistrano-shared_configs (0.2.2)
     concurrent-ruby (1.1.10)
     coveralls (0.8.23)
@@ -100,11 +115,6 @@ GEM
     deprecation (1.1.0)
       activesupport
     diff-lcs (1.5.0)
-    dlss-capistrano (4.1.1)
-      capistrano (~> 3.0)
-      capistrano-bundle_audit (>= 0.3.0)
-      capistrano-one_time_key
-      capistrano-shared_configs
     docile (1.4.0)
     equivalent-xml (0.6.0)
       nokogiri (>= 1.4.3)
@@ -269,7 +279,7 @@ DEPENDENCIES
   capistrano-rails
   coveralls
   deprecation
-  dlss-capistrano
+  dlss-capistrano!
   equivalent-xml (>= 0.6.0)
   honeybadger
   listen (~> 3.0.5)
@@ -285,6 +295,9 @@ DEPENDENCIES
   spring
   spring-watcher-listen (~> 2.0.0)
   stanford-mods-normalizer
+
+RUBY VERSION
+   ruby 3.0.3p157
 
 BUNDLED WITH
    2.3.4

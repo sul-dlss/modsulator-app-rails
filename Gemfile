@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+ruby '3.0.3'
+
 git_source(:github) do |repo_name|
   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?('/')
   "https://github.com/#{repo_name}.git"
@@ -42,5 +44,5 @@ end
 group :deploy do
   gem 'capistrano-passenger'
   gem 'capistrano-rails'
-  gem 'dlss-capistrano'
+  gem 'dlss-capistrano', github: 'sul-dlss/dlss-capistrano', branch: 'ruby-version-reporting'
 end
