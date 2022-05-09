@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/sul-dlss/dlss-capistrano.git
-  revision: 6104bb256d4f5881db73259be11449bd69eb5a13
+  revision: bf053625cf8619cd55da826c12a7a8b73028bef5
   branch: ruby-version-reporting
   specs:
     dlss-capistrano (4.1.1)
@@ -297,7 +297,7 @@ DEPENDENCIES
   stanford-mods-normalizer
 
 RUBY VERSION
-   ruby 3.0.3p157
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.3.4
