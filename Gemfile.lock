@@ -116,16 +116,12 @@ GEM
     equivalent-xml (0.6.0)
       nokogiri (>= 1.4.3)
     erubi (1.10.0)
-    ffi (1.15.5)
     globalid (1.0.0)
       activesupport (>= 5.0)
     honeybadger (4.12.1)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     json (2.6.2)
-    listen (3.0.8)
-      rb-fsevent (~> 0.9, >= 0.9.4)
-      rb-inotify (~> 0.9, >= 0.9.7)
     loofah (2.18.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -198,9 +194,6 @@ GEM
       zeitwerk (~> 2.5)
     rainbow (3.1.1)
     rake (13.0.6)
-    rb-fsevent (0.11.1)
-    rb-inotify (0.10.1)
-      ffi (~> 1.0)
     regexp_parser (2.5.0)
     rexml (3.2.5)
     roo (2.9.0)
@@ -250,10 +243,6 @@ GEM
       json (>= 1.8, < 3)
       simplecov-html (~> 0.10.0)
     simplecov-html (0.10.2)
-    spring (2.1.1)
-    spring-watcher-listen (2.0.1)
-      listen (>= 2.7, < 4.0)
-      spring (>= 1.2, < 3.0)
     sshkit (1.21.2)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
@@ -289,7 +278,6 @@ DEPENDENCIES
   dlss-capistrano
   equivalent-xml (>= 0.6.0)
   honeybadger
-  listen (~> 3.0.5)
   okcomputer
   puma (~> 5.3)
   rails (~> 7.0.0)
@@ -299,8 +287,6 @@ DEPENDENCIES
   rubocop (~> 1.24)
   rubocop-rails
   rubocop-rspec
-  spring
-  spring-watcher-listen (~> 2.0.0)
   stanford-mods-normalizer
 
 BUNDLED WITH
