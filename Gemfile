@@ -23,13 +23,13 @@ gem 'bootsnap', '>= 1.1.0', require: false
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
-  gem 'coveralls', require: false
   gem 'equivalent-xml', '>= 0.6.0' # For ignoring_attr_values() with arguments
   gem 'rspec_junit_formatter' # For CircleCI
   gem 'rspec-rails', '~> 5.1'
   gem 'rubocop', '~> 1.24'
   gem 'rubocop-rails'
   gem 'rubocop-rspec'
+  gem 'simplecov'
 end
 
 group :deploy do
