@@ -7,11 +7,12 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+gem 'rails', '~> 7.0.0'
+
 gem 'deprecation'
 gem 'honeybadger'
 gem 'okcomputer'
 gem 'puma', '~> 5.3' # the app server
-gem 'rails', '~> 6.1.0'
 # Parse spreadsheet uploads with roo
 gem 'roo', '~> 2.9'
 gem 'stanford-mods-normalizer'
