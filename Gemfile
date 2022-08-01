@@ -7,11 +7,12 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+gem 'rails', '~> 7.0.0'
+
 gem 'deprecation'
 gem 'honeybadger'
 gem 'okcomputer'
 gem 'puma', '~> 5.3' # the app server
-gem 'rails', '~> 6.1.0'
 # Parse spreadsheet uploads with roo
 gem 'roo', '~> 2.9'
 gem 'stanford-mods-normalizer'
@@ -26,17 +27,9 @@ group :development, :test do
   gem 'equivalent-xml', '>= 0.6.0' # For ignoring_attr_values() with arguments
   gem 'rspec_junit_formatter' # For CircleCI
   gem 'rspec-rails', '~> 5.1'
-end
-
-group :development do
-  # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
-  gem 'listen', '~> 3.0.5'
   gem 'rubocop', '~> 1.24'
   gem 'rubocop-rails'
   gem 'rubocop-rspec'
-  # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
-  gem 'spring'
-  gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
 group :deploy do
