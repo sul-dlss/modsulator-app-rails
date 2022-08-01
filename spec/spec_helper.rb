@@ -21,8 +21,6 @@
 
 FIXTURES_DIR = File.expand_path('fixtures', __dir__)
 
-require 'coveralls'
-Coveralls.wear!('rails')
 require 'equivalent-xml/rspec_matchers'
 
 RSpec.configure do |config|
