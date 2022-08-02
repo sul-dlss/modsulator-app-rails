@@ -9,7 +9,6 @@ end
 
 gem 'rails', '~> 7.0.0'
 
-gem 'deprecation'
 gem 'honeybadger'
 gem 'okcomputer'
 gem 'puma', '~> 5.3' # the app server

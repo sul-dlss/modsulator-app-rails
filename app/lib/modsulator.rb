@@ -6,9 +6,6 @@
 # The main class for the MODSulator API, which lets you work with metadata spreadsheets and MODS XML.
 # @see https://consul.stanford.edu/display/chimera/MODS+bulk+loading Requirements (Stanford Consul page)
 class Modsulator
-  extend Deprecation
-  self.deprecation_horizon = 'modsulator version 2.0.0'
-
   # We define our own namespace for <xmlDocs>
   NAMESPACE = 'http://library.stanford.edu/xmlDocs'
 
@@ -170,18 +167,8 @@ class Modsulator
   end
 
   class << self
-    # Returns the template spreadsheet that's built into this code.
-    #
-    # @return [String] The template spreadsheet, in binary form.
-    def template_spreadsheet
-      File.read(File.expand_path('modsulator/modsulator_template.xlsx', __dir__), mode: 'rb')
-    end
-    deprecation_deprecate :template_spreadsheet
-
     # This can be used by modsulator-rails-app so we can do:
     #   send_file Modsulator.template_spreadsheet_path
-    # which is more memory efficient than:
-    #   render body: Modsulator.template_spreadsheet
     # @return [String] the path to the spreadsheet template.
     def template_spreadsheet_path
       File.expand_path('modsulator/modsulator_template.xlsx', __dir__)
