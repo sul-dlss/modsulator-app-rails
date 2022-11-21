@@ -3,7 +3,7 @@
 require 'spec_helper'
 require 'rails_helper'
 
-RSpec.describe ModsulatorController, type: :controller do
+RSpec.describe ModsulatorController do
   describe 'GET #version' do
     it 'returns http success' do
       get :version

@@ -2,7 +2,7 @@
 
 require 'rails_helper'
 
-RSpec.describe NormalizerController, type: :controller do
+RSpec.describe NormalizerController do
   describe 'POST #create' do
     it 'returns the response with an xml content type' do
       post :create, params: { file: Rack::Test::UploadedFile.new(File.join(FIXTURES_DIR, 'denormalized.xml')) }
