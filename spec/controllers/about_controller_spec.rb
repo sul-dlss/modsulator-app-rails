@@ -3,7 +3,7 @@
 require 'spec_helper'
 require 'rails_helper'
 
-RSpec.describe AboutController, type: :controller do
+RSpec.describe AboutController do
   describe 'GET #index' do
     it 'handles simple ping requests to /about' do
       get :index
