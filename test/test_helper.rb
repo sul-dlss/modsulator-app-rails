@@ -5,7 +5,7 @@ require File.expand_path('../config/environment', __dir__)
 require 'rails/test_help'
 
 module ActiveSupport
-  class TestCase
+  class TestCase # rubocop:disable Style/Documentation
     # Setup all fixtures in test/fixtures/*.yml for all tests in alphabetical order.
     fixtures :all
 
