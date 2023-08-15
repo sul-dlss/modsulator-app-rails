@@ -82,7 +82,7 @@ class Modsulator
   # @return [String]    The given string, with a single newline character substituted for line break tags and two consecutive
   #                     newline characters substituted for paragraph tags.
   def transform_whitespace_markup(str)
-    str.gsub(%r{<br/>}, '\n').gsub(/<br>/, '\n').gsub(/<p>/, '\n\n').gsub(%r{<p/>}, '\n\n')
+    str.gsub(%r{<br/>}, '\n').gsub('<br>', '\n').gsub('<p>', '\n\n').gsub(%r{<p/>}, '\n\n')
   end
 
   # Generates an XML string for a given row in a spreadsheet.
