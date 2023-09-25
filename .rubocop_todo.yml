@@ -63,8 +63,8 @@ RSpec/RepeatedExample:
 # Include: **/*_spec.rb
 RSpec/SpecFilePathFormat:
   Exclude:
-    - 'spec/features/process_template_spec.rb'
-    - 'spec/integration_tests/integration_spec.rb'
+    - 'spec/features/modsulator_process_template_spec.rb'
+    - 'spec/integration_tests/modsulator_integration_spec.rb'
 
 # Offense count: 2
 # This cop supports safe autocorrection (--autocorrect).
@@ -73,7 +73,7 @@ RSpec/SpecFilePathFormat:
 Rails/FilePath:
   Exclude:
     - 'spec/features/validator_unit_spec.rb'
-    - 'spec/integration_tests/integration_spec.rb'
+    - 'spec/integration_tests/modsulator_integration_spec.rb'
 
 # Offense count: 1
 # This cop supports unsafe autocorrection (--autocorrect-all).
@@ -111,7 +111,7 @@ Layout/LineLength:
     - 'app/models/modsulator_sheet.rb'
     - 'app/services/validator.rb'
     - 'spec/controllers/modsulator_controller_spec.rb'
-    - 'spec/features/process_template_spec.rb'
+    - 'spec/features/modsulator_process_template_spec.rb'
     - 'spec/features/validator_unit_spec.rb'
-    - 'spec/integration_tests/integration_spec.rb'
+    - 'spec/integration_tests/modsulator_integration_spec.rb'
     - 'spec/lib/modsulator_spec.rb'
