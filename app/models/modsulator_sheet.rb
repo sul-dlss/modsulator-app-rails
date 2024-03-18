@@ -36,7 +36,7 @@ class ModsulatorSheet
   # @return [Roo::CSV, Roo::Excel, Roo::Excelx]   A Roo object, whose type depends on the extension of the given filename.
   def spreadsheet
     @spreadsheet ||= case File.extname(@filename)
-                     when '.csv' then Roo::Spreadsheet.open(@file, extension: :csv)
+                     when '.csv' then Roo::Spreadsheet.open(@file, { extension: :csv, csv_options: { encoding: 'bom|utf-8' } })
                      when '.xls' then Roo::Spreadsheet.open(@file, extension: :xls)
                      when '.xlsx' then Roo::Spreadsheet.open(@file, extension: :xlsx)
                      else raise "Unknown file type: #{@filename}"
