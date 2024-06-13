@@ -1,6 +1,7 @@
 require:
-  - 'rubocop-rspec'
   - 'rubocop-rails'
+  - 'rubocop-rspec'
+  - 'rubocop-rspec_rails'
 
 inherit_from: .rubocop_todo.yml
 
@@ -174,7 +175,7 @@ RSpec/SubjectDeclaration: # new in 2.5
   Enabled: true
 FactoryBot/SyntaxMethods: # new in 2.7
   Enabled: true
-RSpec/Rails/AvoidSetupHook: # new in 2.4
+RSpecRails/AvoidSetupHook: # new in 2.4
   Enabled: true
 Rails/ActiveRecordCallbacksOrder: # new in 2.7
   Enabled: true
@@ -279,7 +280,7 @@ Capybara/SpecificFinders: # new in 2.13
   Enabled: true
 Capybara/SpecificMatcher: # new in 2.12
   Enabled: true
-RSpec/Rails/HaveHttpStatus: # new in 2.12
+RSpecRails/HaveHttpStatus: # new in 2.12
   Enabled: true
 Rails/ActionControllerFlashBeforeRender: # new in 2.16
   Enabled: true
@@ -336,7 +337,7 @@ Capybara/SpecificActions: # new in 2.14
   Enabled: true
 FactoryBot/ConsistentParenthesesStyle: # new in 2.14
   Enabled: true
-RSpec/Rails/InferredSpecType: # new in 2.14
+RSpecRails/InferredSpecType: # new in 2.14
   Enabled: true
 Rails/ActionOrder: # new in 2.17
   Enabled: true
@@ -412,9 +413,9 @@ RSpec/RedundantAround: # new in 2.19
   Enabled: true
 RSpec/SkipBlockInsideExample: # new in 2.19
   Enabled: true
-RSpec/Rails/MinitestAssertions: # new in 2.17
+RSpecRails/MinitestAssertions: # new in 2.17
   Enabled: true
-RSpec/Rails/TravelAround: # new in 2.19
+RSpecRails/TravelAround: # new in 2.19
   Enabled: true
 Rails/ResponseParsedBody: # new in 2.18
   Enabled: true
@@ -435,7 +436,7 @@ Style/YAMLFileRead: # new in 1.53
   Enabled: true
 RSpec/ReceiveMessages: # new in 2.23
   Enabled: true
-RSpec/Rails/NegationBeValid: # new in 2.23
+RSpecRails/NegationBeValid: # new in 2.23
   Enabled: true
 
 RSpec/EmptyMetadata: # new in 2.24
@@ -487,4 +488,18 @@ RSpec/RemoveConst: # new in 2.26
 RSpec/RepeatedSubjectCall: # new in 2.27
   Enabled: true
 Rails/EnvLocal: # new in 2.22
+  Enabled: true
+Style/MapIntoArray: # new in 1.63
+  Enabled: true
+Style/SendWithLiteralMethodName: # new in 1.64
+  Enabled: true
+Style/SuperArguments: # new in 1.64
+  Enabled: true
+RSpec/EmptyOutput: # new in 2.29
+  Enabled: true
+RSpec/ExpectInLet: # new in 2.30
+  Enabled: true
+RSpec/UndescriptiveLiteralsDescription: # new in 2.29
+  Enabled: true
+Rails/WhereRange: # new in 2.25
   Enabled: true
