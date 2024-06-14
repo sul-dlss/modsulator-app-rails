@@ -7,17 +7,14 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'rails', '~> 7.0.0'
-
+gem 'bootsnap', '>= 1.1.0', require: false # Reduces boot times through caching; required in config/boot.rb
 gem 'honeybadger'
+gem 'irb'
 gem 'okcomputer'
 gem 'puma', '~> 5.3' # the app server
-# Parse spreadsheet uploads with roo
-gem 'roo', '~> 2.9'
+gem 'rails', '~> 7.0.0'
+gem 'roo', '~> 2.9' # Parse spreadsheet uploads with roo
 gem 'stanford-mods-normalizer'
-
-# Reduces boot times through caching; required in config/boot.rb
-gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
