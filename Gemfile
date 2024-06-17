@@ -23,8 +23,11 @@ group :development, :test do
   gem 'rspec_junit_formatter' # For CircleCI
   gem 'rspec-rails', '~> 5.1'
   gem 'rubocop', '~> 1.24'
+  gem 'rubocop-capybara'
+  gem 'rubocop-factory_bot'
   gem 'rubocop-rails'
   gem 'rubocop-rspec'
+  gem 'rubocop-rspec_rails'
   gem 'simplecov'
 end
 
