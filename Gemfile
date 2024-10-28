@@ -11,8 +11,8 @@ gem 'bootsnap', '>= 1.1.0', require: false # Reduces boot times through caching;
 gem 'honeybadger'
 gem 'irb'
 gem 'okcomputer'
-gem 'puma', '~> 5.3' # the app server
-gem 'rails', '~> 7.0.0'
+gem 'puma'
+gem 'rails', '~> 7.2.0'
 gem 'roo', '~> 2.9' # Parse spreadsheet uploads with roo
 gem 'stanford-mods-normalizer'
 
