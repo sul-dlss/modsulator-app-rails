@@ -36,3 +36,5 @@ group :deploy do
   gem 'capistrano-rails'
   gem 'dlss-capistrano'
 end
+
+gem 'csv', '~> 3.3'
