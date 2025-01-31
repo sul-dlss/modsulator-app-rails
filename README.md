@@ -1,13 +1,12 @@
 [![CircleCI](https://circleci.com/gh/sul-dlss/modsulator-app-rails.svg?style=svg)](https://circleci.com/gh/sul-dlss/modsulator-app-rails)
-[![Code Climate](https://codeclimate.com/github/sul-dlss/modsulator-app-rails/badges/gpa.svg)](https://codeclimate.com/github/sul-dlss/modsulator-app-rails)
-[![Code Climate Test Coverage](https://codeclimate.com/github/sul-dlss/modsulator-app-rails/badges/coverage.svg)](https://codeclimate.com/github/sul-dlss/)
+[![codecov](https://codecov.io/github/sul-dlss/modsulator-app-rails/graph/badge.svg?token=PiAtNDF03e)](https://codecov.io/github/sul-dlss/modsulator-app-rails)
 [![GitHub version](https://badge.fury.io/gh/sul-dlss%2Fmodsulator-app-rails.svg)](https://badge.fury.io/gh/sul-dlss%2Fmodsulator-app-rails)
 
 # modsulator-app-rails
 
 This includes the `modsulator` CLI utility.
 
-It also has a Rails API that exposes this functionality as a web service. This API is used by Argo for spreadsheet bulk upload.  
+It also has a Rails API that exposes this functionality as a web service. This API is used by Argo for spreadsheet bulk upload.
 
 Users sometimes call this "replayable spreadsheets."
 
