@@ -340,7 +340,7 @@ DEPENDENCIES
   irb
   okcomputer
   puma
-  rails (~> 8.0)
+  rails (~> 8.0.0)
   roo (~> 2.9)
   rspec-rails (~> 5.1)
   rspec_junit_formatter
