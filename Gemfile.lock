@@ -169,10 +169,10 @@ GEM
       net-protocol
     net-ssh (7.3.0)
     nio4r (2.7.4)
-    nokogiri (1.18.9)
+    nokogiri (1.18.10)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    nokogiri (1.18.9-x86_64-linux-gnu)
+    nokogiri (1.18.10-x86_64-linux-gnu)
       racc (~> 1.4)
     okcomputer (1.19.0)
     ostruct (0.6.3)
@@ -183,11 +183,11 @@ GEM
     pp (0.6.2)
       prettyprint
     prettyprint (0.2.0)
-    prism (1.4.0)
+    prism (1.5.1)
     psych (5.2.6)
       date
       stringio
-    puma (7.0.1)
+    puma (7.0.3)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.2.1)
@@ -232,7 +232,7 @@ GEM
     rdoc (6.14.2)
       erb
       psych (>= 4.0.0)
-    regexp_parser (2.11.2)
+    regexp_parser (2.11.3)
     reline (0.6.2)
       io-console (~> 0.5)
     roo (2.10.1)
@@ -313,9 +313,9 @@ GEM
     timeout (0.4.3)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    unicode-display_width (3.1.5)
-      unicode-emoji (~> 4.0, >= 4.0.4)
-    unicode-emoji (4.0.4)
+    unicode-display_width (3.2.0)
+      unicode-emoji (~> 4.1)
+    unicode-emoji (4.1.0)
     uri (1.0.3)
     useragent (0.16.11)
     websocket-driver (0.8.0)
@@ -354,4 +354,4 @@ DEPENDENCIES
   stanford-mods-normalizer
 
 BUNDLED WITH
-   2.7.1
+   2.7.2
