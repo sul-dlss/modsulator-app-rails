@@ -14,7 +14,6 @@ gem 'okcomputer'
 gem 'puma'
 gem 'rails', '~> 8.0.0'
 gem 'roo', '~> 2.9' # Parse spreadsheet uploads with roo
-gem 'stanford-mods-normalizer'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

@@ -315,8 +315,6 @@ GEM
       net-sftp (>= 2.1.2)
       net-ssh (>= 2.8.0)
       ostruct
-    stanford-mods-normalizer (0.1.0)
-      nokogiri (~> 1.8)
     stringio (3.2.0)
     thor (1.5.0)
     timeout (0.6.1)
@@ -361,7 +359,6 @@ DEPENDENCIES
   rubocop-rspec
   rubocop-rspec_rails
   simplecov
-  stanford-mods-normalizer
 
 BUNDLED WITH
   4.0.8
