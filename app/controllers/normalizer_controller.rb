@@ -2,7 +2,7 @@
 
 class NormalizerController < ApplicationController
   def create
-    input_file = File.open(File.new(params[:file].tempfile))
+    input_file = File.open(File.new(params.expect(:file).tempfile))
     xml = input_file.read
     input_file.close
     normalizer = Stanford::Mods::Normalizer.new
