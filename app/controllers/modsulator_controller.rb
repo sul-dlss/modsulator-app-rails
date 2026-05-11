@@ -2,7 +2,7 @@
 
 class ModsulatorController < ApplicationController
   def create
-    mods_converter = Modsulator.new(File.new(params[:file].tempfile), params[:filename])
+    mods_converter = Modsulator.new(File.new(params.expect(:file).tempfile), params[:filename])
     render xml: mods_converter.convert_rows
   end
 
