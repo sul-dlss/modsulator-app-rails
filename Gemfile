@@ -16,6 +16,8 @@ gem 'rails', '~> 8.0.0'
 gem 'roo', '~> 2.9' # Parse spreadsheet uploads with roo
 
 group :development, :test do
+  # Security audit for known security defects in code (use config/brakeman.ignore to ignore issues)
+  gem 'brakeman', require: false
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
   gem 'equivalent-xml', '>= 0.6.0' # For ignoring_attr_values() with arguments
