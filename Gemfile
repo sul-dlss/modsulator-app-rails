@@ -12,7 +12,7 @@ gem 'honeybadger'
 gem 'irb'
 gem 'okcomputer'
 gem 'puma'
-gem 'rails', '~> 8.0.0'
+gem 'rails', '~> 8.1.0'
 gem 'roo', '~> 2.9' # Parse spreadsheet uploads with roo
 
 group :development, :test do
