@@ -22,6 +22,8 @@ POST /v1/normalizer
 
 ## Installing
 
+Use Ruby 4.0.7 for development and testing.
+
 ```shell
 git checkout https://github.com/sul-dlss/modsulator-app-rails.git
 cd modsulator-rails-app
