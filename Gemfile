@@ -7,23 +7,24 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'bootsnap', '>= 1.1.0', require: false # Reduces boot times through caching; required in config/boot.rb
+gem 'bootsnap', require: false # Reduces boot times through caching; required in config/boot.rb
+gem 'csv'
 gem 'honeybadger'
 gem 'irb'
 gem 'okcomputer'
 gem 'puma'
 gem 'rails', '~> 8.1.0'
-gem 'roo', '~> 2.9' # Parse spreadsheet uploads with roo
+gem 'roo' # Parse spreadsheet uploads with roo
 
 group :development, :test do
   # Security audit for known security defects in code (use config/brakeman.ignore to ignore issues)
   gem 'brakeman', require: false
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
-  gem 'equivalent-xml', '>= 0.6.0' # For ignoring_attr_values() with arguments
+  gem 'equivalent-xml' # For ignoring_attr_values() with arguments
   gem 'rspec_junit_formatter' # For CircleCI
-  gem 'rspec-rails', '~> 5.1'
-  gem 'rubocop', '~> 1.24'
+  gem 'rspec-rails'
+  gem 'rubocop'
   gem 'rubocop-capybara'
   gem 'rubocop-factory_bot'
   gem 'rubocop-rails'
@@ -37,5 +38,3 @@ group :deploy do
   gem 'capistrano-rails'
   gem 'dlss-capistrano'
 end
-
-gem 'csv', '~> 3.3'

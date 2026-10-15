@@ -3,7 +3,7 @@
 module Stanford
   module Mods
     # Provides methods to normalize MODS XML according to the Stanford guidelines
-    # rubocop:disable Metrics/ClassLength
+    # rubocop:disable-next Metrics/ClassLength
     class Normalizer
       require 'nokogiri'
 
@@ -37,7 +37,7 @@ module Stanford
       # @param  [Nokogiri::XML::Element] node An XML node.
       # @return [Boolean] true if the node contains any of the
       #   exceptional attributes, false otherwise.
-      # rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity, Metrics/MethodLength
+      # rubocop:disable-next Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity, Metrics/MethodLength
       def exceptional?(node)
         return false if node.nil?
 
@@ -57,7 +57,6 @@ module Stanford
         end
         false
       end
-      # rubocop:enable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity, Metrics/MethodLength
 
       # Recursive helper method for {Normalizer#clean_linefeeds} to do string substitution.
       #
@@ -65,7 +64,7 @@ module Stanford
       # @return [String] A string composed of the entire contents
       #   of the given node, with substitutions made as described
       #   for {#clean_linefeeds}.
-      # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
+      # rubocop:disable-next Metrics/AbcSize, Metrics/MethodLength
       def substitute_linefeeds(node)
         new_text = ''
 
@@ -89,7 +88,6 @@ module Stanford
         end
         new_text
       end
-      # rubocop:enable Metrics/AbcSize, Metrics/MethodLength
 
       # Given the root of an XML document, replaces linefeed
       # characters inside <tableOfContents>, <abstract> and
@@ -244,6 +242,5 @@ module Stanford
         doc.to_s
       end
     end
-    # rubocop:enable Metrics/ClassLength
   end
 end
