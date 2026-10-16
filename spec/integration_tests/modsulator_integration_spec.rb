@@ -29,7 +29,7 @@ RSpec.describe Modsulator do
       'origin-info-update.xlsx' => 'origin-info-update.xml',
       'relatedItem_otherType.xlsx' => 'relatedItem_otherType.xml'
     }.each do |testfile, results_file|
-      generated_xml_string = described_class.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows
+      generated_xml_string = described_class.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows # rubocop:disable RSpec/LeakyLocalVariable
 
       it "converts #{testfile} to valid XML" do
         error_list = Validator.new(Rails.root.join('app', 'services', 'modsulator.xsd')).validate_xml_string(generated_xml_string)
